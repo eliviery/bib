@@ -1,0 +1,17 @@
+{
+  "name": "bible",
+  "version": "1.0.0",
+  "description": "Holy Bible Development",
+  "main": "learningnode.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express3-handlebars": "^0.5.2",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node learningnode.js"
+  },
+  "author": "Elivelton Vieira",
+  "license": "ISC"
+}
