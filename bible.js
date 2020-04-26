@@ -12,24 +12,30 @@
 /** @var handlebars seting up HandleBars View Engine
   * @author Eric Ferraiuolo's
 */
-
+ var handlebars = require('express3-handlebars').create({defaultLayout: 'main'});
+ app.engine('handlebars', handlebars.engine);
+ app.set('view engine', 'handlebars');
 
  app.set('port', process.env.PORT || 3000);
 
+ app.use(express.static(__dirname + '/public'));
+
  //routes
  app.get('/', function(request, response){
-     response.type('text/plain');
-     response.send('Bible');
+     response.render('home');
  });
  app.get('/about', function(request, response){
-     response.type('text/plain');
-     response.send('About Bible');
+     response.render('about');
  });
- //Custom 404 page
+ // 404 catch-all handler (middleware)
  app.use(function(request, response, next){
-     response.type('text/plain');
      response.status(404);
-     response.send('404 - Not Found');
+     response.render('404');
+ });
+ // 500 error handler (middleware)
+ app.use(function(err, request, response, next){
+     response.status(500);
+     response.render('500');
  });
 app.listen(app.get('port'), function(){
     console.log('Express started on http://localhost:' + app.get('port') + '; press Ctrl-C to Exit.');
