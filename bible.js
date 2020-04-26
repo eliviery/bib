@@ -21,21 +21,21 @@
 
  //routes
  app.get('/', function(request, response){
-     response.render('home', { scripts: scripts.getCollection() });
+	 response.render('home', { scripts: scripts.getCollection() });
  });
  app.get('/about', function(request, response){
-     response.render('about');
+	 response.render('about');
  });
  // 404 catch-all handler (middleware)
  app.use(function(request, response, next){
-     response.status(404);
-     response.render('404');
+	 response.status(404);
+	 response.render('404');
  });
  // 500 error handler (middleware)
  app.use(function(err, request, response, next){
-     response.status(500);
-     response.render('500');
+	 response.status(500);
+	 response.render('500');
  });
 app.listen(app.get('port'), function(){
-    console.log('Express started on http://localhost:' + app.get('port') + '; press Ctrl-C to Exit.');
+	console.log('Express started on http://localhost:' + app.get('port') + '; press Ctrl-C to Exit.');
 });
