@@ -7,4 +7,5 @@
 * ```git status``` Check the status
 * ```git tag -a <tag-name> -m 'Tag Message'``` Gives a tag name to the current version
 * ```git commit -m 'Commit-Message resembling Tag-Message'``` Commit the current project
+* ```git push origin master``` Share the current project to GitHub
 * ```git log --pretty=oneline``` Lists all existing commits and its keylogs
