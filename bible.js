@@ -2,12 +2,11 @@
  * @description This project is based and developed referring to Meadowlark project by Ethan Brown at Web Development with Node and Express
  */
 
-/** @constant express seting up Express Server */
-
+/** @constant express seting up Express Server Module
+  * @constant app seting up Express Server Module Engine */
  const express = require('express');
-/** @constant app seting up Express Server Engine */
  const app = express();
-
+ const scripts = require('./lib/scripts');
 
 /** @var handlebars seting up HandleBars View Engine
   * @author Eric Ferraiuolo's
@@ -22,7 +21,7 @@
 
  //routes
  app.get('/', function(request, response){
-     response.render('home');
+     response.render('home', { scripts: scripts.getCollection() });
  });
  app.get('/about', function(request, response){
      response.render('about');

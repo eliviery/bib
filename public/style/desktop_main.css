@@ -1,0 +1,285 @@
+/**
+    Created on : 04/02/2017, 19:38:49
+    Author     : Elivelton Vieira   eliviery@gmail.com
+*/
+
+/*  [DEFAULT] * RGB-SCALES BOXES
+ *      BOX_MAIN_HEADER     30, 30, 30
+ *      BOX_MAIN_FRAME      20, 80, 15
+ *      BOX_CENTER_FRAME    30, 144,255
+ *      BOX_CENTER_HEAD     0,  144,0
+ *      BOX_CENTER_FOOT     30, 144,255
+ */
+@font-face{
+    font-family:'code-font';
+    src:local('cour.ttf'), url('fonts/courier/cour.ttf');
+    font-weight:url('fonts/courier/courbd.ttf');
+    font-style:normal
+}
+@font-face{
+    font-family:'banner-font';
+    src:local('arcon-rounded-regular.otf'), url('fonts/arcon/arcon-rounded-regular.otf');
+    font-style:normal
+}
+@font-face{
+    font-family:'menu-font';
+    src:local('arcon-regular.otf'), url('fonts/arcon/arcon-regular.otf');
+    font-style:normal
+}
+@font-face{
+    font-family:'impact-font';
+    src:local('impact.ttf'), url('fonts/impact/impact.ttf');
+    font-style:normal
+}
+
+
+@font-face{
+    font-family:Open Sans;
+    font-style:normal;
+    font-weight:300;
+    src:local("Open Sans Light"), local("OpenSans-Light"), url(fonts/opensans/open-sans-v13-latin-300.bc5457c1.woff2) format("woff2"), url(fonts/opensans/open-sans-v13-latin-300.0d0d7107.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:normal;
+    font-weight:400;
+    src:local("Open Sans"),local("OpenSans"),url(fonts/opensans/open-sans-v13-latin-regular.e64cab16.woff2) format("woff2"),url(fonts/opensans/open-sans-v13-latin-regular.ce659615.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:italic;
+    font-weight:400;
+    src:local("Open Sans Italic"),local("OpenSans-Italic"),url(fonts/opensans/open-sans-v13-latin-italic.2868c329.woff2) format("woff2"),url(fonts/opensans/open-sans-v13-latin-italic.8a81b690.woff) format("woff")
+}
+@font-face{
+    font-family:Open Sans;
+    font-style:normal;
+    font-weight:700;
+    src:local("Open Sans Bold"),local("OpenSans-Bold"),url(fonts/opensans/open-sans-v13-latin-700.73437ad4.woff2) format("woff2"),url(fonts/opensans/open-sans-v13-latin-700.72862e7c.woff) format("woff")
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Tela Principal */
+#main-frame{
+	margin: 0;
+	padding: 0;
+    width: 100%;
+    height:100%;
+    display: inline-block;
+    background-color: rgb(255, 255, 255);
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    position:fixed;
+}
+/* Cabeçalho da Tela Principal [header] */
+#header{
+    font-family:Open Sans;
+    font-weight: bold;
+    font-size:3em;
+    text-align:center;    
+    top:0;
+    right:0;
+    left:0;
+    height:140px;
+    width:100%;    
+    margin-bottom:2px;
+    position:absolute;
+    display:flex;    
+    background-color:rgb(0, 0, 0)
+}
+/* Centralização de parágrafo <p> no cabeçalho da Tela Principal */
+.main-title{
+    color:rgb(255, 255, 255);
+    margin: 0;
+    text-shadow: 2px 2px 0px #000000;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    cursor: none;
+    font-family: Open Sans;
+    transform: translate(-50%, -50%)
+}
+.navigating{
+    float: left
+}
+/* Tela Central */
+#box-center{
+    height: 763px;
+    width: 960px;
+    margin: 2px;
+    position:absolute;
+    background-color: #FFFFFF;
+    box-shadow: 0px 20px 140px #000000;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 0px;
+    /* Centralização Tela Central na Tela Principal */
+    top:140px;
+    left: 198px;
+    /*top:50%;
+    margin-top:-15%; /* Pega 50% da altura tela e sobe 1/4 do valor da sua própria altura (Para não topar no header) */
+    /*left:50%;
+    margin-left:-40%; /* Pega 50% da largura tela e anda metade do valor da largura no caso 130 */    
+    display: -webkit-flex; /* Safari */
+    -webkit-flex-direction: column; /* Safari 6.1+ */
+    display: flex;
+    flex-direction: column;
+    -webkit-align-items: center;
+    align-items: center;
+}
+/* Cabeçalho da Tela Central [center-header] */
+.center-header{
+    height: relative;
+    width: 100%;
+    background-color: #363b48;
+    display:inline-block;
+    color: whitesmoke;
+    -webkit-align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+.center-header > div{display: flex}
+.center-header > #row-0{margin-right: 0; left: 0; padding: 4px; position: relative; height: 24px}
+#row-0 > p{
+    margin: 0;
+    position: absolute;
+    font-family: Open Sans;
+    font-size: 16pt;
+    display: flex
+}
+
+/* Corpo da Tela Central [center-body] */
+.center-body{
+    width: 100%;
+    background-color: rgb(218, 218, 218);
+    display: inline-block;
+    justify-content: space-between;
+    overflow-y: auto;
+    flex: 1;
+    -webkit-align-items: center;
+    -webkit-justify-content: center;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: 8px
+}
+
+.center-body nav{
+    display: flex;
+    height: relative;
+    margin: 2px;
+    margin-right: 2px;
+    margin-left: 2px;
+    display: flex;
+    padding: 2px;
+}
+
+.center-body > nav p{
+    margin: 4px;
+    font-family:Verdana,sans-serif;;
+    font-size:8pt
+}
+.row > nav{
+    cursor:pointer;
+    height: 50px;
+    padding: 0;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #8B332C;
+    font-size:2em;
+}
+.row > nav > p{
+    font-family:Open Sans;
+    font-size: 24pt;
+    margin: 0
+}
+.dirty-smooke{background-color: rgb(180, 180, 180);}
+.clean-smooke{background-color: rgb(210,210,210);}
+
+/* Menu VT NT*/
+#box-left{top: 140px; margin:0;padding:0}
+#box-left .menu-drop{max-height: 80%;max-width: 196px;border-bottom-left-radius: 8px}
+.menu-drop{
+    top:140px;
+    margin:2px;
+    padding:0;
+    position: absolute;
+    float: left;
+    border:none
+}
+.menu-drop ul{list-style: none;}
+.menu-drop ul li{float: left}
+.li-div{
+	border-top: solid 5px #8B332C;
+    border-bottom-left-radius: 8px;
+	background-color: rgb(207, 207, 207);
+	display: none;
+	position: absolute;
+	height: 720px;
+    width: inherit;
+    overflow-y: auto;
+	left: 0;	
+}
+.li-div div{
+    /* divs dos nomes dos livros menu esquerdo */
+    border-left: solid 6px #8B332C;
+    width: 190px;
+}
+.li-div div:hover{border-left: solid 6px rgb(240, 240, 240);}
+.li-div div p{
+    font-family: menu-font;
+    font-size: 11pt;
+	margin-left: 10px;
+	color: #353535;
+    cursor: pointer;
+}
+.li-div div p:hover{text-shadow: 1px 1px 2px #444444 }
+.li-div div p:active{text-shadow: 0px 0px 4px #000000 }
+
+.li-label{
+    display: block;
+    height: 30px;
+    background-color: #363B48;
+    padding: 0;
+    font-family: Open Sans;
+    font-size: 16pt;
+    color:#fff;
+    cursor: pointer;
+    text-align: center;
+}
+.has{font-family: Verdana, Geneva, Tahoma, sans-serif;width: 36px;height: 36px;border-radius: 1.0;background-color: #8B332C;color:wheat}
+.menu-drop .li-radio {display:none;	position: absolute;}
+.menu-drop .li-radio:checked ~ label {background-color: #8B332C; color:#fff;}
+.li-radio:checked ~ .li-div{display: block;}
+
+/* Menu References */
+#box-right{width: max-content; float: right; margin:0;padding:0; margin-left: 1160px; display: flex; right: 0}
+#box-right .menu-drop{max-height: 80%;width: inherit;border-bottom-left-radius: none}
+#box-right .menu-drop ul li .li-div{
+    font-family: Open Sans;
+    font-size: 10pt;
+    width: 100%;
+    height: 320px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: none;
+}
+#box-right .menu-drop ul li .li-label{
+    display: block;
+    height: 24px;
+    padding: 0;
+    font-family: Open Sans;
+    font-size: 12pt;
+    color:#fff;
+    cursor: pointer;
+    text-align: center;
+}
+#box-right .menu-drop ul li .li-div p{padding: 10px}
+#book-chapter{
+    font-weight: bold
+}
+

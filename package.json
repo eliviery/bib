@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Holy Bible Development",
   "main": "bible.js",
-  "gitRepository":"git@github.com:eliviery/bib.git",
   "dependencies": {
     "express": "^4.17.1",
     "express3-handlebars": "^0.5.2",
