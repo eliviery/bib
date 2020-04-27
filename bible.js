@@ -3,10 +3,11 @@
  */
 
 /** @constant express seting up Express Server Module
-  * @constant app seting up Express Server Module Engine */
+  * @constant app seting up Express Server Module Engine
+  * @constant script seting up static temporary module */
  const express = require('express');
  const app = express();
- const scripts = require('./lib/scripts');
+ const script = require('./lib/script');
 
 /** @var handlebars seting up HandleBars View Engine
   * @author Eric Ferraiuolo's
@@ -21,7 +22,7 @@
 
  //routes
  app.get('/', function(request, response){
-	 response.render('home', { scripts: scripts.getCollection() });
+	 response.render('home', { script: script });
  });
  app.get('/about', function(request, response){
 	 response.render('about');
