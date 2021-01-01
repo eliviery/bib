@@ -1,5 +1,70 @@
 var booksOfBible = [];
 
+function counting(bib){
+	var report = [];
+	var metadata = {'totalbooks':['Bible', bib.length], 'book':['',''], 'ch':[0,0], 'vs':['','']};
+
+	for(let i=0; i<bib.length; i++){
+		report.push({});
+		var id = bib[i].abbrev;
+		var chMin = chMax = bib[i].chapters[0].length;
+		var vsMax = vsMin = bib[i].chapters[0][0].length;
+		var check = [[],[]], indexCheck=[], checkCount = 0;
+
+		report[i][id] = {'name':bib[i].name, 'size':0, 'bksize':bib[i].chapters.length, 'chmax':[],'chmin':[], 'vsmax':[], 'vsmin':[], 'sizes':[]};
+
+        for(let j = 0; j < bib[i].chapters.length; j++){
+			let ch = bib[i].chapters[j].length;
+
+			check[0] = [ch, `${id} ${j + 1}`];
+
+			for(let n = j + 1; n < bib[i].chapters.length; n++){
+				if(bib[i].chapters[n].length == ch){
+					check[0][1] += `, ${id} ${n + 1}`;
+					indexCheck.push(n);
+				}
+			}
+			
+			for(let l = 0;l < bib[i].chapters[j].length; l++){
+				if (l > 0 && bib[i].chapters[j][l].length > vsMax){
+					vsMax = bib[i].chapters[j][l].length;
+					check[1][0] = [`${id}${j + 1}:${l + 1}`, vsMax];
+				}
+				if (l > 0 && bib[i].chapters[j][l].length <= vsMin){
+					//console.log(`Min ${id}${j + 1}:${l+1}=${vsMin}`);
+					vsMin = bib[i].chapters[j][l].length;
+					check[1][1] = [`${id}${j + 1}:${l + 1}`, vsMin];
+				}
+				report[i][id]['size'] += bib[i].chapters[j][l].length;
+				//if(id == 'jd') console.log(`${l} - ${report[i][id]['size'][1]}`);
+			}
+			
+			
+			if(!indexCheck.includes(j)){
+				report[i][id]['sizes'].push(check[0]);
+				report[i][id]['vsmax'] = check[1][0];
+				report[i][id]['vsmin'] = check[1][1];
+
+				if (check[0][0] >= chMax){
+					chMax = ch;
+					report[i][id]['chmax'] = [check[0][1],chMax];
+				}
+				if (check[0][0] <= chMin){
+					chMin = ch;
+					report[i][id]['chmin'] = [check[0][1], chMin];
+				}
+				
+			}
+			check[0] = [];
+		}
+    }
+	
+	
+
+	console.log(report);
+	//console.log(JSON.stringify(report));
+}
+
 function replaced(bib, n){
     for(let i in bib){
         for(let j in n){
@@ -51,4 +116,5 @@ function issuesJSON(bib){
 }
 //replaced(ntlh, issuesJSON(ntlh));
 //console.log(replaced(ntlh, issue));
-console.log(issuesJSON(ntlh));
+//console.log(issuesJSON(ntlh));
+counting(aa);

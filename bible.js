@@ -4,10 +4,14 @@
 
 /** @constant express seting up Express Server Module
   * @constant app seting up Express Server Module Engine
-  * @constant script seting up static temporary module */
+  * @constant script seting up static temporary module
+  * @constant bibleTranslation Bible Translation work on
+  */
+
  const express = require('express');
  const app = express();
  const script = require('./lib/script');
+ const bibleTranslation = require('./lib/ntlh');
 
 /** @var handlebars seting up HandleBars View Engine
   * @author Eric Ferraiuolo's
@@ -22,10 +26,14 @@
 
  //routes
  app.get('/', function(request, response){
-	 response.render('home', { script: script });
+	 response.render('home');
  });
  app.get('/about', function(request, response){
 	 response.render('about');
+ });
+ // Shows static web page
+ app.get('/model', function(request, response){
+	 response.render('model', { script });
  });
  // 404 catch-all handler (middleware)
  app.use(function(request, response, next){
