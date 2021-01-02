@@ -114,7 +114,21 @@ function issuesJSON(bib){
 	for(var key in regex)myjson = myjson.replace(regex[key][0], regex[key][1]);
 	return myjson;
 }
+
+function definedb(bib){
+	var data = [];
+	
+	for (let i = 0; i < bib.length; i++)
+		data.push([bib[i].abbrev, bib[i].chapters.length]);
+
+	for (let i in data)
+      for (let j = 1; j <= data[i][1]; j++)
+        console.log(`${data[i][0]}_${j}`);
+
+	console.log(data);
+}
 //replaced(ntlh, issuesJSON(ntlh));
 //console.log(replaced(ntlh, issue));
 //console.log(issuesJSON(ntlh));
-counting(aa);
+//counting(aa);
+definedb(nvt);

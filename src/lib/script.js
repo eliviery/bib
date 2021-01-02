@@ -12,8 +12,12 @@ const scripts = [
 	'geter.js'
 ];
 
-module.exports = function () {
-	var collection = '';
-	for (let i in scripts) collection += `<script src='js/${scripts[i]}'></script>\n`;
-	return collection;
+module.exports = {
+	'static':function () {
+		var collection = '';
+		for (let i in scripts)
+			collection += `<script src='js/${scripts[i]}'></script>\n`;
+			return collection;
+		},
+	'dinamic':scripts
 }
