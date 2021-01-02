@@ -1,9 +1,11 @@
 'use strict';
 
-// temporary change in the directry, just like create table migration
-const nvt = require(__dirname.replace('database/migrations','lib/aa'));
+/** @constant version gets {static:function, dinamic:[aa.js, acf.js, ... geter.js]} */
 
-// temporary function to extract the books abreviations and its chapter quantities
+const version = require(__dirname.replace('database/migrations','lib/script'));
+const versionObj = require(__dirname.replace('database/migrations', `lib/${version.dinamic}`));
+
+/** @returns Array containing ['abbrev', chapters.length] at each one of indexes */
 function counting(bib) {
   var report = [];
 
@@ -13,30 +15,34 @@ function counting(bib) {
   return report;
 }
 
-// data receives 66 abrevs and its chapters quantities
-var data = counting(nvt);
+/** @var data Receives 66 abrevs and its chapters quantities */
+var data = counting(versionObj);
 
 module.exports = {
   up: async (queryInterface, Sequelize) => {
     // searching data
+    
+    console.log(`Migration to ${version.dinamic}`);
+    console.log(data);
+
     for (let i in data) {
       for (let j = 1; j <= data[i][1]; j++) {
 
         await queryInterface.createTable(`${data[i][0]}_${j}`, {
-          verse_num: {
+          id: {
             type: Sequelize.INTEGER,
             primaryKey: true,
             autoIncrement: true,
             aloowNull: false
           },
-          ref_num: {
+          id_ref: {
             type: Sequelize.INTEGER,
             foreignKey: true,
             autoIncrement: true,
             aloowNull: false
           },
           book: {
-            type: Sequelize.TEXT,
+            type: Sequelize.STRING(30),
             allowNull: false
           },
           chapter: {
@@ -47,19 +53,17 @@ module.exports = {
             type: Sequelize.TEXT,
             allowNull: false
           },
-          created: {
+          created_at: {
             type: Sequelize.DATE,
             aloowNull: false
           },
-          updated: {
+          updated_at: {
             type: Sequelize.DATE,
             aloowNull: false
           },
         });
-      }//fim do for j
-    }//fim do for i
-    
-    console.log(data);
+      }// End j loop
+    }// End i loop
   },
 
   down: async (queryInterface, Sequelize) => {
@@ -68,6 +72,5 @@ module.exports = {
         await queryInterface.dropTable(`${data[i][0]}_${j}`);
       }
     }
-
   }
 };

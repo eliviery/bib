@@ -115,20 +115,8 @@ function issuesJSON(bib){
 	return myjson;
 }
 
-function definedb(bib){
-	var data = [];
-	
-	for (let i = 0; i < bib.length; i++)
-		data.push([bib[i].abbrev, bib[i].chapters.length]);
 
-	for (let i in data)
-      for (let j = 1; j <= data[i][1]; j++)
-        console.log(`${data[i][0]}_${j}`);
-
-	console.log(data);
-}
 //replaced(ntlh, issuesJSON(ntlh));
 //console.log(replaced(ntlh, issue));
 //console.log(issuesJSON(ntlh));
-//counting(aa);
-definedb(nvt);
+counting(aa);

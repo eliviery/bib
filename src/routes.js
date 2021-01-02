@@ -2,11 +2,13 @@
  *  @description This project is based and developed referring to Meadowlark project by Ethan Brown at Web Development with Node and Express
  *  @constant express seting up Express Server Module
  *  @constant routes seting up Express Route Module Engine
+ *  @constant VerseController seting up Controller Module
  *  @constant script seting up static temporary module
 */
   
 const express = require('express');
 const routes = express.Router();
+const VerseController = require('./controllers/VerseController');
 const script = require('./lib/script');
 
 routes.use(express.static('src/public'));
@@ -14,6 +16,8 @@ routes.use(express.static('src/public'));
 routes.get('/', function(request, response){
     return response.json({ hello:'Hello World'})
 });
+// Post method inserting data
+routes.post('/insert', VerseController.store);
 // Shows Home page
 routes.get('/home', function(request, response){
     response.render(__dirname + '/views/home');

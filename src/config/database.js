@@ -1,21 +1,21 @@
+/** @constant version gets {static:function, dinamic: [aa.js, acf.js, ... geter.js]} */
 
-// temporary change in the directry, just like create table migration
-//const versions = require(__dirname.replace('database/migrations','lib/scripts'));
+const version = require(__dirname.replace('config','lib/script'));
 
 module.exports = {
     dialect: 'postgres',
     host: 'localhost',
     username: 'eliviery',
     password: 'devpostvierySQL',
-    database: 'nvt',
+    database: version.dinamic,
     define:{
         timestamp: true,
         underscored: true
     }
-}
+};
 /*
 "postgresql":{
-        "nick":"PostgreSQL",
+        "db":['aa', 'acf', 'naa', 'nbv_p', 'nvi', 'nvt', 'tb', 'ntlh', 'kjv'],
         "user":["postgres", "eliviery"],
         "pswd":["elivierypost6891", "devpostvierySQL"]
     },

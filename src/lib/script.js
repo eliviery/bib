@@ -1,23 +1,16 @@
-const scripts = [
-	'aa.js',
-	'acf.js',
-	'naa.js',
-	'nbv_p.js',
-	'ntlh.js',
-	'nvi.js',
-	'nvt.js',
-	'tb.js',
-	'construct.js',
-	'matrixer.js',
-	'geter.js'
-];
+/**
+ * @constant scripts list fundamental module names
+ */
+
+//Indexes to       0	 1	   2       3     4     5    6      7     8
+const scripts = ['aa','acf','naa','nbv_p','nvi','nvt','tb','ntlh','kjv','construct','matrixer','geter'];
 
 module.exports = {
 	'static':function () {
 		var collection = '';
 		for (let i in scripts)
-			collection += `<script src='js/${scripts[i]}'></script>\n`;
+			collection += `<script src='js/${scripts[i]}.js'></script>\n`;
 			return collection;
 		},
-	'dinamic':scripts
+	'dinamic':scripts[ 0 ]
 }

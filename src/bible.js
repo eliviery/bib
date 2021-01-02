@@ -10,6 +10,7 @@
 const express = require('express');
 const app = express();
 const routes = require('./routes');
+const db = require('./database');
 
 /**
  *	@const handlebars seting up HandleBars View Engine
@@ -26,5 +27,5 @@ app.use(routes);
 app.use(express.json());
  
 app.listen(app.get('port'), function(){
-	console.log(__dirname);//'Express started on http://localhost:' + app.get('port') + '; press Ctrl-C to Exit.');
+	console.log(`__dirname is ${__dirname}.\nExpress started on http:\/\/localhost: ${app.get('port')}; press Ctrl-C to Exit.`);
 });
