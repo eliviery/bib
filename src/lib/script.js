@@ -14,6 +14,6 @@ const scripts = [
 
 module.exports = function () {
 	var collection = '';
-	for (let index in scripts) collection += `<script src='js/${scripts[index]}'></script>\n`;
+	for (let i in scripts) collection += `<script src='js/${scripts[i]}'></script>\n`;
 	return collection;
 }

@@ -2,15 +2,20 @@
   "name": "bible",
   "version": "1.0.0",
   "description": "Holy Bible Development",
-  "main": "bible.js",
+  "main": "src/bible.js",
   "dependencies": {
     "express": "^4.17.1",
     "express3-handlebars": "^0.5.2",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "sequelize-cli": "^6.2.0"
+  },
   "scripts": {
-    "test": "node bible.js"
+    "dev": "nodemon src/bible.js"
   },
   "author": "Elivelton Vieira",
   "license": "ISC"

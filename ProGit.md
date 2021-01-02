@@ -10,4 +10,3 @@
 * ```git push origin master``` Share the current project to GitHub
 * ```git log --pretty=oneline``` Lists all existing commits and its keylogs
 * ```git checkout <tag-name>``` Checks out the last tags no commited
-
