@@ -18,6 +18,8 @@ routes.get('/', function(request, response){
 });
 // Post method inserting data
 routes.post('/insert', VerseController.store);
+// Get method listing data
+routes.get('/insert', VerseController.index);
 // Shows Home page
 routes.get('/home', function(request, response){
     response.render(__dirname + '/views/home');

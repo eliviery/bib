@@ -7,9 +7,15 @@
 
 var version = require(__dirname.replace('/controllers', '/lib/script'));
 var versionObj = require(__dirname.replace('/controllers', `/lib/${version.dinamic}`));
+const { request } = require('express');
 const Verse = require('../models/Verse');
 
 module.exports = {
+    async index(request, response){
+        const verses = await Verse.findAll();
+        return response.json(verses);
+    },
+
     async store(request, response) {
         /**
          *  @var {book, chapter, text} report
