@@ -4,6 +4,7 @@
 
 const version = require(__dirname.replace('database/migrations','lib/script'));
 const versionObj = require(__dirname.replace('database/migrations', `lib/${version.dinamic}`));
+const refferences = require(__dirname.replace('database/migrations', `lib/refferences`));
 
 /** @returns Array containing ['abbrev', chapters.length] at each one of indexes */
 function counting(bib) {
@@ -28,29 +29,29 @@ module.exports = {
     for (let i in data) {
       for (let j = 1; j <= data[i][1]; j++) {
 
-        await queryInterface.createTable(`${data[i][0]}_${j}`, {
+        await queryInterface.createTable(`${data[i][0]}`, {
           id: {
             type: Sequelize.INTEGER,
             primaryKey: true,
             autoIncrement: true,
             aloowNull: false
           },
-          id_ref: {
-            type: Sequelize.INTEGER,
-            foreignKey: true,
-            autoIncrement: true,
-            aloowNull: false
-          },
-          book: {
+          book_name: {
             type: Sequelize.STRING(30),
             allowNull: false
           },
-          chapter: {
-            type: Sequelize.INTEGER,
+          ch_vs: {
+            type: Sequelize.ARRAY(Sequelize.SMALLINT),
+            foreignKey: true,
+            autoIncrement: false,
+            aloowNull: false
+          },
+          verse_text: {
+            type: Sequelize.TEXT,
             allowNull: false
           },
-          text: {
-            type: Sequelize.TEXT,
+          refference: {
+            type: Sequelize.JSON,
             allowNull: false
           },
           created_at: {
@@ -69,7 +70,7 @@ module.exports = {
   down: async (queryInterface, Sequelize) => {
     for (let i in data) {
       for (let j = 1; j <= data[i][1]; j++) {
-        await queryInterface.dropTable(`${data[i][0]}_${j}`);
+        await queryInterface.dropTable(`${data[i][0]}`);
       }
     }
   }

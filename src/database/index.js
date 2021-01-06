@@ -2,9 +2,9 @@
 const Sequelize = require('sequelize');
 const dbConfig = require('../config/database');
 
-const Verse =  require('../models/Verse');
+const Book =  require('../models/Book');
 const conn = new Sequelize(dbConfig);
 
-Verse.init(conn);
+Book.init(conn);
 
 module.exports = conn;

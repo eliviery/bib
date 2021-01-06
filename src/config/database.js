@@ -15,7 +15,7 @@ module.exports = {
 };
 /*
 "postgresql":{
-        "db":['aa', 'acf', 'naa', 'nbv_p', 'nvi', 'nvt', 'tb', 'ntlh', 'kjv'],
+        "db":['aa', 'acf', 'naa', 'nbv_p', 'nvi', 'nvt', 'tb', 'ntlh', 'kjv', a21],
         "user":["postgres", "eliviery"],
         "pswd":["elivierypost6891", "devpostvierySQL"]
     },

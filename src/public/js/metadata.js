@@ -119,4 +119,4 @@ function issuesJSON(bib){
 //replaced(ntlh, issuesJSON(ntlh));
 //console.log(replaced(ntlh, issue));
 //console.log(issuesJSON(ntlh));
-counting(kjv);
+counting(ntlh);
