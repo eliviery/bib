@@ -3,7 +3,7 @@
  */
 
 //Indexes to       0	 1	   2       3     4     5    6      7     8	   9
-const scripts = ['aa','acf','naa','nbv_p','nvi','nvt','tb','ntlh','kjv','a21','builder','refferences','metadata'];
+const scripts = ['aa','arc','naa','nbv_p','nvi','nvt','tb','ntlh','kjv','a21','builder','refferences','metadata'];
 
 module.exports = {
 	'static':function () {

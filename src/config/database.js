@@ -1,4 +1,4 @@
-/** @constant version gets {static:function, dinamic: [aa.js, acf.js, ... geter.js]} */
+/** @constant version gets {static:function, dinamic: [aa.js, arc.js, ... geter.js]} */
 
 const version = require(__dirname.replace('config','lib/script'));
 
@@ -15,7 +15,7 @@ module.exports = {
 };
 /*
 "postgresql":{
-        "db":['aa', 'acf', 'naa', 'nbv_p', 'nvi', 'nvt', 'tb', 'ntlh', 'kjv', a21],
+        "db":['aa','arc','naa','nbv_p','nvi','nvt','tb','ntlh','kjv','a21'],
         "user":["postgres", "eliviery"],
         "pswd":["elivierypost6891", "devpostvierySQL"]
     },
