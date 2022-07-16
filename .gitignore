@@ -7,9 +7,6 @@ db
 *.log
 *~
 *[oa]
-<<<<<<< HEAD
-=======
 src/config/database.js
->>>>>>> 24740fb (Recall 2022)
 # put any other files you don't want to check in here,
 # such as .DS_Store (OSX), *.bak, etc.
