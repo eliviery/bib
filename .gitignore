@@ -1,0 +1,13 @@
+# ignore packages installed by npm
+node_modules
+ProGitDeveloping.md
+db
+*.sql
+*.pdf
+*.log
+*~
+*[oa]
+.vscode/
+database.js
+# put any other files you don't want to check in here,
+# such as .DS_Store (OSX), *.bak, etc.
