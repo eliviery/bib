@@ -1,10 +1,11 @@
 /** @constant version gets {static:function, dinamic: [aa.js, arc.js, ... geter.js]} */
 
 const version = require(__dirname.replace('config','lib/script'));
+/* from .sequelizerc, replace path from "src/config" to "src/lib/script" */
 
 module.exports = {
     dialect: 'postgres',
-    host: 'localhost',
+    host: 'localhost', //'127.0.0.1',
     username: 'eliviery',
     password: 'devpostvierySQL',
     database: version.dinamic,
@@ -13,10 +14,3 @@ module.exports = {
         underscored: true
     }
 };
-/*
-"postgresql":{
-        "db":['aa','arc','naa','nbv_p','nvi','nvt','tb','ntlh','kjv','a21'],
-        "user":["postgres", "eliviery"],
-        "pswd":["elivierypost6891", "devpostvierySQL"]
-    },
-*/

@@ -90,8 +90,15 @@ function counting(bib) {
 			}
 		}
 	}
+	var counter = 0;
+	for (bk in report){
+		for (vs in report[bk]){
+			counter += report[bk][vs]['verses'];
+			console.log(`${report[bk][vs]['name']} possui ${report[bk][vs]['verses']} versículos.`);
+			console.log(`${counter} Total de versículos.`);
+		}
+	}
 	report['full_report'] = fullReport;
-	console.log(JSON.stringify(report));
 }
 
 function replaced(bib, n) {

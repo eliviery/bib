@@ -5,7 +5,7 @@
  *  @constant BookController seting up Controller Module
  *  @constant script seting up static temporary module
 */
-  
+	
 const express = require('express');
 const routes = express.Router();
 const BookController = require('./controllers/BookController');
@@ -14,33 +14,35 @@ const script = require('./lib/script');
 routes.use(express.static('src/public'));
 // Shows a JSON result
 routes.get('/', function(request, response){
-    return response.json({ hello:'Hello World'})
+	return response.json({ hello:'Hello World'})
 });
+
 // Post method inserting data
 routes.post('/insert', BookController.store);
 // Get method listing data
-routes.get('/insert', BookController.index);
+routes.get('/list', BookController.index);
+
 // Shows Home page
 routes.get('/home', function(request, response){
-    response.render(__dirname + '/views/home');
+	response.render(__dirname + '/views/home');
 });
 // Shows About page
 routes.get('/about', function(request, response){
-    response.render(__dirname + '/views/about');
+	response.render(__dirname + '/views/about');
  });
 // Shows static web page
 routes.get('/model', function(request, response){
-    response.render(__dirname + '/views/model', { script });
+	response.render(__dirname + '/views/model', { script });
 });
 // 404 catch-all handler (middleware)
 routes.use(function(request, response, next){
-    response.status(404);
-    response.render(__dirname + '/views/404');
+	response.status(404);
+	response.render(__dirname + '/views/404');
 });
 // 500 error handler (middleware)
 routes.use(function(err, request, response, next){
-    response.status(500);
-    response.render(__dirname + '/views/500');
+	response.status(500);
+	response.render(__dirname + '/views/500');
 });
 
 module.exports = routes;
