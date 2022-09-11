@@ -8,6 +8,7 @@
 const version = require(__dirname.replace('database/migrations','lib/script'));
 const versionObj = require(__dirname.replace('database/migrations', `lib/${version.dinamic}`));
 const refferences = require(__dirname.replace('database/migrations', `lib/refferences`));
+const trs = require(__dirname.replace('database/migrations', `lib/translate_abbrev`));
 
 /** @returns Array containing ['abbrev', chapters.length] in each of its indexes */
 function counting(bib) {
@@ -26,9 +27,6 @@ module.exports = {
   up: async (queryInterface, Sequelize) => {
     // searching data
     
-    console.log(`Migration to ${version.dinamic}`);
-    console.log(data);
-
     for (let i in data) {
       for (let j = 1; j <= data[i][1]; j++) { // data[i][1] = [abrev_Book_name, Its_size]
 
@@ -44,8 +42,7 @@ module.exports = {
             allowNull: false
           },
           ch_vs: {
-            type: Sequelize.ARRAY(Sequelize.SMALLINT),
-            foreignKey: true,
+            type: Sequelize.ARRAY(Sequelize.INTEGER),
             autoIncrement: false,
             aloowNull: false
           },
@@ -53,7 +50,7 @@ module.exports = {
             type: Sequelize.TEXT,
             allowNull: false
           },
-          refference: {
+          reffers: {
             type: Sequelize.JSON,
             allowNull: false
           },
@@ -68,6 +65,8 @@ module.exports = {
         });
       }// End j loop
     }// End i loop
+    console.log(`Migration to ${version.dinamic}`);
+    console.log(data);
   },
 
   down: async (queryInterface, Sequelize) => {

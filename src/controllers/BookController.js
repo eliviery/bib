@@ -6,71 +6,81 @@
  *  @returns void
 */
 
-var version       = require(__dirname.replace('/controllers', '/lib/script'));
-var versionObj    = require(__dirname.replace('/controllers', `/lib/${version.dinamic}`));
-var refferences   = require(__dirname.replace('/controllers', '/lib/refferences'));
+var version = require(__dirname.replace('/controllers', '/lib/script'));
+var versionObj = require(__dirname.replace('/controllers', `/lib/${version.dinamic}`));
+var refferences = require(__dirname.replace('/controllers', '/lib/refferences'));
+var trs = require(__dirname.replace('/controllers', '/lib/translate_abbrev'));
 const { req } = require('express');
 const Book = require('../models/Book');
 const sequelize = require('sequelize');
+const { Op } = require('sequelize');
 
 module.exports = {
 	/**
 	 * The index module lists the JSON outputs to Front End
 	*/
-	async index(req, res){
-		Book.tableName = req['query']['book']; // Forces table name
+	async index(req, res) {
 
+		const { book, ch } = req.query;
+		/* Forces table name
+		 * ["VALUE_IF_FALSE","VALUE_IF_TRUE"][BoolExpression & 1]
+		*/
+
+		Book.tableName = [book, trs[book]][(version.dinamic == 'kjv') & 1];
+		
 		const verses = await Book.findAll({
-			where:{
-				ch_vs:[req['query']['ch'],req['query']['vs']]
-			}
+			attributes:[`id`, `book_name`, `ch_vs`, `verse_text`, `reffers`],
+			where:sequelize.literal(`ch_vs[1] = ${ch}`)
 		});
-		const cruz = {};
+		for (verse of verses) {
+			let cruz = {}; // All getted statments from cruzed
+			
+			for (let each in verse['reffers']) { // Searching table's reffers column JSON/Object
+				Book.tableName = each;
+				let crzEach = verse['reffers'][each];
+				cruz[each] = { "book_name": "" };
+				for (let item in crzEach) { // Searches all of refferences from a unique book in refference's list
+					/* Tratamento de referências com versículos de um só capítulo
+					 * Se os itens do array de versículos também forem arrays, significa que são trechos isolados por todo o capítulo.
+					 * Eles serão tratados para exibir corretamente a saída
+					*/
+					let it = crzEach[item];
 
-		for (let each in verses[0]['refference']){ // Searching table's refference column JSON/Object
-			Book.tableName = each;
-			let crzEach = verses[0]['refference'][each];
-			cruz[each] = {"book_name":""};
-			for (let item in crzEach){ // Searches all of refferences from a unique book in refference's list
-				/* Tratamento de referências com versículos de um só capítulo
-				 * Se os itens do array de versículos também forem arrays, significa que são trechos isolados por todo o capítulo.
-				 * Eles serão tratados para exibir corretamente a saída
-				*/
-				let it = crzEach[item];
+					let f = it.find(e => typeof e == 'object'); // Searches if there's at least 1 into the verse array
+					let range = `${['noarray', `${item}:${it.join('-')}`][f == undefined & 1]}`; // ["IF_FALSE","IF_TRUE"][BoolExpression & 1]
 
-				let f = it.find(e => typeof e == 'object'); // Searches if there's at least 1 into the verse array
-				let range = `${ f == undefined ? `${item}:${it.join('-')}` : 'noarray'}`;
-				
-				cruz[each][range] = [];
-				
-				for (let x in it){
-					let crzRef = {};
-					if (typeof it[x] == 'object'){
-						delete cruz[each]['noarray'];
-						for (let i = it[x][0]; i <= it[x][it[x].length - 1]; i++){
+					cruz[each][range] = [];
+
+					for (let x in it) {
+						let crzRef = {};
+						if (typeof it[x] == 'object') {
+							delete cruz[each]['noarray'];
+							for (let i = it[x][0]; i <= it[x][it[x].length - 1]; i++) {
+								crzRef = await Book.findAll({
+									attributes: ['id', 'book_name', 'ch_vs', 'verse_text'],
+									where: {
+										ch_vs: [parseInt(item), i]
+									}
+								});
+							}
+							range = `${item}:${it[x][0]}${["", "-" + it[x][1]][(it[x].length > 1) & 1]}`; // ["IF_FALSE","IF_TRUE"][BoolExpression & 1]
+							cruz[each][range] = [];
+						} else {
 							crzRef = await Book.findAll({
-								attributes:['id','book_name','ch_vs','verse_text'],
-								where:{
-									ch_vs:[parseInt(item), i]
+								attributes: ['id', 'book_name', 'ch_vs', 'verse_text'],
+								where: {
+									ch_vs: [parseInt(item), it[x]]
 								}
 							});
 						}
-						range = `${item}:${it[x][0]}${it[x].length > 1 ? "-" + it[x][1] : ""}`;
-						cruz[each][range] = [];
-					}else{
-						crzRef = await Book.findAll({
-							attributes:['id','book_name','ch_vs','verse_text'],
-							where:{
-								ch_vs:[parseInt(item), it[x]]
-							}
-						});
+						cruz[each]['book_name'] = crzRef[0]['book_name'];
+						cruz[each][range].push(crzRef[0]['verse_text']);
 					}
-					cruz[each]['book_name'] = crzRef[0]['book_name'];
-					cruz[each][range].push(crzRef[0]['verse_text']);
 				}
 			}
+			verse['reffers'] = cruz;
+			cruz = {};
 		}
-		verses[0]['refference'] = cruz;
 		return res.json(verses);
 	},
 
@@ -93,24 +103,30 @@ module.exports = {
 
 				// Searches the current chapter verse by 3rd loop
 				for (let l in versionObj[i].chapters[j]) {
-		
 					// Get current verse from current chapter
-					report['ch_vs']      = [ parseInt(j) + 1, parseInt(l) + 1];
-					report['verse_text'] =  versionObj[ i ].chapters[ j ][ l ];
-					report['refference'] = refferences[ i ].chapters[ j ][ l ];
-					
+					report['ch_vs'] = [parseInt(j) + 1, parseInt(l) + 1];
+					report['verse_text'] = versionObj[i].chapters[j][l];
+					report['reffers'] = refferences[i].chapters[j][l];
+
+					if (version.dinamic == 'kjv') {
+						for (key of Object.keys(report['reffers'])) {
+							let obtemp = report['reffers'][key];
+							delete report['reffers'][key];
+							report['reffers'][trs[key]] = obtemp;
+						}
+					}
 					// Set current tableName to Model. It'll be some like 'bookAbbrev'
 					Book.tableName = `${versionObj[i].abbrev}`;
-					
+
 					// Calls Model to execute builded queries by report, into into database
 					const vs = await Book.create(report);
 
 					// Filling Output GeneralReport data provider to Front-End applications
 					genReport.push({
-						book_name : report['book_name'],
-						ch_vs     :     report['ch_vs'],
-						verse_text:report['verse_text'],
-						refference:report['refference']
+						book_name: report['book_name'],
+						ch_vs: report['ch_vs'],
+						verse_text: report['verse_text'],
+						reffers: report['reffers']
 					});
 				}
 			}
