@@ -3,39 +3,34 @@
  *  @var versionObj get a bible version module from /lib/<version> parsing version.dinamic as directory in parameter
  *  @var refferences get a bible refferences matrix module from /lib/<refferences>
  *  @exports function store in database
- *  @returns void
 */
 
 var version = require(__dirname.replace('/controllers', '/lib/script'));
 var versionObj = require(__dirname.replace('/controllers', `/lib/${version.dinamic}`));
 var refferences = require(__dirname.replace('/controllers', '/lib/refferences'));
-var trs = require(__dirname.replace('/controllers', '/lib/translate_abbrev'));
-const { req } = require('express');
+const trs = require(__dirname.replace('/controllers', '/lib/translate_abbrev'));
 const Book = require('../models/Book');
 const sequelize = require('sequelize');
-const { Op } = require('sequelize');
 
 module.exports = {
-	/**
-	 * The index module lists the JSON outputs to Front End
-	*/
+	/** The index module lists the JSON outputs to Front End */
 	async index(req, res) {
 
 		const { book, ch } = req.query;
 		/* Forces table name
 		 * ["VALUE_IF_FALSE","VALUE_IF_TRUE"][BoolExpression & 1]
 		*/
-
 		Book.tableName = [book, trs[book]][(version.dinamic == 'kjv') & 1];
-		
+
 		const verses = await Book.findAll({
-			attributes:[`id`, `book_name`, `ch_vs`, `verse_text`, `reffers`],
-			where:sequelize.literal(`ch_vs[1] = ${ch}`)
+			attributes: [`id`, `book_name`, `ch_vs`, `verse_text`, `reffers`],
+			where: sequelize.literal(`ch_vs[1] = ${ch}`), // WHERE LITERAL
+			order: ['id']
 		});
-		for (verse of verses) {
+		for (verse of verses) { // Table Lines
 			let cruz = {}; // All getted statments from cruzed
-			
-			for (let each in verse['reffers']) { // Searching table's reffers column JSON/Object
+
+			for (let each in verse['reffers']) { // Searching JSON/Object only from reffers column at current item
 				Book.tableName = each;
 				let crzEach = verse['reffers'][each];
 				cruz[each] = { "book_name": "" };
@@ -46,7 +41,7 @@ module.exports = {
 					*/
 					let it = crzEach[item];
 
-					let f = it.find(e => typeof e == 'object'); // Searches if there's at least 1 into the verse array
+					let f = it.find(e => typeof e == 'object'); // Searches if there's at least 1 vector into the verse array
 					let range = `${['noarray', `${item}:${it.join('-')}`][f == undefined & 1]}`; // ["IF_FALSE","IF_TRUE"][BoolExpression & 1]
 
 					cruz[each][range] = [];
@@ -58,11 +53,12 @@ module.exports = {
 							for (let i = it[x][0]; i <= it[x][it[x].length - 1]; i++) {
 								crzRef = await Book.findAll({
 									attributes: ['id', 'book_name', 'ch_vs', 'verse_text'],
-									where: {
-										ch_vs: [parseInt(item), i]
-									}
+									where: { ch_vs: [parseInt(item), i] }
 								});
 							}
+							// To the refference for API output, range equals to object key. It looks like:
+							// { "range_content": ["1st verse here","2nd verse here (if any)"..."N_th verse here (if any)"] }
+
 							range = `${item}:${it[x][0]}${["", "-" + it[x][1]][(it[x].length > 1) & 1]}`; // ["IF_FALSE","IF_TRUE"][BoolExpression & 1]
 							cruz[each][range] = [];
 						} else {
@@ -115,10 +111,10 @@ module.exports = {
 							report['reffers'][trs[key]] = obtemp;
 						}
 					}
-					// Set current tableName to Model. It'll be some like 'bookAbbrev'
+					// Set current tableName to Model. It'll be something like 'bookAbbrev'
 					Book.tableName = `${versionObj[i].abbrev}`;
 
-					// Calls Model to execute builded queries by report, into into database
+					// Calls Model to execute builded queries by report, into database
 					const vs = await Book.create(report);
 
 					// Filling Output GeneralReport data provider to Front-End applications
@@ -133,5 +129,20 @@ module.exports = {
 		}
 		console.log(`Filling database ${version.dinamic} right now\n`);
 		return res.json(genReport); // General Report to Front-End apps (From this case, Insomnia)
+	},
+
+	async change(req, res) {
+
+		const { book, ch_vs, reffers } = req.body;
+		/* Forces table name
+		 * ["VALUE_IF_FALSE","VALUE_IF_TRUE"][BoolExpression & 1]
+		*/
+		Book.tableName = [book, trs[book]][(version.dinamic == 'kjv') & 1];
+
+		const new_ref = await Book.update(
+			{ reffers },
+			{ where: { ch_vs } }
+		);
+		return res.json(new_ref);
 	}
 }

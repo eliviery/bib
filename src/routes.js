@@ -11,17 +11,18 @@ const routes = express.Router();
 const BookController = require('./controllers/BookController');
 const script = require('./lib/script');
 
+routes.use(express.json());
 routes.use(express.static('src/public'));
 // Shows a JSON result
 routes.get('/', function(request, response){
 	return response.json({ hello:'Hello World'})
 });
-
 // Post method inserting data
 routes.post('/insert', BookController.store);
 // Get method listing data
 routes.get('/list', BookController.index);
-
+// Get method updating data
+routes.put('/update', BookController.change);
 // Shows Home page
 routes.get('/home', function(request, response){
 	response.render(__dirname + '/views/home');
