@@ -21,7 +21,7 @@ routes.get('/', function(request, response){
 routes.post('/insert', BookController.store);
 // Get method listing data
 routes.get('/list', BookController.index);
-// Get method updating data
+// Put method updating data
 routes.put('/update', BookController.change);
 // Shows Home page
 routes.get('/home', function(request, response){

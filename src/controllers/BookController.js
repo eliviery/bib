@@ -21,24 +21,25 @@ module.exports = {
 		 * ["VALUE_IF_FALSE","VALUE_IF_TRUE"][BoolExpression & 1]
 		*/
 		Book.tableName = [book, trs[book]][(version.dinamic == 'kjv') & 1];
-
+		
 		const verses = await Book.findAll({
 			attributes: [`id`, `book_name`, `ch_vs`, `verse_text`, `reffers`],
 			where: sequelize.literal(`ch_vs[1] = ${ch}`), // WHERE LITERAL
 			order: ['id']
 		});
+		
 		for (verse of verses) { // Table Lines
 			let cruz = {}; // All getted statments from cruzed
-
+			let cruzed = [];
 			for (let each in verse['reffers']) { // Searching JSON/Object only from reffers column at current item
 				Book.tableName = each;
 				let crzEach = verse['reffers'][each];
 				cruz[each] = { "book_name": "" };
 				for (let item in crzEach) { // Searches all of refferences from a unique book in refference's list
-					/* Tratamento de referências com versículos de um só capítulo
-					 * Se os itens do array de versículos também forem arrays, significa que são trechos isolados por todo o capítulo.
-					 * Eles serão tratados para exibir corretamente a saída
-					*/
+					// Tratamento de referências com versículos de um só capítulo
+					// Se os itens do array de versículos também forem arrays, significa que são trechos isolados por todo o capítulo.
+					// Eles serão tratados para exibir corretamente a saída
+					
 					let it = crzEach[item];
 
 					let f = it.find(e => typeof e == 'object'); // Searches if there's at least 1 vector into the verse array
@@ -48,8 +49,8 @@ module.exports = {
 
 					for (let x in it) {
 						let crzRef = {};
-						if (typeof it[x] == 'object') {
-							delete cruz[each]['noarray'];
+						if (typeof it[x] == 'object') { // If it is an Object
+							delete cruz[each]['noarray']; // remove early key for new key foward
 							for (let i = it[x][0]; i <= it[x][it[x].length - 1]; i++) {
 								crzRef = await Book.findAll({
 									attributes: ['id', 'book_name', 'ch_vs', 'verse_text'],
@@ -60,13 +61,11 @@ module.exports = {
 							// { "range_content": ["1st verse here","2nd verse here (if any)"..."N_th verse here (if any)"] }
 
 							range = `${item}:${it[x][0]}${["", "-" + it[x][1]][(it[x].length > 1) & 1]}`; // ["IF_FALSE","IF_TRUE"][BoolExpression & 1]
-							cruz[each][range] = [];
+							cruz[each][range] = []; // Avoid again if earlier code doesn't work
 						} else {
 							crzRef = await Book.findAll({
 								attributes: ['id', 'book_name', 'ch_vs', 'verse_text'],
-								where: {
-									ch_vs: [parseInt(item), it[x]]
-								}
+								where: { ch_vs: [parseInt(item), it[x]] }
 							});
 						}
 						cruz[each]['book_name'] = crzRef[0]['book_name'];
@@ -143,6 +142,6 @@ module.exports = {
 			{ reffers },
 			{ where: { ch_vs } }
 		);
-		return res.json(new_ref);
+		return res.json(req.body);
 	}
 }

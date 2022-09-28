@@ -1,7 +1,7 @@
 {
   "name": "bible",
   "version": "1.0.0",
-  "description": "Holy Bible Development",
+  "description": "Noticed Bible API",
   "main": "src/bible.js",
   "dependencies": {
     "express": "^4.17.1",
