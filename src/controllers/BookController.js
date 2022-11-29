@@ -21,13 +21,19 @@ module.exports = {
 		 * ["VALUE_IF_FALSE","VALUE_IF_TRUE"][BoolExpression & 1]
 		*/
 		Book.tableName = [book, trs[book]][(version.dinamic == 'kjv') & 1];
-		
+		const regEx = [
+			[/\{/g, '('],
+			[/\}/g, ')'],
+			[/^\s{1}/g, ""],
+			[/S(\s|\t)/g, 'S'],
+			[/\s([,.;?!:])/g, '$1']
+		];
 		const verses = await Book.findAll({
 			attributes: [`id`, `book_name`, `ch_vs`, `verse_text`, `reffers`],
 			where: sequelize.literal(`ch_vs[1] = ${ch}`), // WHERE LITERAL
 			order: ['id']
 		});
-		
+
 		for (verse of verses) { // Table Lines
 			let cruz = {}; // All getted statments from cruzed
 			let cruzed = [];
@@ -39,7 +45,7 @@ module.exports = {
 					// Tratamento de referências com versículos de um só capítulo
 					// Se os itens do array de versículos também forem arrays, significa que são trechos isolados por todo o capítulo.
 					// Eles serão tratados para exibir corretamente a saída
-					
+
 					let it = crzEach[item];
 
 					let f = it.find(e => typeof e == 'object'); // Searches if there's at least 1 vector into the verse array
@@ -68,11 +74,15 @@ module.exports = {
 								where: { ch_vs: [parseInt(item), it[x]] }
 							});
 						}
+						regEx.map((r) => {crzRef[0]['verse_text'] = crzRef[0]['verse_text'].replace(r[0], r[1]); return 1});
+
 						cruz[each]['book_name'] = crzRef[0]['book_name'];
-						cruz[each][range].push(crzRef[0]['verse_text']);
+						cruz[each][range].push(' ' + crzRef[0]['verse_text']);
 					}
 				}
 			}
+			regEx.map((r) => {verse['verse_text'] = verse['verse_text'].replace(r[0], r[1]); return 1});
+
 			verse['reffers'] = cruz;
 			cruz = {};
 		}

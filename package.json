@@ -4,6 +4,7 @@
   "description": "Noticed Bible API",
   "main": "src/bible.js",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "express3-handlebars": "^0.5.2",
     "nodemon": "^2.0.2",

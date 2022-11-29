@@ -11,6 +11,7 @@ const express = require('express');
 const app = express();
 const routes = require('./routes');
 const db = require('./database');
+const cors = require('cors');
 
 /**
  *	@const handlebars seting up HandleBars View Engine
@@ -20,12 +21,29 @@ const handlebars = require('express3-handlebars').create({ defaultLayout: `${__d
 app.engine('handlebars', handlebars.engine);
 app.set('view engine', 'handlebars');
 
-app.set('port', process.env.PORT || 3000);
+app.set('port', process.env.PORT || 3333);
 app.set('host', 'localhost'); // app.set('host', '127.0.0.1');
-
-app.use(routes);
-
 app.use(express.json());
+app.use(routes);
+app.use(cors());
+
+
+/*app.use(cors({ origin : 'http://localhost:3000' })); // Caso queira que somente esse ip acesse
+
+app.use((req, res, next) => {
+	res.status(200).header({
+		"Access-Control-Allow-Origin": "*",
+		"Access-Control-Allow-Headers": "Authorization",
+		"Access-Control-Allow-Methods": "GET, POST, OPTIONS, PUT, PATCH, DELETE",
+		"Access-Control-Allow-Credentiala": true,
+		"Content-Type": "application/json;charset=UTF-8",
+		"X-Requested-With": "XMLHttpRequest"
+	});
+	//res.header("Access-Control-Allow-Methods", "GET,PUT,POST,DELETE");
+	app.use(cors());
+});*/
+
+
 /* For Insomnia options
  * GET, POST, PUT, DELETE
  * app.get("/", (req, res) => {return res.json(...)}), app.post("", ...
@@ -34,7 +52,7 @@ app.use(express.json());
  * req.query => Acessar query params (filtragens)
  * req.params => Acessar route params (edit, delete)
  * req.body => Acessar corpo da requisição (criação, edição)
- */ 
+ */
 
 app.listen(
 	app.get('port'),

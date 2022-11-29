@@ -1,6 +1,6 @@
 # ignore packages installed by npm
 node_modules
-src/config/*.js
+src/config/database.js
 ProGitDeveloping.md
 db
 *.sql
