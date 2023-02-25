@@ -113,7 +113,7 @@ module.exports = {
 					report['verse_text'] = versionObj[i].chapters[j][l];
 					report['reffers'] = refferences[i].chapters[j][l];
 
-					if (version.dinamic == 'kjv') {
+					if (version.dinamic == 'kjv') { // If the version of the current database is KJV, the abbreviations keys will be translated
 						for (key of Object.keys(report['reffers'])) {
 							let obtemp = report['reffers'][key];
 							delete report['reffers'][key];

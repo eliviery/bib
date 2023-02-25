@@ -12,5 +12,5 @@ module.exports = {
 			collection += `<script src='js/${scripts[i]}.js'></script>\n`;
 			return collection;
 		},
-	'dinamic':scripts[ 5 ]
+	'dinamic':scripts[ 0 ]
 }
