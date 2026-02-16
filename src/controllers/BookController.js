@@ -21,6 +21,7 @@ module.exports = {
 		 * ["VALUE_IF_FALSE","VALUE_IF_TRUE"][BoolExpression & 1]
 		*/
 		Book.tableName = [book, trs[book]][(version.dinamic == 'kjv') & 1];
+		
 		const regEx = [
 			[/\{/g, '('],
 			[/\}/g, ')'],
@@ -110,6 +111,7 @@ module.exports = {
 				for (let l in versionObj[i].chapters[j]) {
 					// Get current verse from current chapter
 					report['ch_vs'] = [parseInt(j) + 1, parseInt(l) + 1];
+					// report['ch_vs] is an Array containing current chapter and verse numbers ([ch, vs])
 					report['verse_text'] = versionObj[i].chapters[j][l];
 					report['reffers'] = refferences[i].chapters[j][l];
 

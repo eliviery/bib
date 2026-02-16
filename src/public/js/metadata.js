@@ -145,9 +145,17 @@ function issuesJSON(bib) {
 		}
 		if (b.length > 0) { c.push({ name: bib[i].name, data: b }); b = []; }
 	}
-	var regex = [[/\{("name")/g, "\n\t{$1"], [/("data":\[)/g, "\n\t$1"], [/\]\},\n\t(\{"name")/g, "]\n\t},\n\t$1"], [/\[\{/g, "[\n\t\t{"], [/\},\{/g, "},\n\t\t{"], [/\}\]/g, "}\n\t\t]"]];
+	var regex = [
+		[/\{("name")/g, "\n\t{$1"],
+		[/("data":\[)/g, "\n\t$1"],
+		[/\]\},\n\t(\{"name")/g, "]\n\t},\n\t$1"],
+		[/\[\{/g, "[\n\t\t{"],
+		[/\},\{/g, "},\n\t\t{"],
+		[/\}\]/g, "}\n\t\t]"]
+	];
+
 	var myjson = JSON.stringify(c);
-	for (var key in regex) myjson = myjson.replace(regex[key][0], regex[key][1]);
+	for (let pattern in regex) myjson = myjson.replace(regex[pattern][0], regex[pattern][1]);
 	return myjson;
 }
 

@@ -6,8 +6,8 @@ const version = require(__dirname.replace('config','lib/script'));
 module.exports = {
     dialect: 'postgres',
     host: 'localhost', //'127.0.0.1',
-    username: 'eliviery',
-    password: 'devpostvierySQL',
+    username: 'eli',
+    password: 'devpostvierySQL17',
     database: version.dinamic,
     define:{
         timestamp: true,

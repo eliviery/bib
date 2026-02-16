@@ -9,3 +9,4 @@ module.exports = {
 	"cl":"col","1ts":"1th","2ts":"2th","1tm":"1ti","2tm":"2ti","tt":"tit","fm":"phm","hb":"heb","tg":"jas","1pe":"1pe",
 	"2pe":"2pe","1jo":"1jn","2jo":"2jn","3jo":"3jn","jd":"jud","ap":"rev"
 };
+

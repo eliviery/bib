@@ -15,7 +15,7 @@ routes.use(express.json());
 routes.use(express.static('src/public'));
 // Shows a JSON result
 routes.get('/', function(request, response){
-	return response.json({ hello:'Hello World'})
+	return response.json({ hello:'Bible Project'})
 });
 // Post method inserting data
 routes.post('/insert', BookController.store);

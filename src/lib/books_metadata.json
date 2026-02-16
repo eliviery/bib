@@ -1,0 +1,1979 @@
+{
+  "gn": {
+    "regard": "Introdução ao livro de",
+    "name": "Gênesis",
+    "date": "1450-1410 a.C",
+    "author": "Moisés",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "A palavra gênesis vem, via latim, do título grego do livro. No hebraico, o livro derivava seu nome da primeira palavra, que significa \"no princípio\". A palavra gênesis significa \"origem\" e é, assim, um título apropriado para um livro que revela as origens de toda a história humana."
+        ]
+      },
+      "p2": {
+        "thumb": "Autoria",
+        "text": [
+          "Genêsis é primeiro livro de uma obra mais ampla, os primeiros cinco livros do Antigo Testamento, denominados Pentateuco, cuja autoria tem sido tradicionalmente atribuída a Moisés. Essa posição é apoiada pelas seguintes considerações: (1) o próprio Pentateuco afirma a autoria mosaica (Êx 17:14; 24:4,7; 34:27; Nm 33:1-2; Dt 31:9); (2) outros livros do Antigo Testamento testificam da autoria  mosaica do Pentateuco (Js 1:7-8; 8:32,34; 22:5; 1 Rs 2:3; 2 Rs 14:6; 21:8; Ed 6:18; Dn 9:11-13; Ml 4:4); (3) o Novo Testamento igualmente  afirma a autoria mosaica (Mt 19:8; Mc 12:26; Jo 5:46-47; 7:19; Rm 10:5); (4) detalhes que somente uma testemunha ocular dos fatos saberia ou poderia incluir indicam que o autor participou dos acontecimentos, não sendo um redator que tivesse vivido séculos depois (Êx 15:27; Nm 2:1-31; 11:7-8); (5) as informações de que o autor dispunha sobre nomes, palavras, costumes e geografia egípicios seriam extremamente difíceis  de obter para um autor ou redator que tivesse vivido em Canaã, séculos depois da época de Moisés (Gn 13:10; 16:1-3; 33:18; 41:43 cf. At 7:22).",
+          "A posição crítica sobre a autoria do Pentateuco passou por vários estágios. A princípio, Gênesis foi dividido em dois documentos com base nos dois nomes diferentes empregados em relação a Deus, Elohim e Yaweh. Por volta de 1875, Julius Wellhausen defendeu a tese de quatro  documentos a partir  dos quais o Pentateuco teria sido compilado. Esses documentos seriam: J, redigido por volta de 850 a.C. por um escritor desconhecido em Judá; E, redigido por volta de 750 a.C. por outro escritor desconhecido no reino do Norte , Israel; D, composto pelo sumo sacerdote ao tempo do reavivamento comandado pelo rei Josias, em 621 a.C.; e P, composto no período que vai de Ezequiel a Esdras (600-450 a.C.). Descobertas arqueológicas, todavia, muitas delas posteiriores à Primeira Guerra Mundial, têm demosntrado a exatidão histórica do Pentateucoe trouxeram a lume costumes praticados no segundo milênio a.C. e abandonados no primeiro milênio. Como poderia, portanto, um autorm conhecer tais costumes (e.g., a porção dobrada para o filho primogênito, a venda do direito de primogenitura, a validade de um testamento oral; cf. Gn 48:17-20) a não ser que tivesse vivido no período histórico em que eles ocorrerasm?",
+          "Indubitavelmente, Moisés possuía registros escritos e teve acesso a tradições orais sobre a história primeva, os quais usou sob a direção do Espírito  Santo para escrever os acontecimentos anteriores à sua vida. Naturalmente uma outra pessoa escreveu o registro de sua morte(Dt 34)."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Gênesis é a história real de vários indivíduos, fato que é destacado pelas dez divisões (em seguida ao prólogo, Gn 1:1 — Gn 2:3) que normalmente começam com a frase 'Este é o livro da genealogia de' (Gn 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 37:2; cf. Gn 2:4; 5:1). Esta ênfase oferece uma unidade natural ao livro (cf. Lc 3:23-38).",
+          "Gênesis é um  livro sobre as origens de muitas coisas: o mundo, o homem, o pecado, a civilização, as nações e Israel.",
+          "Gênesis também contém temas teológicos importantes: a doutrina do Deus vivo e pessoal; a doutrina do homem criado à imagem de Deus, e depois do homem sujeito ao pecado; a promessa inicial de um Redentor (3:15); e as promessas da aliança feitas à nação de Israel. (Gn 12:1-3; 15:18-21).",
+          "Gênesis é um livro peculiar em toda a literatura do Oriente Médio antigo e é básico para todos os demais livros da Bíblia."
+        ]
+      }
+    }
+  },
+  "ex": {
+    "regard": "Introdução ao livro de",
+    "name": "Êxodo",
+    "date": "1450-1410 a.C.",
+    "author": "Moisés",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "O título hebraico do livro é extraído do primeiro versículo, \"estes são os nomes de\". O nome em português vem do título adotado pela Septuaginta (uma tradução grega). O exôdo (saída) é o tema principal do livro."
+        ]
+      },
+      "p2": {
+        "thumb": "Autoria",
+        "text": [
+          "Desde o tempo de Josué o livro foi atribuído a Moisés (Js 8:31-35; cf. Êx 20:25), uma posição confirmada por Jesus Cristo (cf Mc 12:26). Evidências do próprio livro levam à conclusão  de que seu autor era um homem altalmente instruído, residente no Egito por longo tempo e testemunha ocular do êxodo. Estava bem familiarizado com a sequência das colheitas no Baixo Egito (Êx 9:31-32); suas descrições se conformam exatamente às situações hoje conhecidas (Êx 2:3, 12) e ele inclui detalhes compatíveis apenas com o relato de uma testemunha ocular (e.g, Êx 15:27)."
+        ]
+      },
+      "p3": {
+        "thumb": "A Data do Êxodo",
+        "text": [
+          "Existem dois pontos de vista principais sobre a data em que ocorreu o êxodo: por volta de 1445-1440 a.C., no reinado de Amenotepe II (1450-1425 a.C.), ou 1290 a.C., durante o reinado de Ramsés II (1299-1232 a.C.). A evidência bíblica em favor da data mais recuada inclui a afirmação encontrada em 1Rs 6:1 de que o êxodo ocorrera 480 anos antes do reinado de Salomão, colocando-o assim por volta de 1445 a.C. Além disso, em Jz 11:26, Jefté (por volta de 1100 a.C.) declarou que Israel já dominara a Palestina por 300 anos, o que colocaria o êxodo por volta de 1400 a.C.",
+          "Objeções à data mais recuada incluem: (1) O êxodo não poderia ter ocorrido antes de 1300 a.C. porque a cidade de Ramsés recebeu seu nome do faraó reinante na época de sua construção, e Ramsés só começou a reinar em 1299 a.C. Todavia, se o êxodo ocorreu por volta de 1290 a.C. e Moisés tinhas 80 anos na ocasião,e se levarmos em conta que a cidade foi construída antes do nascimento de Moisés, o êxodo não poderia ter se dado tão recentemente, pois claramente não há tempo para os 80 anos de vida do grande lider entre 1299 e 1290 a.C.; (2) afirma-se que a presença de forte oposição edomita a Israel (Nm 20:20-21) teria sido impossível antes de 1300 a.C. já que a área sul da Transjordânia esteve desocupada de 1900 a 1300 a.C. No entanto, escavações naquela região têm trazido a lume objetos e artigos de cerâmica datados até de 1600 a.C.;(3) alega-se que a cidade de Hazor não foi conquistada pelos israelitas até 1300 a.C. Todavia, as Escrituras afirmam que a cidade foi destruída duas vezes; primeiro nos dias de Josué (Js 11:10-11), e depois nos dias de Débora e Baraque (Jz 4:2, 23-24). Além disso, há evidências, na área escavada no local da cidade, de uma destruição por volta de 1400 a.C.; (4) a destruição de Lasquis (Js 10:32) e Debir (Js 10:38-39) é normalmente datada em torno de 1230-1200 a.C., o que exige a data mais recente para o êxodo. O livro de Josué, todavia, não alega que estas duas cidades tenham sido destruídas por Josué, como ocorreu com Jericó. Além disso, uma vez que a estela do faraó Merneptá indica  que os hebreus estavam estabelecidos em Canaã quando os exércitos egípcios os atacaram por volta de 1230 a.C., o êxodo precisaria ter ocorrido algum tempo antes de 1290 a.C.",
+          "Assim, não há evidência significativa para rejeitarmos a data mais recuada, particularmente à vista da evidência escriturística."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O tema do livro é a libertação do Egito, em cumprimento à promessa de Gn 15:13-14. O livro registra o nascimento da nação Israel, a outorga da Lei e a origem da adoração ritual entre os israelitas. A revelação de Deus é destaque em todo o livro. Ele é Quem controla a história (Êx 1); Ele se revelou através de um novo nome (Ex 3:14); Ele é soberano do relacionamento pactual (Ex 19:5); Ele é redentor fiel (Ex 6:6; 15:13) Ele é juíz de seu povo (Ex 4:14; Ex 20:5; Ex 32:27-28) e de Seus inimigos (Ex 7, Ex 12); Ele é o Deus transcedente (Ex 33:20) que, todavia, vive entre o Seu povo (Ex 29:45). As passagens favoritas do livro incluem o nascimento e proteção  de Moisés (Ex 2), a chamada de Moisés (Ex 3:14; 5:1), a travesia do mar Vermelho (Ex 14), a narrativa do maná (Ex 16), os dez amndamentos (Ex 20), o tabernáculo (Ex 25 — Ex 27) e o bezerro de ouro (Ex 32)."
+        ]
+      }
+    }
+  },
+  "lv": {
+    "regard": "Introdução ao livro de",
+    "name": "Levítico",
+    "date": "1450-1410 a.C.",
+    "author": "Moisés",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "O título em português deste livro, derivado da tradução grega do Antigo Testamento (a Septuaginta) significa \"relativo aos levitas\". Embora o livro seja um manual para os sacerdotes (que eram da tribo de Levi), muitas de suas leis dizem respeito a todos os israelitas. O título hebraico (\"E chamou\", tradução da primeira palavra do livro) enfatiza o tema da chamada divina à santidade."
+        ]
+      },
+      "p2": {
+        "thumb": "Autoria",
+        "text": [
+          "Cerca de 56 vezes no livro afirma-se que o SENHOR falou tais palavras a Moisés, que anotou-as pessoalmente, ou as fez serem registradas (cf. Lv 4:1; 6:1; 8:1; 11:1; 12:1). Jesus Cristo também atestou a autoria mosaica do livro (Mc 1:44; cf. Lv 13:49)."
+        ]
+      },
+      "p3": {
+        "thumb": "Palavras e Temas Importantes",
+        "text": [
+          "O vocabulário de sacrifício permeia todo o livro, com a palavra \"sacrifício\" ocorrendo cerca de 42 vezes. \"Sacerdote\" é encontrada 189 vezes; \"sangue\" 86 vezes; \"santo\", 87 vezes e \" expiação\", 45 vezes. Os regulamentos enfatizam santidade corporal bem como espiritual. O Novo Testamento refere-se a Levítico cerca de 90 vezes."
+        ]
+      },
+      "p4": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "O livro de Êxodo terminou com o levantamento do tabernáculo, construído segundo o padrão qe Deus dera a Moisés. Como iria Israel utilizar, o tabernáculo? As instruções encontradas em Levítico são a resposta a essa pergunta, e foram dadas a Moisés no intervalo de 50 dias entre a inauguração do tabernáculo (Êx 40:17) e a partida do povo do Sinai (Nm 10:11)."
+        ]
+      },
+      "p5": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O livro pode ser entendido de três maneiras complentares. É um livro sobre a santidade de Deus e de Suas exigências para a comunhão com Ele. Assim, é também um livro que revela a pecaminosidade humana e pode ser visto ainda como um livro sobre a expiação, a provisão de acesso a Deus para o homem pecador."
+        ]
+      }
+    }
+  },
+  "nm": {
+    "regard": "Introdução ao livro de",
+    "name": "Números",
+    "date": "1450-1410 a.C.",
+    "author": "Moisés",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "Apropriadamente, o título hebraico do livro, extraído do primeiro versículo, significa \"no deserto\", já que a maior parte do livro registra a história dos israelitas em seus quarenta anos de peregrinação no deserto.",
+          "A Septuaginta (tradução grega do Antigo Testamento), intitulou o livro de \"Arithmoi\" (Números) devido à proeminência dos números do recenseamento (caps. Nm 1 — Nm 3, Nm 26)."
+        ]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "O relato cobre o período entre a partida de Israel do Egito e sua chegada a Canaã. Exatamente um ano depois de terem saído do Egito, os israelitas foram reunidos juntos ao monte Sinai para receberem instruções referentes à Lei e ao Tabernáculo (conforme registrado no livro de Levítico). Números continua a narrativa histórica um mês depois do último capítulo de Êxodo (cf. Êx 40:2 e Nm 1:1). O livro cobre a sinuosa jornada de 39 anos do Sinai a Cades-Barnéia, passando por vários lugares no deserto e chegando, finalmente, às planícies de Moabe, na margem oriental do Jordão, defronte de Jericó."
+        ]
+      },
+      "p3": {
+        "thumb": "Tema",
+        "text": [
+          "A principal lição de Números é que o povo de Deus deve andar pela fé, confiando em Suas promessas, para poder avançar. Para destacar esta verdade, o livro relata a incredulidade do povo em geral (Nm 11:1) e de Miriã e Arão (Nm 12:1), a recusa de entrar na terra prometida quando chegarem a Cades-Barnéia (Nm 14:2), o pecado do próprio Moisés (Nm 20:12) e o culto idólotra (Nm 25:2). No entanto, a despeito de sucessivos fracassos, o Deus de Israel, fiel à Sua aliaça, sustentou milagrosamente o Seu povo durante todos os anos de peregrinação e rebeldia, conduzindo-o finalmente à terra prometida.",
+          "O Novo Testamento usa vários acontecimentos do livro de Números para lembrar aos crentes a seriedade do pecado (compare Jo 3:14 e Nm 21:9; 1Co 10:5-11 e Nm 14:29-35, 16:41-50, 20:1-13; 2Pe 2:15-16, Ap 2:14 e Nm 22:24; Jd 1:11 e Nm 16, Nm 27:3). Tais lições não devem ser esquecidas por nós."
+        ]
+      }
+    }
+  },
+  "dt": {
+    "regard": "Introdução ao livro de",
+    "name": "Deuteronômio",
+    "date": "1410 a.C.",
+    "author": "Moisés",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "O título em português, Deuteronômio (derivado da Septuaginta) significa \"segunda lei\", e vem de uma tradução errada de Dt 17:18, onde se lê \"uma cópia desta lei\". Boa parte do material de Deuteronômio segue o modelo de tais tratados, apresentando as responsabilades de Israel como povo em aliança com Deus. Estão incluídas as repetições de muitas leis contidas em Êxodo, Levítico e Números."
+        ]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "O livro contém os discursos feitos por Moisés  durante os últimos meses de sua vida, quando os israelitas estavam acampando nas planícies de Moabe, antes de sua entrada na terra prometida. Israel se defrontava com guerras, tentações e um novo estilo de vida, mais estabelecida — tudo sob a nova e ainda não provada liderança de Josué. Os ouvintes de Moisés não haviam experimentado pesssoalmente o livramento do mar Vermelho nem a doação da Lei no Sinai; era preciso relembrá-los do poder de Deus e das leis de Deus."
+        ]
+      },
+      "p3": {
+        "thumb": "Autoria do Capítulo 34",
+        "text": [
+          "O registro da morte de Moisés no capítlo 34 não poderia ter sido escrito por ele, mas esta verdade é óbvia não nega, de modo algum, a autoria mosaica do resto do livro. Era bem comum acrescentar um obituário à obra final de grandes homens, e é impossível que alguém (mais provavelmente Josué) não tivesse feita tal adição ao último escrito de Moisés."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O livro pode ser visto como uma constituição para a teocracia de Israel uma vez que estivesse estabelecido na terra. Sua estrutura equivale à do típico tratado de suserania da época: (1) prêambulo, Dt 1:1-5; (2) prólogo histórico, Dt 1:6 — Dt 4:49; (3) provisões principais, Dt 5:1 — Dt 26:19; (4) maldições e bênçãos, Dt 27:1 — Dt 30:20; e (5) disposições para a continuação da aliança, Dt 31:3 — Dt 33:29. ",
+          "Jesus Cristo citou este livro ao responder ao Diabo (Mt 4:1-11) e ao resumir a Lei (Mt 22:37). Dos 27 livros do N.T., 17 citam Deuteronômio.",
+          "Algumas passagens especialmente importantes incluem: Dt 5:6-21 (os dez mandamentos); Dt 6:4-9 (o Shema, \"Ouve ó Israel\"); Dt 13:1-5 (sobre falsos profetas); Dt 18:9-15 (sobre falsos adivinhos); Dt 29:1 — Dt 30:20 (a aliança palestina)."
+        ]
+      }
+    }
+  },
+  "js": {
+    "regard": "Introdução ao livro de",
+    "name": "Josué",
+    "date": "1400-1370 a.C.",
+    "author": "Josué",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "Basicamente o livro foi composto pelo próprio Josué. É claro que algumas partes — tais como Js 15:13-17 (cf. Jz 1:9-13) e Js 24:29-31 — não poderiam ter sido escritas por ele. Tais passagens poderiam ter sido escritas por Eleazar, sumo sacerdote; ou por Finéias, seu filho. Josué, todavia, é especificado como o autor de Js 24:1-26, e o autor do livro claramente foi testemunha ocular da maioria dos eventos regristrados — veja, por exemplo, Js 5:1 (em alguns manuscritos há o pronome \"nós\" em lugar de \"os filhos de Israel\") e Js 5:6 (nos aparece no original). Também é evidente que o livro foi escrito pouco tempo depois de seus eventos terem acontecido (Js 6:25)."
+        ]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "O livro descreve a conquista e a divisão da terra de Canaã, tendo como pano de fundo as características corruptas e brutais da religião cananita, claramente retratadas nos tabletes de Ras Shamra. Prostituição de ambos os sexos, sacrifícios de crianças e sincretismo religioso eram alguns dos males pelos quais Deus ordenou aos israelitas a destruição completa dos habitantes de Canaã. Boa parte do declínio espiritual de Israel, anos depois, se deveu ao fato de os cananeus não teremm sido completamente exterminados. Como resultado, sua religião foi tolerada e frequentemente absorvida pelos israelitas.",
+          "Os acontecimentos de Josué começam onde terminam os de Deuteronômio. Quanto a uma análise da época da conquista, consultar a Introdução ao Livro de Êxodo."
+        ]
+      },
+      "p3": {
+        "thumb": "Josué, o Homem",
+        "text": [
+          "Evidentemente nascido no Egito, Josué (cujo nome significa \"Javé é salvação\") pode ter servido no exército de Faraó. Fato ou não, ele já estava militarmente qualificado para comandar as forças israelitas contra os amalequitas em Refidim (Êx 17:8-16). Serviu como atendente pessoal de Moisés durante o ano passado no monte Sinai (Êx 24:13).Como representante da tribo de Efraim, percorreu a terra de Canaã com os outros 11 espias e, com Calebe, se opôs ao relatório derrotista da maioria que não queria conquistar a terra (Nm 14:6-9). Antes da morte de Moisés, Josué foi comissionado como seu sucessor (Nm 27:18-23), e conduziu o povo na conquista de Canaã. Suas qualidades marcantes eram fé, coragem, obediência e devoção à Lei de Deus."
+        ]
+      },
+      "p4": {
+        "thumb": "Data",
+        "text": [
+          "Pressupondo a data mais recuada para o êxodo do Egito (veja a Introdução ao Livro de Êxodo), a conquista de Canaã sob a liderança de Josué aconteceu por volta de 1400 a.C. A data mais recente para o êxodo situa a conquista de Canaã por volta de 1240 a.C., uma data mais difícil de harmonizar com a insignificante presença dos filisteus no livro de Josué (Js 13:2-3), já que tinha grande poder na Palestina por volta 1200 a.C."
+        ]
+      },
+      "p5": {
+        "thumb": "Ênfases Principais",
+        "text": [
+          "O livro enfatiza: (1) a fidelidade divina em concender a Israel a terra de Canaã (cf. Gn 13:15); (2) a importância da Lei Escrita (Js 1:8; 8:32-35; 23:6-16; 24:26-27); e (3) a santidade de Deus ao julgar os pecados dos cananeus (cf. Dt 7:1-6)."
+        ]
+      }
+    }
+  },
+  "jz": {
+    "regard": "Introdução ao livro de",
+    "name": "Juízes",
+    "date": "1050-1000 a.C.",
+    "author": "Anônimo",
+    "content": {
+      "p1": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "Os acontecimentos dete livro cobrem o turbulento período da história de Israel que vai de 1380 a 1050 a.C., da conquista da Palestina ao começo da monarquia. Embora a terra tivesse sido conquistada e ocupada, de modo geral, sob a liderança de Josué, muitos bolsões de resitência cananita haviam sido deixados para que as tribos os destruíssem individualmente. O Livro de Juízes descreve estas lutas, transcorridas quando os israelitas tentavam completar sua ocupação da terra.",
+          "Os juízes eram liders civis e militares que exerceram autoridade durante este período em que Israel era uma confederação praticamente sem estrutura. Alguns dos juízes foram contemporâneos, já que não exerciam sua autoridade sobre otda a terra."
+        ]
+      },
+      "p2": {
+        "thumb": "Autoria e Data",
+        "text": [
+          "Embora o autor do livro seja desconhecido, o Talmude sugere que foi Samuel, e é bem possível que ele tenha escrito algumas partes do livro. Juízes foi escrito depois da morte de Sansão e depois da coroação do rei Saul, mas antes da conquista de Jerusalém por Davi, por volta de 990 a.C. (veja Jz 1:21; 17:6;18:1; 19:1; 21:25)."
+        ]
+      },
+      "p3": {
+        "thumb": "Propósito",
+        "text": [
+          "Historicamente, o livro serve como elo entre a conquista da Palestina e a monarquia. Teologicamente, oferece muitos exemplos do princípio de que a obediência à Lei trazia paz, ao passo que a desobediência significava opressão e morte. Espiritualmente, a fidelidade de Deus em perdoar Seu povo arrependido é vista mesmo neste período, quando \"cada um fazia o que achava mais reto\" (Jz 17:6; 21:25)."
+        ]
+      },
+      "p4": {
+        "thumb": "UMA CRONOLOGIA DE NAÇÕES OPRESSORAS E JUÍZES LIBERTADORES",
+        "table": [
+          ["Opressor", "Data (a.C.)", "Juiz", "Data (a.C.)", "Referência"],
+          ["Mesopotâmia", "1361-1353", "Otniel", "1353-1313", "Jz 3:7-11"],
+          ["Moabe", "1313-1295", "Eúde", "1295-1215", "Jz 3:12-30"],
+          ["Filístia", "?", "Sangar", "?", "Jz 3:31"],
+          [
+            "Canaã",
+            "1215-1195",
+            "Débora e Baraque",
+            "1195-1155",
+            "Jz 4:1 — Jz 5:31"
+          ],
+          ["Midiã", "1155-1148", "Gideão", "1148-1108", "Jz 6:1 — Jz 8:28"],
+          ["Abimeleque", "1108-1105", "", "", "Jz 9:1-57"],
+          ["Amom", "1105", "Jefté", "1105-1099", "Jz 10:6 — Jz 12:7"],
+          [
+            "Filístia",
+            "1099-1059",
+            "Sansão",
+            "1085-1065",
+            "Jz 13:1 — Jz 16:31"
+          ],
+          ["", "", "", "", ""]
+        ]
+      }
+    }
+  },
+  "rt": {
+    "regard": "Introdução ao livro de",
+    "name": "Rute",
+    "date": "c. 1000 a.C.",
+    "author": "Desconhecido",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "O autor é desconhecido, embora alguns sugiram o nome de Samuel."
+        ]
+      },
+      "p2": {
+        "thumb": "Data",
+        "text": [
+          "Embora os acontecimentos do livro datem do período dos juízes (talvez a última parte do século XII a.C.), o livro em si não foi escrito senão muitos anos depois. (Observe-se que o autor se sentiu obrigado a explicar costumes já não praticados, Rt 4:6-8.) Os últimos versículos do livro apresentam a descendência de Rute apenas até o rei Davi, sugerindo fortemente que o livro foi escrito durante o seu reino. Se tivesse sido escrito mais tarde, seria de se esperar que a genealogia se estendesse pelo menos até Salomão."
+        ]
+      },
+      "p3": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "O livro oferece um vislumbre das vidas de pessoas comuns, ainda que tementes a Deus, durante o turbulento período dos juízes (veja a Introdução ao Livro de Juízes). O livro é um oásis de fidelidade numa era marcada pela idolatria e infidelidade."
+        ]
+      },
+      "p4": {
+        "thumb": "Temas",
+        "text": [
+          "(1) A própria Rute demonstra que os gentios podiam crer no verdadeiro Deus. (2) O livro fornece uma genealogia parcial de Davi, e mostra que havia sangue gentio na linhagem de Cristo, Aquele que se tornou o Salvador de toda a humanidade. (3) Boaz, como resgatador, fornece-nos um belo tipo de Cristo, na medida em que (a) era um parente de sangue (Rm 1:3; Hb 2:14); (b) tinha os recursos com que comprar a herança que fora perdida (1Pe 1:18-19); (c) estava disposto a resgatar (Hb 10:7). (4) O livro é um exemplo tocante da maravilhosa soberania de Deus exercida em Seu cuidado por Seu povo (cf. Rt 2:12)."
+        ]
+      }
+    }
+  },
+  "1sm": {
+    "regard": "Introdução ao livro de",
+    "name": "1 Samuel",
+    "date": "De 930 a.C. em diante",
+    "author": "Samuel e outros",
+    "content": {
+      "p1": {
+        "thumb": "Autores",
+        "text": [
+          "Embora os dois livros de Samuel recebam seu nome por ser ele a figura principal dos primeiros capítulos, Samuel não poderia ter escrito mais do que uma parte de 1 Samuel, já que sua morte é registrada no capítulo 25. O fato de ter ele escrito um livro fica comprovado em 1Sm 10:25. 1Cr 29:29 indica que Natã e Gade também escreveram sobre os acontecimentos registrados em Samuel."
+        ]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "Samuel emergiu como o último juiz do período dos juízes, que durou cerca de 350 anos. O livro cobre o período de aproximadamente 115 anos, da infância de Samuel ao início do reinado de Davi. Surgindo no cenário civil-religioso de Israel num dos períodos mais negros da história israelita, Samuel convocou o povo a um reavivamento do verdadeiro culto a Javé (o SENHOR; At 3:24). Ele foi também um estabelecedor de reis, ungindo tanto a Saul quanto a Davi (1Sm 10:1 e 1Sm 16:13). Assim, o livro de 1 Samuel fornece um elo entre os juízes e a monarquia."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Primeiro Samuel focaliza três personagens principais: Samuel, Saul e Davi (2 Samuel focaliza exclusivamente Davi). A principal lição do livro tem a ver com os efeitos do pecado e da santidade em relaão ao povo e seus líderes. Histórias bem conhecidas no livro incluem a de Davi e Golias (1Sm 17), Davi e Jônatas (1Sm 18), e Saul e a feiticeira de En-Dor (1Sm 28)."
+        ]
+      }
+    }
+  },
+  "2sm": {
+    "regard": "Introdução ao livro de",
+    "name": "2 Samuel",
+    "date": "De 930 a.C. em diante",
+    "author": "Samuel e outros",
+    "content": {
+      "p1": {
+        "thumb": "Relação com 1 Samuel",
+        "text": [
+          "Na Bíblia Hebraica, 1 e 2 Samuel formam um único livro. Com respeito as questões de autoria, data e contexto histórico, consultar a Introduçaõ a 1 Samuel."
+        ]
+      },
+      "p2": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Primeiro Samuel termina com a morte do primeiro rei de ISrael, Saul. Segundo Samuel registra a história do reinado de Davi, incluindo seu estabelecimento dos centros político e religioso da nação em Jerusalém, o ínicio da dinastia davídica, as grandes vitórias militares de Davi, seu vergonhoso pecado com Bate-Seba e seu erro ao recensear o povo. 2 Samuel 7:4-14 registra a importante (e ainda a ser totalmente cumprida) aliança feita por Deus com Davi e seus descendentes."
+        ]
+      }
+    }
+  },
+  "1rs": {
+    "regard": "Introdução ao livro de",
+    "name": "1 Reis",
+    "date": "c. 550 a.C.",
+    "author": "Jeremias",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "Composto originalmente como um único livro, 1 e 2 Reis têm um título apropriado ao seu conteúdo que retrata a história dos reis de Israel e Judá, desde Salomão até o cativeiro babilônico. Primeiro Reis termina abruptamente no começo do reinado de Acazias em 853 a.C."
+        ]
+      },
+      "p2": {
+        "thumb": "Autor",
+        "text": [
+          "A tradição judaica atribui o livro ao profeta  Jeremias. É bem evidente que o autor se valeu de fontes históricas para a compilação do livro (1 Rs 11:41; 1 Rs 14:19, 29), e o último capítulo de 2 Reis deve ter sido escrito por alguém que viveu na Babilônia e não no Egito, onde Jeremias passou seus últimos dias."
+        ]
+      },
+      "p3": {
+        "thumb": "Propósito",
+        "text": [
+          "O próposito do livro não é apenas registrar a história dos reis, mas demonstrar que o sucesso de qualquer rei (e da nação como um todo) dependia da medida de sua fidelidade à lei de Deus. O fracasso resultou em declínio e cativeiro."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Passagens importantes em 1 Reis incluem a descrição da grande sabedoria de Salomão (caps. 1 Rs 3 — 1 Rs 4), a dedicação do templo construído por Salomão (1 Rs cap. 8), a visita da rainha de Sabá (1 Rs cap. 10) e o ministério de Elias (particularmente sua confrontação com os profetas de Baal no monte Carmelo, 1 Rs cap. 18)."
+        ]
+      }
+    }
+  },
+
+  "2rs": {
+    "regard": "Introdução ao livro de",
+    "name": "2 Reis",
+    "date": "c. 550 a.C.",
+    "author": "Jeremias",
+    "content": {
+      "p1": {
+        "thumb": "Título, Autor e Data",
+        "text": [
+          "Uma vez que 1 e 2 Reis formavam originalmente um único livro, consulte a Introdução a 1 Reis para um exame destes assuntos."
+        ]
+      },
+      "p2": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Continuando onde 1 Reis terminara (com Acazias), 2 Reis descreve o declínio e o cativeiro tanto de Israel quanto de Judá. Israel suportou uma sucessão de maus reis durante 130 anos, até o cativeiro assírio. A história de Judá, culminando com o cativeiro babilônico, é contada com poucos detalhes. O livro também registra o ministério de Eliseu, marcado por milagres. Passagens bem conhecidas incluem a ressurreição do filho da sunamita (2 Rs cap. 4), a cura de Naamã, o general sírio leproso (2 Rs cap. 5), a morte de Jezabel (2 Rs cap. 9) e os reavivamentos nos reinados de Ezequias (2 Rs cap. 18) e Josias (2 Rs cap. 23).",
+          "Durante este período, Amós e Oséias profetizaram em Israel, enquanto Obadias, Joel, Isaías, Miquéias, Naum, Habacuque, Sofonias e Jeremias ministraram em Judá."
+        ]
+      }
+    }
+  },
+  "1cr": {
+    "regard": "Introdução ao livro de",
+    "name": "1 Crônicas",
+    "date": "450-425 a.C.",
+    "author": "Esdras",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "Originalmente formava um só livro com 2 Crônicas (até 180 a.C.), cujo título hebraico significa \"as palavras (negócios) dos dias\", i.e., os anais de Israel, de Adão ao cativeiro banilônico e o decreto de Ciro permitindo aos exilados judeus voltar à sua terra. Num certo sentido é \"uma miniatura do Antigo Testamento\", registrando de forma resumida o fluxo da história do Antigo Testamento."
+        ]
+      },
+      "p2": {
+        "thumb": "Autoria",
+        "text": [
+          "Embora não especificado por nome no livro, Esdras tem sido tradicionalmente apontado como seu autor. Inquestionavelmente, ele utilizou fontes escritas para escrever o livro, incluindo-se nestas os registros proféticos de Samuel (1 Cr 32:32) e outros (2 Cr 9:29; 12:15; 20:34; 33:19), mas em particular uma fonte chamada \"o livro dos reis de Judá e Israel\" (2 Cr 16:11; 25:26). Não se trata, todavia do livro canônico de 1 e 2 Reis, mas de um relato palaciano mais antigo."
+        ]
+      },
+      "p3": {
+        "thumb": "Propósito",
+        "text": [
+          "Esdras, que conduziu um grupo de exilados de volta à Palestina em 458 a.C., tinha a preocupação de estabelecer um alicerce espiritual sólido para o povo. Para alcançar tal objetivo, ele evidentemente compilou o livro de Crônicas para enfatizar a importância da pureza religiosa e racial, o lugar apropriadamente da Lei, do templo e do sacerdócio. Assim, ele omite as atividades detalhadas dos reis e profetas, enfatizando a rica herança do povo e a beção de seu relacioanemtno pactual com Deus."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Primeiro Crônicas é um livro saturado de genealogias, com um foco especial no reinado de Davi. Porções importantes incluem  a declaração da grande aliança com Davi (1 Cr 17:11-14) e a magnífica oração de louvor pronunciada por Davi (1 Cr 29:10-19)."
+        ]
+      }
+    }
+  },
+  "2cr": {
+    "regard": "Introdução ao livro de",
+    "name": "2 Crônicas",
+    "date": "450-425 a.C.",
+    "author": "Esdras",
+    "content": {
+      "p1": {
+        "thumb": "Título, Autoria e Propósito",
+        "text": [
+          "Uma vez que 1 e 2 Crônicas eram originalmente, um só livro, consultar a Introdução a 1 Crônicas para o tratamento destes assuntos."
+        ]
+      },
+      "p2": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Começando onde 1 Crônicas parou, 2 Crônicas registra a história do reinado de Salomão (971-931 a.C.) e de todos os reis de Judá, desde Roboão (931 a.C.) até Zedequias (586 a.C.). Assim, o livro cobre o mesmo período em 1 e 2 Reis, embora 2 Crônicas focalize exclusivamente os reis de Judá, excluindo os reis de Israel. A desobediência à Lei mosaica foi a razão do cativeiro babilônico. O livro termina com uma breve menção ao decreto de Ciro, promulgado em 539 a.C., pelo qual os judeus receberam permissão de voltar à Judéia e construir seu templo.",
+          "Passagens significativas incluem a oração de Salomão pedindo sabedoria (2 Cr 1:7-12), a dedicação do magnífico templo por ele construído (2 Cr caps. 5 - 2 Cr 7), a visita da rainha de Sabá (2 Cr 9:1-12) e a predição da duração do cativeiro ( 2 Cr 36:20-21). Versículos favoritos neste livro são 2 Cr 7:14 e 2 Cr 16:9."
+        ]
+      }
+    }
+  },
+  "ed": {
+    "regard": "Introdução ao livro de",
+    "name": "Esdras",
+    "date": "450-444 a.C.",
+    "author": "Esdras",
+    "content": {
+      "p1": {
+        "thumb": "Título e autoria",
+        "text": [
+          "A obra, que recebe o nome do seu principal personagem, formava a princípio um só livro com Crônicas e Neemias. Embora Esdras não seja citado no texto como seu autor, o mais provável é que ele o tenha escrito usando como fontes vários documentos históricos (e.g. Ed 4:7-16), genealogias (e.g., Ed 2) e memórias pessoais (e.g., Ed 7:27 — Ed 9:15). Na Vulgata (a Bíblia em latim), Esdras e Neemias são intitulados 1 e 2 Esdras, ao passo que o livro apócrifo de 1 Esdras é denominado 3 Esdras."
+        ]
+      },
+      "p2": {
+        "thumb": "Data",
+        "text": [
+          "Embora alguns comentaristas datem o livro por volta de 330 a.C., suas semelhanças lingüísticas com os papiros aramaicos da comunidade judaica de Elefantina, no Egito, identificados como pertencentes ao século V a.C., apontam para uma data mais antiga, durante a vida de Esdras (que viveu até a época de Neemias, Ne 8:1-9; 12:36). É provável que Esdras tenha terminado o livro entre 456 a.C. (quando ocorreram os eventos de Ed 10:17-44) e 444 a.C., quando Neemias chegou a Jerusalém."
+        ]
+      },
+      "p3": {
+        "thumb": "Contexto histórico",
+        "text": [
+          "O livro registra o cumprimento da promessa divina de restaurar Israel à sua terra depois dos setenta anos de cativeiro na Babilônia (Jr 25:11). Isso se deu com a ajuda de três monarcas persas (Ciro, Dario e Artaxerxes) e também de líderes judeus como Zorobabel, Josué, Ageu, Zacarias e Esdras. Ciro conquistou a Babilônia em outubro de 539 a.C. e, seguindo sua política de estimular os povos subjugados a retornarem às suas terras de origem, promulgou em 538 a.C. um decreto autorizando os judeus a fazerem o mesmo (veja a introdução ao livro de Zacarias). Cerca de cinqüenta mil pessoas retornaram sob a liderança de Zorobabel e lançaram os alicerces do templo, que, no entanto, só viria a ser concluído em 515 a.C., durante o reinado de Dario. Os capítulos Ed 1 — Ed 6 descrevem estes acontecimentos. Os capítulos Ed 7 — Ed 10 tratam do retorno de Esdras a Jerusalém, sob os auspícios do rei Artaxerxes, afim de ajudar a promover um reavivamento espiritual no meio de seu povo.",
+          "Os reis persas envolvidos neste período (em relação a Esdras e a outras porções do AT) são os seguintes:",
+          [
+            [
+              "Rei",
+              "Data",
+              "Capítulos Correspondentes em Esdras",
+              "Relação com outros livros no AT"
+            ],
+            [
+              "Ciro",
+              "559-530",
+              "Ed 1 — Ed 6 (embora não haja menção de Cambises e Smerdis)",
+              "Ageu (520)"
+            ],
+            ["Cambises", "530-522", "", "Zacarias (520-518)"],
+            ["Smerdis", "522", "", ""],
+            ["Dario I", "521-486", "", ""],
+            ["Xerxes I (Assuero)", "486-465", "Ed 4:6", "Ester (465)"],
+            [
+              "Artaxerxes I",
+              "464-424",
+              "Ed 4:7-23 e Ed 7 — Ed 10",
+              "Malaquias (450-400)"
+            ],
+            ["Dario II", "423-404", "", "Neemias (445-425)"],
+            ["", "", "", ""]
+          ]
+        ]
+      }
+    }
+  },
+  "ne": {
+    "regard": "Introdução ao livro de",
+    "name": "Neemias",
+    "date": "445-425 a.C.",
+    "author": "Neemias",
+    "content": {
+      "p1": {
+        "thumb": "O Homem Neemias",
+        "text": [
+          "Como copeiro do rei Artaxerxes I, a posição de Neemias era de grande responsabilidade (comprovar que o vinho bebido pelo rei jamais estivesse envenenado) e de muita influência (já que um servo que desfrutava de tanta confiança frequentemente se tornava um conselheiro bem íntimo). Ao ouvir que as muralhas de Jerusalém ainda não haviam sido reconstruídas, e recebendo permissão do rei para ir a Jerusalém e corrigir a situação, demonstrou qualidades ímpares de liderança  e organização. Em 52 dias o trabalho de reconstrução foi terminado. Como governador de Judá, Neemias demonstrou humildade, integridade, patriotismo, energia, piedade e altruísmo. Depois de doze anos no cargo, ele retornou por pouco tempo à corte de Artaxexes (Ne 1:1; 13:6) e de lá voltou a Judá, onde exortou seu povo ao arrependimento.",
+          "Tão vívido e franco é o relato que muito do material contido no livro provém do que deve ter sido o diário pessoal de Neemias. Quanto à relação entre este livro e Esdras, veja a Introdução a Esdras."
+        ]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "Consulte a Introdução a Esdras. Os papiros de Elefantina, descobertos em 1903, confirmam a historicidade do livro de Neemias, mencionando Sambalá (Ne 2:19) e Joanã (Ne 6:18; 12:23). Estas fontes também indicam que Neemias deixou de ser governador de Judá antes de 408 a.C."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O livro completa a história da restauração do remanescente que voltara do exílio em Babilônia, restauração esta começada sob a liderança de Esdras. Marca também o ínicio das \"setenta semanas\" de Daniel, e fornece o contexto histórico para a profecia de Malaquias."
+        ]
+      }
+    }
+  },
+  "et": {
+    "regard": "Introdução ao livro de",
+    "name": "Ester",
+    "date": "c. 465 a.C.",
+    "author": "Incerto",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "Embora seu nome nos seja desconhecido, o autor deste livro era evidentemente um judeu (o nacionalismo judeu permeia o livro), pessoalmente familiarizado com o reino de Assuero e como o palácio em Susã. O livro deve ter sido escrito pouco depois do final do reino de Assuero, já que a administração é nele mencionada como algo passado. (Et 10:2-3)."
+        ]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico",
+        "text": [
+          "Os acontecimentos deste livro cobrem um período de 10 anos (483-473) do reinado de Xerxes I (486-465). A forma hebraica de seu nome é Ahaswerosh, equivalente ao persa Khshayarsha e ao grego Xerxes. Os acontecimentos transcorrem entre o sexto e o sétimo capítulo do livro de Esdras (veja a Introdução a Esdras para obter informações históricas adicionais)."
+        ]
+      },
+      "p3": {
+        "thumb": "Tema",
+        "text": [
+          "Embora o nome de Deus são seja mencionado, Sua soberania e providência são evidentes em toda a narrativa. A rejeição de Vasti, a posição de rainha obtida por Ester, a dívida de gratidão de Xerxes para com Mordecai descoberta durante  uma noite de insônia, e a maravilhosa libertação dos judeus, todos estes fatos demonstram o controle de Deus e Seu cuidado para com o Seu povo (Sl 121:4). O livro também explica a origem da Festa de Purim, celebrada nos dias 13 e 14 de adar (fev. — mar.), quando os judeus celebram sua libertação do plano destruidor de Hamã."
+        ]
+      },
+      "p4": {
+        "thumb": "Exatidão Histórica",
+        "text": [
+          "As objeções levantas quanto à historicidade do livro de Ester incluem as seguintes: (1) a história secular não menciona nem Vasti nem Ester como rainhas durante o reinado de Xerxes. Contudo, Heródoto, que frequentemente omite personagens importantes (como Belsazar, Dn 5), relata que Xerxes buscou consolo em seu harém depois de sua derrota perante os gregos em Salamina, o que ocorreu no mesmo ano em que Ester foi feita rainha (Ester 2:16; Heródoto 7:7); (2) alega-se, com base em Ester 2:5-6, que o livro indica ter sido Xerxes sucessor imediato de Nabucodonosor, já que a referida pasagem parece dizer que Mordecai fora deportado por Nabucodonosor em 597 a.C. e ainda vivia no reinado de Xerxes. Entretanto, o antecedente do pronome relativo que no versículo 6 tem não é Mordecai, mas Quis, seu bisavô; (3) a matança de 75.000 inimigos dos judeus em um só dia, sem intervenção aparente dos persas (Et 9:16-17), tem recebido objeções. Todavia, embora incomum, tal feito não seria jamais impossível, devido à conhecida indiferença persa para com a vida humana e à preparação e ao armamento prévio dos judeus (8:13)."
+        ]
+      },
+      "p5": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Indubitavelmente Et 4:14 é o versículo mais conhecido do livro, enfatizando o tema do controle divino sobre todos os acontecimentos."
+        ]
+      }
+    }
+  },
+  "job": {
+    "regard": "Introdução ao livro de",
+    "name": "Jó",
+    "date": "Incerta",
+    "author": "Incerto",
+    "content": {
+      "p1": {
+        "thumb": "Autor",
+        "text": [
+          "Embora saibamos que o título do livro se deriva de seu personagem principal e que Jó foi um personagem histórico (Ez 14:14, 20; Tg 5:11), não sabemos ao certo quem de fato escreveu o livro. As sugestões incluem o próprio Jó, Eliú, Moisés e Salomão."
+        ]
+      },
+      "p2": {
+        "thumb": "Data",
+        "text": [
+          "A data dos acontecimentos e a data de autoria do livro são dois assuntos diversos. Os fatos provavelmente aconteceram numa sociedade patriarcal no segundo milênio a.C., por volta da época de Abraão. Vários fatores apoiam esta posição: (1) Jó viveu mais de 140 anos (Jó 42:16), um tempo de vida normal durante a era patriarcal; (2) na época de Jó, a economia era semelhante à do período patriarcal, em que a riqueza era medida em termos de cabeças de gado (Jó 1:3) tal como Abraão, Isaque e Jacó, Jó agia como sacerdote de sua família (Jó 1:5); (4) a ausência de qualquer referência à nação de Israel e à lei mosaica sugere uma data pré-mosaica (antes de 1500 a.C.).",
+          "Três pontos de vista são os mais importantes com respeito à data de autoria: (1) na era patriarcal, logo depois dos acontecimentos narrados no livro; (2) ao tempo  de Salomão (950 a.C.); (3) na época do exílio ou depois, embora a menção de Jó por Ezequiel (Ez 14:14) negue data tão recente. O relato detalhado dos discursos de Jó e seus amigos parece argumentar a favor de uma data de autoria bem próxima dos acontecimentos. Por outro lado, o livro partilha das características de outras obras da literatura sapiencial (por exemplo, Sl 88 e Sl 89), escritas durante a era salomônica, e deve ser considerado um poema dramático que descreve acontecimentos reais, apesar de não ser um relato literal."
+        ]
+      },
+      "p3": {
+        "thumb": "Tema",
+        "text": [
+          "O livro luta com a antiquíssima pergunta: \"Por que sofrem os justos, se Deus é um Deus de amor e misericórdia?\" Ensina claramente a soberania de Deus e a necessidade humana de reconhecê-la. Os três amigos de Jó ofereceram essencialmente a mesma resposta: todo sofrimento se deve ao pecado. Eliú, todavia, declarou que o sofrimento é frequentemente o meio de purificar os justos. O propósito de Deus, portanto, era eliminar da vida de Jó toda a autojustificação e levá-lo ao ponto de confiança plena e exclusiva nEle."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O livro oferece vislumbres importantes sobre a atividade de Satanás (Jó 1:6 — Jó 2:10). Os versículos mais conhecidos do livro são 19:25-26."
+        ]
+      }
+    }
+  },
+  "sl": {
+    "regard": "Introdução ao livro dos",
+    "name": "Salmos",
+    "date": "1000 a 333 a.C.",
+    "author": "Vários",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "A variedade de cânticos, lamentos e louvores deste livro fez com que permanecesse anônimo no Antigo Testamento. Os judeus referiam-se a ele como \"o Livro de Salmos\" (de uma palavra grega que indica canções acompanhadas por instrumentos de corda). Este livro era o hinário do povo judeu."
+        ]
+      },
+      "p2": {
+        "thumb": "Autoria e Data",
+        "text": [
+          "Os títulos dos vários salmos relacionam 73 deles a Davi, dois a Salomão, doze aos filhos de Coré, doze a Asafe, um a Hemã (1 Rs 4:31), um a Etã (1 Cr 15:19), e um a Moisés. A maioria dos salmos foi escrita durante o tempo de Davi e Salomão(século X a.C.)."
+        ]
+      },
+      "p3": {
+        "thumb": "A Natureza da Poesia Hebraica",
+        "text": [
+          "Ao contrário da maior parte da poesia ocidental, a poesia hebraica não se baseia em rima ou métrica, mas no ritmo e no paralelismo. O ritmo não é obtido pela disposição exata de sílabas acentuadas e não acentuadas, mas pela ênfase tonal e pela acentuação de palavras importantes.",
+          "No paralelismo, o poeta declara uma ideia na primeira linha, e depois a reforça de várias maneiras na(s) linha(s) subsequente(s). O tipo mais comum é o paralelismo sinônimo, em que a segunda linha repete essencialmente a idéia da primeira (Sl 3:1). No paralelismo antitético, a segunda linha contém uma idéia oposta à da primeira (Sl 1:6). No paralelismo sintético, a segunda linha ou as linhas subsequentes adicionam algo ou desenvolvem a idéia da primeira (Sl 1:1-2). No paralelismo emblemático, a segunda linha eleva o pensamento da primeira, frequentemente pelo uso de uma símile (Sl 42:1). Paralelismos não são restritos a apenas duas linhas, podendo se estender a estrofes (unidades menores contendo poucas linhas) ou a cantos (unidades mais longas). O acróstico alfabético também é utilizado (no Sl 119; Introdução a Lamentações)."
+        ]
+      },
+      "p4": {
+        "thumb": "Classificação do Salmos",
+        "text": [
+          "As categorias de salmos mais geralmente reconhecidas são: (1) os salmos de lamento e petições, tanto individuais (Sl 3) quanto coletivos (Sl 44); (2) salmos de ações de graça ou louvor, tanto individuais (Sl 30) quanto coletivos ou comunitários (Sl 65); (3) salmos de confiaça em Deus (Sl 4); (4) hinos, que incluem salmos de entronização de Javé, salmos relativos a Jerusalém (Sl 48), e salmos reais (alguns dos quais são messiânicos; Sl 2 e Sl 110); e (5) salmos didáticos e sapienciais (Sl 1, Sl 37 e Sl 119). Os salmos também podem ser classificados segundo seus temas; por exemplo a criação (Sl 8 — Sl 19), o Êxodo (Sl 78), imprecação (Sl 7), penitência (Sl 6), salmos de peregrinação (Sl 120). Salmos que contém profecias importantes relativas ao Messias incluem os salmos (Sl 2, 8, 16, 22, 40, 45, 72, 110 e 118)."
+        ]
+      },
+      "p5": {
+        "thumb": "Títulos e Termos Técnicos",
+        "text": [
+          "Todos os salmos, à exceção de 34, contêm títulos ou sobrescritos que normalmente constituem o primeiro versículo do texto hebraico. Tratam-se de títulos editoriais, acrescentados depois de os salmos terem sido escritos, mas são historicamente exatos.",
+          "Os dois termos técnicos mais comumente usados são: (1) Selá (que ocorre 71 vezes nos Salmos e três vezes em Habacuque 3), e que provavelmente era uma notação musical indicando um interlúdio ou uma mudança de acompanhamento musical (Obs: Na versão Almeida Revista e Atualizada, o termo \"Selá\" foi eliminado do texto.); e (2) Ao mestre de canto, expressão presente em 55 salmos (e Habacuque 3:19) e que sugere a existência de uma coleção de poemas dedicados a, ou reservados para o chefe dos cantores, possovelmente para uso em ocasiões especiais. Demais títulos e termos são comentados nos salmos em que ocorrem."
+        ]
+      },
+      "p6": {
+        "thumb": "Salmos Imprecatórios",
+        "text": [
+          "Estes salmos (Sl 7, 35, 55, 58, 59, 69, 79, 109, 137 e 139), que invocam juízo ou maldições sobre os inimigos do salmista têm deixado perplexos muitos comentaristas. Deve-se considerar, entretanto, que os propósitos destas imprecações são: (1) demonstrar o justo e reto juízo de Deus contra os ímpios (Sl 58:11); (2) demonstrar a aautoridade de Deus sobre os ímpios (Sl 59:13); (3) levar o ímpio a buscar o Senhor (Sl 83:16); (4) fazer com que os justos louvem a Deus (Sl 7:17). Por isso, motivados por seu zelo para com Deus e sua repulsa para com o pecado, os salmistas clamam a Deus para que puna o perverso e vindique a Sua justiça."
+        ]
+      },
+      "p7": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Os Salmos são divididos em cinco livros, cada um dos quais termina com uma doxologia (Sl 1 — Sl 41; Sl 42 — Sl 72; Sl 90 — Sl 106; Sl 107 — Sl 150) A nota incial de cada salmo contém um resumo de seu conteúdo."
+        ]
+      },
+      "p8": {
+        "thumb": "Expressões comuns",
+        "text": [
+          "As seguintes expressões ocorrem frequentemente nos salmos:",
+          [
+            ["Selá", "Masquil", "Mictam", " Seol"],
+            [
+              "Pode significar Pausa, Crescendo ou Interlúdio Musical.",
+              "Possivelmente Salmo Contemplativo, Didático ou Judicioso.",
+              "Possivelmente Poema Epigramático ou Salmo Expiatório.",
+              "O mundo inferior; o mundo dos mortos."
+            ],
+            ["", "", "", ""]
+          ]
+        ]
+      }
+    }
+  },
+  "pv": {
+    "regard": "Introdução ao livro de",
+    "name": "Provérbios",
+    "date": "950-700 a.C.",
+    "author": "Salomão e outros",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "Segundo 1 reis 4:32, Salomão proferiu 3.000 provérbios e 1.005 cânticos. Ele escreveu a maior parte dos provérbios coletados neste livro. A divisão que vai de 1:1 — 9:18 é atribuída a ele, bem como as divisões de 10:1 — 22:16 e 25:1 —29:27, embora os provérbios nesta última divisão tenham sido selecionados da coleção de Salomão pelos escribas do rei Ezequias (Pv 25:1). Nada sabemos sobre Agur, autor do capítulo 30, ou de Lemuel, autor do capítulo 31."
+        ]
+      },
+      "p2": {
+        "thumb": "Características",
+        "text": [
+          "O termo hebraico para \"provérbios\" significa comparação, e acabou por ser usado para qualquer tipo sapiencial ou moralista (cf. Ez 18:2; Sl 49:4). Muitos provérbios são parábolas condensadas. Os ditos reunidos neste livro formam uma biblioteca de instrução sobre como viver uma vida piedosa na terra e como estar seguro de uma recompensa na vida por vir. Assim, estes provérbios não são meros ditos populares, mas uma destilação de sabdoria dos que conheciam a lei de Deus.",
+          "Em sua forma escrita, este tipo de literatura remonta a cerca de 2700 a.C., no Egito. A divisão de Pv 22:17 a Pv 24:34 é semelhante aos provérbios de um escritor egípcio, Amenemope, que aparentemente viveu antes de Salomão."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Embora o tema que permeia todo o livro seja sabedoria para viver, ensinos específicos incluem instruções sobre a insensatez, o pecado, a bondade, a riqueza, a probreza, a língua, o orgulho, a humildade, a justiça, a vingança, a contenda, a gula, o amor, a cobiça, a preguiça, a amizade, a família, a vida e a morte. Quase todas as facetas dos relacionamentos humanos são mencionadas, e os ensinos do livro são aplicáveis a todos os homens em qualquer lugar."
+        ]
+      }
+    }
+  },
+  "ec": {
+    "regard": "Introdução ao livro de",
+    "name": "Eclesiastes",
+    "date": "c. 935 a.C.",
+    "author": "Salomão",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "O título hebraico é Qohelet, que significa \"aquele que convoca uma assembléia e fala a ela\", ou um \"eclesiástico\" ou \"pregador\". O equivalente grego, ekklesiastes, também significa \"pregador\", sendo também derivado da palavra \"assembléia\"."
+        ]
+      },
+      "p2": {
+        "thumb": "Autoria",
+        "text": [
+          "Embora não especifícado como Salomão, o autor se identifica como \"o filho de Davi, rei de Jerusalém\" (Ec 1:1). As referências no livro à sabedoria sem paralelo do autor (Ec 1:16), à sua riqueza inigualável (Ec 2:7), às suas oportunidades para o prazer (Ec 2:3), e vastos empreendimentos de construção (Ec 2:4-6) todas apontam para Salomão, já que nenhumoutro descendente de Davi satisfez tais condições. A tradição judaica afirma explicitamente que Salomão foi o autor.",
+          "Seguindo a sugestão de Martinho Lutero, muitos abandonaram o ponto de vista tradicional da autoria salomônica deste livro, julgando que tenha sido escrito depois do Exílio por um autor desconhecido que usou Salomão como seu personagem central. Afirma-se que a evidência linguística exige uma data pós-exílica, mas as provas não são de maneira alguma conclusivas. Fragmentos de Eclesiastes encontrados em Qumran eliminam qualquer possibilidade de autoria posterior a 150 a.C."
+        ]
+      },
+      "p3": {
+        "thumb": "Mensagem",
+        "text": [
+          "A mensagem do livro pode ser definida em termos de três proposiçõe: (1) quando se olha para a vida com seus ciclos aparentemente intermináveis (Ec 1:4ss) e paradoxos inexplicáveis (Ec 4:1; Ec 7:15; Ec 8:8), pode-se concluir que tudo é fútil, já que é impossível discernir qualquer propósito na ordem dos acontecimentos. (2) Apesar disso, a vida deve ser desfrutada ao máximo, com a compreensão de que é o dom de Deus (Ec 3:12-13; Ec 3:22; Ec 5:18-19; Ec 8:15; Ec 9:7-9). (3) O homem sábio viverá em obediência a Deus, reconhecendo que Ele, finalmente, julgará todos os homens (Ec 3:16-17; Ec 12:14).",
+          "Versículos frequentemnte citados incluem Ec 1:2; Ec 3:1; Ec 4:12b; Ec 11:1; Ec 12:1 e Ec 13."
+        ]
+      }
+    }
+  },
+  "ct": {
+    "regard": "Introdução ao livro de",
+    "name": "Cânticos",
+    "date": "c. 965 a.C.",
+    "author": "Salomão",
+    "content": {
+      "p1": {
+        "thumb": "Título e Autoria",
+        "text": [
+          "Este livro tem sido intitulado de várias maneiras: o título hebraico, extraído do primeiro versículo, é \"Cânticos dos Cânticos\", o que significa o mais excelente dos cânticos; o título em português é inexato pois sugere pluralidade, enquanto o próprio texto em português sugere a unidade.",
+          "O versículo 1 afirma que Salomão escreveu este poema (dentre os 1.005 cânticos que escreveu, 1 Rs 4:32), embora o hebraico possa também significar \"O Cântico dos Cânticos, que é sobre Salomão\". O conteúdo do livro concorda com tudo que sabemos da sabedoria e capacidades de Salomão, e não há razão suficientemente forte para rejeitarmos sua autoria."
+        ]
+      },
+      "p2": {
+        "thumb": "Interpretações",
+        "text": [
+          "(1) Alguns consideram o livro uma simples alegoria, i.e., personagens fictícios são empregados para ensinar a verdade do amor de Deus por Seu povo. Tal visãa não-histórica, todavia, é contrária a todos os princípios de interpretação normal das Escrituras, e deve ser rejeitada. (2) Outros corretamente entendem que o livro é um registro histórico do romance de Salomão e uma mulher sulamina. Os \"instantâneos\" no livro retratam as alegrias do amor no noivado e no casamento, contrapondo-se aos extremos do asceticismo e da luxúria. O lugar apropriado do amor físico, exclusivamente dentro do casamento, é claramente estabelecido e honrado. Dentro desse referencial histórico, alguns comentaristas também vêem ilustrações do amor de Deus (e de Cristo) por Seu povo. Obviamente Salomão não oferece o melhor exemplo devoção conjugal, já que teve muitas esposas e concubinas(140 a esta altura de sua vida, Ct 6:8; muitas mais, depois, 1 Rs 11:3). As experiências registradas neste livro podem refletir o único (ou virtualmente o único) romance verdadeiro que ele teve."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Um poema lírico em forma de diálogo, o livro descreve o amor de Salomão por uma jovem sulamita. O rei vem, disfarçado, à vinha da família da jovem, ganha o seu coração e, por fim, faz dela a sua noiva."
+        ]
+      }
+    }
+  },
+  "is": {
+    "regard": "Introdução ao livro de",
+    "name": "Isaías",
+    "date": "740-680 a.C.",
+    "author": "Isaías",
+    "content": {
+      "p1": {
+        "thumb": "O profeta",
+        "text": [
+          "Nascido de família influente da classe alta, Isaías teve contato com a realeza e foi um conselheiro de assuntos internacionais do reino de Judá. Embora comumente fosse alvo de zombaria, advertiu vigorosamente seu país contra as alianças com nações vizinhas, exortando Judá a confiar no Senhor (Is 7:4; Is 30:1-17). Ele também atacou os males sociais de sua época, não por ser um reformador social, mas por ver tais abusos como sintomas de apostasia espiritual (Is 1:3-9; Is 58:6-10). Depois de viver a maior parte de sua vida em Jerusalém, Isaías foi martirizado (segundo a tradição judaica) durante o reinado de Manassés (696-642 a.C.), tendo sido serrado ao meio dentro de um tronco oco (cf. Hb 11:37)."
+        ]
+      },
+      "p2": {
+        "thumb": "Sua Época",
+        "text": [
+          "Durante a segunda metade do século oitavo a.C., Judá parecia estar seguindo o exemplo de apostasia deixado pelas dez tribos do reino de Israel (que viriam a ser capturadas pela Assíria em 772 a.C.). O rei Acaz estupidamente buscou proteção com a Assíria contra o reino do Norte, muito embora Isaías lhe tivesse afirmado que Israel em breve cairia nas mãos dos assírios (Is 8:3-4). Ezequias, filho de Acaz e homem temente a Deus, instituiu reformas espirituais, mas buscou a ajuda do Egito em questões de segurança nacional. O Egito caiu diante dos exércitos de Senaqueribe, rei da Assíria, e foi somente por intervenção divina que Judá escapou de igual destino (Is 37:36-37). Durante o reinado de Manassés, as práticas idólatras foram reinstituídas, e Isaías advertiu para a inevitabilidade do cativeiro babilônico. Ele também garantiu profeticamente a preservação do povo e restauração nacional."
+        ]
+      },
+      "p3": {
+        "thumb": "Composição",
+        "text": [
+          "Muito debate tem surgido quanto à autoria dos capítulos 40 a 66. Alguns atribuem toda esta divisão do livro a um \"Deutero-Isaías\", que teria vivido por volta de 540 a.C. (após o cativeiro babilônico). Outros sugerem que um \"Trito-Isaías\" escreveu os capítulos 56 a 66. Ainda outros vêem inserções e editoração tão recentes quanto o primeiro século a.C., uma posição difícil de sustentar-se à luz da descoberta do rolo de Isaías (contém todo o livro) nas cavernas de Qumram, pois este foi datado no segundo século a.C.",
+          "Estas sugestões procuram eliminar o elemento sobrenatural necessário à profecia preditiva. Assim, o cativeiro babilônico e o retorno promovido por um monarca persa (especificadamente denominado Ciro) não são vistos como fatos preditos com 150 anos de antecedência, mas como fatos históricos registrados depois de acontecidos. Ainda que tal conclusão fosse admitida, não invalidaria a profecia preditiva. O nome do rei Josias foi predito com três séculos de antecedência por um profeta anônimo (1 Rs 13:2), e Belém foi citada como o lugar de nascimento do Messias sete séculos antes do evento (Mq 5:2). Além disso, há profecia preditiva nos capítulos 1 a 39 de Isaías (veja Is 7:16; Is 8:4; Is 7; Is 37:33-35; Is 38:8 com respeito a profecias rapidamente cumpridas, e Is 9:1-2 e Is 13:17-20 com respeito a profecias de cumprimento mais demorado).",
+          "Se o chamado \"Deutero-Isaías\" viveu em Babilônia, como se alega, demonstra pouco conheciemnto da geografia mesopotâmica, mas grande familiaridade com a Palestina (Is 41:19; Is 43:14; Is 44:14). Além disso, afirma-se que as diferenças de estilo e linguagem só podem ser explicadas se postularmente autores diferentes, uma teoria que, aplicada a Milton, Goethe, ou Shakespeare, exigiria a conclusão de que muitas de suas obras seriam espúrias. Muito pelo contrário, podem-se apontar 40 ou 50 frases e sentenças  que aparecem em ambas as divisões do livro e, portanto favorecem a autoria única (cf. Is 1:20 com Is 40:5 e Is 58:14; Is 11:6-9 com Is 65:25; Is 35:6 com Is 41:18, etc.).",
+          "Propor dois ou mais autores para este livro é também contraditar a evidência do Novo Testamento. Citações dos capítulos Is 40 — Is 66 se acham em Mateus 3:3; Mateus 12:17-21; Lucas 3:4-6; Atos 8:28; Romanos 10:16,20 e são todas atribuídas a Isaías. Além disso, em Jo 12:38-41, citações de Isaías 6:9-10 e Isaías 53:1 aparecem juntas e são ambas atribuídas ao Isaías que viu o Senhor na visão do templo do capítulo 6. Devemos, portanto, concluir que o mesmo autor foi responsável por todo o livro, e que nenhuma parte dele foi escrita durante ou depois do cativeiro babilônico."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Isaías é frequentemente chamado \"o profeta evangélico\" por falar muito sobre a obra redentora do Messias. Em suas páginas se encontra mais sobre a pessoas e obra de Cristo do que em qualquer outro livro do Antigo Testamento. Consequentemente, há muitas passagens importantes e queridas no livro, algumas das quais são: Is 1:18; 2:4; 6:3,8; 7:14; 9:6-7; 11:9; 26:3; 35:1; 40:3; 48:16; 53; 55:1; 57:15; 59:1; 61:1-3."
+        ]
+      }
+    }
+  },
+  "jr": {
+    "regard": "Introdução ao livro de",
+    "name": "Jeremias",
+    "date": "627-585 a.C.",
+    "author": "Jeremias",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta",
+        "text": [
+          "Frequentemente chamado \"o profeta chorão\" (Jr 9:1; 13:17) ou \"o profeta solitário\" (por ter recebido ordem de não se casar, Jr 16:2), Jeremias foi também \"o profeta relutante\" (Jr 1:6). No entanto, por mais de 40 anos ele proclamou fielmente o julgamento divino contra o reino apóstata de Judá, suportando durante todo esse tempo oposição, espancamento e aprisionamento (Jr 11:18-23; 12:6; 20:1-3; 26:1-24; 37:11 — 38:28).",
+          "Jeremias começou seu ministério (com cerca de 20 anos de idade) no reinado do bom rei Josias, com quem o profeta mantinha relações cordiais. Depois da morte de Josias a oposição ao profeta ganhou ímpeto. Ele escapou por pouco à prisão, foi proibido de ir ao templo, e teve de comissionar Baruque, seu secretário, para anunciar as profecias. O rei Zedequias permitiu que nobres de tendências nacionalistas prendenssem Jeremias, e depois reduziu a pena. Quando as forças de Nabucodonosor conquistaram Jerusalém em 586 a.C., Jeremias foi libertado e recebeu direito de escolher entre ir para a Babilônia ou permanecer em Jerusalém. Preferiu a segunda opção, mas pouco depois foi raptado e levado para o Egito por alguns judeus que preferiram fugir a enfrentar a ira de Nabucodonosor. No Egito, Jeremias profetizou ainda por alguns anos e ali, ao que tudo indica, morreu.",
+          "Sensível e compassivo por natureza, recebeu de Deus a incumbência de proclamar uma severa mensagem de julgamento. A oposição que sofreu foi cruel e opressora, a tal ponto que mais de uma vez ele quis abandonar sua condição de profeta; continuou, entretanto, até o final da vida, a proclamar a Palavra de Deus."
+        ]
+      },
+      "p2": {
+        "thumb": "Uma Cronologia da Época de Jeremias",
+        "text": [
+          [
+            ["627 a.C."],
+            [
+              "Jeremias  é chamado por Deus. Judá paga tributo à Assíria, cujo poder começava declinar."
+            ]
+          ],
+          [["612 a.C."], ["Nínive, a capital da Assíria, é saqueada."]],
+          [
+            ["609 a.C."],
+            [
+              "O rei Josias é morto em Megido, combatendo Neco, faraó do Egito, que lutava para auxiliar a Assíria (2 Rs 23:29-30)"
+            ]
+          ],
+          [
+            ["609 a.C."],
+            [
+              "Jeoacaz reina em Judá por três meses antes de ser deposto por Neco e levado em cadeias ao Egito (2 Rs 23:32-33; cf. Jr 22:13-17)."
+            ]
+          ],
+          [
+            ["609-598 a.C."],
+            ["Jeoaquim reina em Judá como vassalo do Egito (Jr 22:13-17)."]
+          ],
+          [
+            ["605 a.C."],
+            [
+              "Batalha de Carquemis, onde Nabucodonosor derrotou as forças egípcias (Jr 46:2). Nabucodonosor invade a Palestina e leva reféns judeus para a Babilônia (inclusive Daniel, cf. 2 Rs 24:1). Jeoaquim abandonou a suserania do Egito e torna-se vassalo de Babilônia."
+            ]
+          ],
+          [
+            ["601 a.C."],
+            [
+              "Jeoaquim alia-se novamente ao Egito contra as advertências de Jeremias (Jr 22:13-19)."
+            ]
+          ],
+          [
+            ["597 a.C."],
+            [
+              "Morte de Jeoaquim (no fim de 598 ou começo de 597). Nabucodonosor sitia Jerusalém e deporta o rei Joaquim, substituindo-o por Zedequias (2 Rs 24:17)."
+            ]
+          ],
+          [
+            ["586 a.C."],
+            [
+              "Nabucodonosor novamente conquista Jerusalém porque Zedequias entrara em negociações com o Egito (2 Rs 25:1-7). Gedalias é indicado como governador de Judá (2 Rs 25:22-26). Gedalias é assassinado. Jeremias é levado para o Egito."
+            ]
+          ]
+        ]
+      },
+      "p3": {
+        "thumb": "Descobertas Arqueológicas",
+        "text": [
+          "Várias descobertas arqueológicas importantes têm corroborado a historicidade do relato bíblico sobre os últimos anos do reino de Judá. (1) A Crônica Babilômica oferece informações sobre as campanhas dos exérxitos babilônicos de 626 a.C. em diante, incluindo a captura de Jerusalém em 597 a.C. (2) As Cartas de Laquis descrevem a situação em Judá pouco antes do cerco final de Jerusalém por Nabucodonosor em 586 a.C. Um selo com o nome de Gedalias foi encontrado neste local. (3) Tabletes de barro encontrados junto à Porta de Istar, na antiga Babilônia, incluem o nome de \"Yaukin (Joaquim), rei da terra de Yahud (Judá)\" como um dos que recebiam dos subsídios reais (cf. 2 Rs 25:29-30)."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "A disposição das profecias não é cronológica. O seguinte quadro visa situar alguns dos oráculos dentro de seu contexto histórico, indicado pelo rei que governava Judá.",
+          [
+            [
+              "Josias",
+              "Jeoacaz (Salum)",
+              "Jeoaquim",
+              "Joaquim (Jeconias, Conias)",
+              "Zedequias",
+              "Gedalias"
+            ],
+            [
+              "capítulos 1 — 6",
+              "capítulos 22:10-12",
+              "capítulos 7 — 20; 25 — 26; 35 — 36; 45; 46:1-12; 47 — 49",
+              "capítulos 22 — 23",
+              "capítulos 21; 24; 27 — 34; 37 — 39",
+              "capítulos 40 — 44"
+            ]
+          ],
+          "Advertências contra o pecado e promessas de juízo são proeminentes em todo o livro, mas igualmente o é a mensagem de esperança e restauração. Profecias importantes incluem a maldição sobre Jeconias (Joaquim, Jr 22:30), a preição sobre o Messias (Jr 23:5-6), a duração do cativeiro babilônico (Jr 25:11) e a revelação da nova aliança (Jr 31:31-34). Rebeldia e rebelde são palavras-chaves e há mais referências a \"Babilônia\" em Jeremias (164) do que em todo o resto da Bíblia."
+        ]
+      }
+    }
+  },
+  "lm": {
+    "regard": "Introdução ao livro de",
+    "name": "Lamentações de Jeremias",
+    "date": "586/5 a.C.",
+    "author": "Jeremias",
+    "content": {
+      "p1": {
+        "thumb": "Título",
+        "text": [
+          "O termo Lamentações vem do título grego, derivado de um verbo que significa \"chorar em voz alta\", e descreve com exatidão o conteúdo do livro, que consiste de cinco poemas melancólicos de lamentação pela completa destruição de Jerusalém e do templo pelos caldeus."
+        ]
+      },
+      "p2": {
+        "thumb": "Autoria",
+        "text": [
+          "Embora o livro em si não nos forneça o nome de seu autor, o consenso da tradição judaica o atribui a Jeremias. O cabeçalho do livro na Septuaginta (tradução do Antigo Testamento para o grego) e na Vulgata (Bíblia latina) traz esta frase: \"Jeremias se assentou a chorar e compôs este lamento por Jerusalém.\" Existem também muitas similaridades entre Lamentações e Jeremias (a expressão \"filha de\", por exemplo, ocorre cerca de vinte vezes em cada livro). Além disso, Jeremias é especificadamente relacionado a este tipo de literatura em 2 Cr 35:25."
+        ]
+      },
+      "p3": {
+        "thumb": "Estrutura",
+        "text": [
+          "O livro consiste de cinco poemas (cada capítulo, um poema), sendo os quatro primeiros sob a forma de acrósticos (cada versículo começa com uma das letras do alfabeto hebraico — exceto no capítulo 3, onde cada uma das 22 letras inicia três versículos). Estes quatro capítulos são, ainda, escritos com a chamada métrica qinnâ, ou métrica manca, uma cadência utilizada em canções fúnebres, bastante apropriada para este lamento pela destruição de Jerusalém."
+        ]
+      },
+      "p4": {
+        "thumb": "Uso",
+        "text": [
+          "Os judeus costumam ler publicamente este livro durante o nono dia do mês de ab (por volta de meados de julho), relembrando as destruições de Jerusalém em 586 a.C. (quando Jerusalém foi destruída pelos caldeus) e em 70 A. D (pelos romanos). Os católicos romanos utilizavam o livro durante os três últimos dias da Semana Santa. O assunto de que se ocupa o livro de fato relembra o peso que Jesus sentia em Seu coração por Jerusalém (Mt 23:37-38). Os versículos mais conhecidos do livro são sem dúvida, Lm 1:12a e 3:22-23."
+        ]
+      }
+    }
+  },
+  "ez": {
+    "regard": "Introdução ao livro de",
+    "name": "Ezequiel",
+    "date": "592-570 a.C.",
+    "author": "Ezequiel",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta",
+        "text": [
+          "Procedente de uma família sacerdotal (Ez 1:3), Ezequiel, cujo nome significa \"Deus fortalece\", passou seus primeiros anos em Jerusalém até ser levado como prisioneiro de guerra, juntamente com outros judeus, para Babilônia em 597 a.C., por Nabucodonosor. Ali ele se instalou, em sua própria casa numa vila próxima de Nipur, junto ao rio Quebar (o canal real construído por Nabucodonosor), em Babilônia (Ez 3:15,24). Profetizou durante pelo menos 22 anos (Ez 1:2 e 29:17-21). Sua esposa morreu em 587 a.C. (Ez 24:16-18)."
+        ]
+      },
+      "p2": {
+        "thumb": "A Época",
+        "text": [
+          "O ministério de Ezequiel aos judeus em Babilônia se deu ao tempo em que Jeremias profetizava aos judeus na Palestina e na época em que Daniel inciava seu ministério em Babilônia. Os eventos mais importantes desse período se acham alistados em Introdução a Jeremias."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Ezequiel encarregou-se de sempre relembrar os exilados sobre os pecados que haviam trazido sobre eles o juízo divino, assegurando-os, entretanto, da benção futura que Deus traria ao povo, de acordo com a Sua aliança. OS capítulos 1 a 24 foram escritos, antes da queda de Jerusalém, para relembrar aos seus companheiros de cativeiro que o juízo de Deus contra a cidade e o templo certamente viria. Os capítulos 33 a 48 contêm profecias da futura restauração de Israel ainda por cumprir-se no reino milenar.",
+          "Pasagens messiânicas importantes do livro são Ez 17:22-24; 21:26-27 e 34:23-24. A destruição de Gogue é descrita nos capítulos 38 — 39 e o templo e a adoração no Milênio são descritos nos capítulos 40 — 48. Passagens bem conhecidas incluem Ez 1:4-28; 3:16-21; 11:17-20; 14:14; 28:11-19; 36:24-28 e 37:1-28."
+        ]
+      }
+    }
+  },
+  "dn": {
+    "regard": "Introdução ao livro de",
+    "name": "Daniel",
+    "date": "537 a.C.",
+    "author": "Daniel",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta",
+        "text": [
+          "Daniel, cujo nome significa \"Deus é meu juiz\", foi um estadista na corte de reis pagãos. Levado cativo para a Babilônia quando jovem, na primeira deportação ordenada por Nabucodonosor, em 605 a.C., passou lá o restante de sua longa vida como oficial do governo e como profeta do Deus verdadeiro. Ele reivindica a autoria deste livro e Jesus Cristo identificou-o como profeta (Mt 24:15; Mc 13:14). Por não ter ocupado o cargo ou desempenhado formalmente a função de profeta entre os israelistas, seu livro encontra-se na terceira divisão da Bíblia Hebraica, os \"Escritos\", em vez de na segunda, os Profetas. Durante toda a sua vida Daniel jamais abriu mão de seu compromisso e fidelidade para com Deus."
+        ]
+      },
+      "p2": {
+        "thumb": "Data",
+        "text": [
+          "O primeiro ataque contra a posição tradicional, que  data a composição do livro no sexto século a.C., partiu de Portírio (A.D. 232-303), um ardoroso opositor do cristianismo, que afirmou ter sido o livro escrito por um judeu desconhecido, contemporâneo de Antíoco Epifânio (175-163 a.C.) Este ponto de vista foi amplamente promovido por eruditos dos séculos XVIII e XIX pelas seguintes razões: alegavam eles que Daniel não poderia ter feito tais predições, já que elas se cumpriram tão exatamente que só poderiam ter sido escritas depois de terem acontecido. Palavras persas e gregas usadas no livro, alegavam tais críticos, seriam desconhecidas de um judeu que tivesse vivido no sexto século a.C. Afirmavam ainda que o aramaico usado em Dn 2:4 — 7:28 pertence a uma época posterior a Daniel. Alegavam ainda inexatidões históricas. Em resposta a tais argumentos podemos afirmar que a profecia preditiva não é apenas possível a um verdadeiro profeta de Deus; ela é esperada dele! Além disso, por ter vivido até o período do império persa, não seria estranho que um estadista como Daniel conhecesse a língua persa. A presença de palavras gregas é facilmente explicada, já que cem anos antes de Daniel, mercenários gregos serviam nos exércitos assírios de Esaradom (683 a.C.) e nos exércitos babilônicos de Nabucodonosor. Descobertas recentes, de documentos aramaiacos datados do quinto século a.C., demonstram que Daniel foi escrito em aramaico imperial, um dialeto oficial conhecido em todas as partes do Oriente Médio naquela época. Supostas inexatidões históricas têm desaparecido com rapidez, em vista das informações oferecidas pela Crônica de Nabonido quanto à identidade de Belsazar (Dn 5:1) e uma evidência que identifica Dario, o medo, com um governador chamado Gubaru (Dn 5:1).",
+          "Além de tudo isso, como justificar o uso tão escasso de palavras gregas se o livro tivesse sido escrito por volta de 170 a.C., depois de um governo de língua grega ter dominado a Palestina por 160 anos? Era de se esperar a presença de muitos termos gregos. Também deve-se observar que os documentos de Qumran (os manuscritos do mar Morto), datados umas poucas décadas depois da data alegada pelos críticos para o livro de Daniel, mostram diferenças gramaticais que indicam terem sido escritos séculos, e não décadas, depois de Daniel. Além disso, os rolos de Daniel encontrados em Qumran são cópias, indicando que o original fora escrito antes do período dos Macabeus."
+        ]
+      },
+      "p3": {
+        "thumb": "A Época",
+        "text": [
+          "Em 605 a.C. Nabucodonosor levou Daniel e outros como cativos para Babilônia (veja a Introdução a Jeremias). Por causa dos acontecimentos registrados no capítulo 2 do livro, Daniel recebeu um lugar de destaque e responsabilidade no reino de Nabucodonosor. Depois da morte do rei, Daniel aparentemente perdeu seu lugar de prestígio, mas foi chamado de volta à corte para interpretar o escrito que aparecera na parede durante a festa promovida por Belsazar (Dn 5:13). Daniel foi nomeado um dos três presidentes durante a administração de Dario (Dn 6:2) e viveu até oterceiro ano de Ciro (536 a.C.). Seu ministério foi o de testificar, por sua vida pessoal e por suas profecias, do poder de Deus. Embora no exílio, o povo de Israel não fora abandonado por Deus, e Daniel revelou muitos detalhes do plano divino para o futuro do povo. Daniel também descreveu o curso da história dos poderes gentílicos desde seus dias até a segunda vinda de Cristo."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Profecias importantes do livro incluem: o curso histórico dos impérios gentílicos (o futuro de Babilônio, Pérsia, Grécia e Roma, Dn 2 e 7), detalhes concernentes ao Império Medo-Persa e à Grécia (Dn 8), mais detalhes sobre a Grécia (Dn 11), a profecia das setentas semanas de anos (Dn 9:24-27), e as atividades do anticristo (Dn 11:36-45). Entre as doutrinas mencionadas no livro estão: sensação pessoal (Dn 1:8; 3:12; 6:10; 9:2-3; 10:2-3;); anjos (Dn 8:16; 9:21; 10:13, 20-21; 11:1); ressureição (Dn 12:2); anticristo (Dn 7:24-25; 9:27; 11:36). Narrativas favoritas incluem a de Sadraque, Mesaque e Abede-Nego (Dn 3) e a da cova dos leões (Dn 6)."
+        ]
+      }
+    }
+  },
+  "os": {
+    "regard": "Introdução ao livro de",
+    "name": "Oséias",
+    "date": "c. 710 a.C.",
+    "author": "Oséias",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta e Sua Época",
+        "text": [
+          "Tudo que sabemos do profeta é extraído dos trechos autobiográficos do próprio livro. Tal como seu contemporâneo Amós, ele profetizou para o reino do Norte (Israel, ás vezes chamado Efraim, por causa da tribo mais importante), enquanto Isaías e Miquéias misnistravam no reino do Sul (Judá). A época do reinado de Jeroboão II (782-753 a.C.), em que Oséias comecou seu ministério (2 Rs 14:23 — 17:41), caracterizou-se por prospridade material e falência espiritual. O juízo divino parecia muito distante, mas em 732 a.C. Damasco caíra capturada e o povo deportado. Alguns dos pecados específicos denunciados por Oséias estão listados em Os 4:2, 4, 11, 12, 13; 5:2; 6:8, 9; 7:1; 5; 8:14; 10:1, 4; 13:2."
+        ]
+      },
+      "p2": {
+        "thumb": "O Casamento de Oséias",
+        "text": [
+          "O tema do livro é o leal amor de Deus por Israel a despeito de sua contínua infidelidade, tema este que é vividamente retratado pela experiência conjugal de Oséias que, após casar-se com Gômer, descobriu que ela era infiel. Embora viesse a separação, o amor de Oséias (como o amor de Deus por Seu povo), persistiu e, finalmente, aconteceu a reconciliação.",
+          "Três teorias têm sido apresentadas sobre o casamento de Oséias: (1) Trata-se de simples alegoria; o livro não contém qualquer registro de um casamento real. (2) Oséias casou-se com uma mulher que já era uma prostituta, talvez uma prostituta cultual. (3) Gômer prostituiu-se depois do casamento. Embora a experiência trágica de Oséias ilustre o amor de Deus por Seu povo extraviado, não há bases legítimas para rejeitar a historicidade do casamento. É difícil, entretanto, determinar qual opinião entre (2) e (3) é a correta."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Os capítulos 1 — 3 retratam a vida doméstica do profeta, enquanto os demais capítulos registram excertos de suas ,mensagens, apresentadas no decurso dos quase cinquenta anos de sua carreira profética. Nesta última divisão do livro, três temas predominam: os pecados do povo, a certeza do juízo divino, e a confirmação do amor leal de Deus."
+        ]
+      }
+    }
+  },
+  "jl": {
+    "regard": "Introdução ao livro de",
+    "name": "Joel",
+    "date": "835 a.C.",
+    "author": "Joel",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta e Sua Época",
+        "text": [
+          "Joel, cujo nome significa \"Javé é Deus\", aparentemente escreveu durante os dias da infância do rei Joás (835-796 a.C.), que esteve sob a tutela de sacerdotes por algum tempo depois de sua ascensão ao trono com a idade de 7 anos (2 Rs 11:21). Embora alguns comentaristas datem o livro como sendo pós-exílico, os inimigos de Judá não são identificados na profecia como sírios, assírios ou babilônicos, como seria o caso se o livro tivesse sido escrito depois o cativeiro (Veja Jl 3:4, 19).",
+          "A profecia foi ocasiondada por uma forte seca e uma devastadora praga de gafanhotos, que Joel viu como um castigo pelos pecados do povo. Ele também retratou esta invasão gafanhotos como um exército, um prenúncio de uma grande campanha militar a ser desencadeada no Dia do Senhor."
+        ]
+      },
+      "p2": {
+        "thumb": "O Dia do Senhor",
+        "text": [
+          "O Dia do Senhor, tema principal desta profecia, envolve uma intervenção especial de Deus nos aconteciemntos da história humana. Três facetas do Dia do Senhor são perceptíveis: (1) a histórica, ou seja, a intervenção de Deus na história passada de Israel (Sf 1:14-18; Jl 1:15) e das nações pagãs (Is 13:6; Jr 46:10; Ez 30:3); (2) a ilustrativa, em que um incidente histórico representa um cumprimento parcial do Dia do Senhor escatológico (Jl 2:1-11; Is 13:6-13); (3) a escatológica; este dia \"escatológico\" inclui o período da Grande Tribulação (Is 2:12-19; 4:1), a segunda vinda de Cristo (Jl 2:30-32), e o Milênio (Is 4:2; 12; 19:23-25; Jr 30:7-9)."
+        ]
+      }
+    }
+  },
+  "am": {
+    "regard": "Introdução ao livro de",
+    "name": "Amós",
+    "date": "755 a.C.",
+    "author": "Amós",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta",
+        "text": [
+          "Amós era morador de Tecoa (uma vila que ficava 16 quilômetros ao sul de Jerusalém) e viajou para o norte, até Betel, pregando assim no que era, virtualmete, solo estrangeiro. Embora fosse um leigo, não um profeta profissional, recebera uma chamada direta de Deus para sua obra (Am 7:15). Por ocupação ele era um criador de ovelhas, talvez um pastor importante, com pastores assalariados. A mesma palavra hebraica é usada para descrever a atividade de Mesa (2 Rs 3:4). A pregação de Amós em Betel, centro de idolatria e residência do rei de então, Jeroboão II, provocou tamanha oposição que ele retornou a Judá, onde colocou em forma escrita sua mensagem. Esse registro demosntra que ele era um homem de negócios, não um pastor rústico e ignorante."
+        ]
+      },
+      "p2": {
+        "thumb": "A Época",
+        "text": [
+          "Uzias, rei de Judá (791-740 a.C.), governava sobre uma nação próspera, mas estava sob a influência de Jeroboão II, rei de Israel (793-753 a.C.), cujo reinado foi, exteriormente, o zênite do poderio israelita, ao passo que, internamente, foi um período de idolatria e corrupção (cf. 2 Rs 14:24-25). Além disso, caracterizaram aquela época a prosperidade material e os males sociais (Am 2:6-8; 3:10; 4:1; 5:10-12; 8:4-6)."
+        ]
+      },
+      "p3": {
+        "thumb": "O Tema",
+        "text": [
+          "Atacando tanto os males sociais de seu povo quanto seu culto paganizado, Amós lançou um apelo urgente ao arrependimento como o único meio de escape do juízo iminente. A posição privilegiada de Israel, declarou ele, deveria ter sido um incentivo a uma vida justa, e jamais uma permissão para o pecado. Alguns versículos favoritos e importantes do livro se encontram em Am 3:2; 3:3; 5:24; 9:11."
+        ]
+      }
+    }
+  },
+  "ob": {
+    "regard": "Introdução ao livro de",
+    "name": "Obadias",
+    "date": "840 ou 586 a.C.",
+    "author": "Obadias",
+    "content": {
+      "p1": {
+        "thumb": "Tema",
+        "text": [
+          "Edom já está julgado e seu castigo é certo, devido ao seu orgulho demonstrado no regozijo pela tragédia que se abateu sobre Jerusalém."
+        ]
+      },
+      "p2": {
+        "thumb": "Os Edomitas",
+        "text": [
+          "Descendentes de Esaú, irmão gêmeo de Jacó, os edomitas viviam em constante conflito com Israel, os descendentes de Jacó. Rejeitaram a solicitação de Moisés para que Israel passasse por sua terra (Nm 20:14-20), opuseram-se ao rei Saul (1 Sm 14:47), combateram contra Davi (1 Rs 11:14-17), foram contra Salomão (1 Rs 11:14-25) e Josafá (2 Cr 20:22), e se rebelaram contra Jeorão (2 Cr 21:8). Do século treze ao século sexto a.C. estabeleceram-se no monte Seir, uma região montanhosa ao sul do mar Morto, da qual Sela (Petra) era capital. Tão escarpado é o terreno que o vale em que se localiza Petra só pode ser atingido por um desfiladeiro estreito guardado por paredes rochosas muito íngrimes de 65-85 metros de altura (veja Ob 3 — 4). Durante o quinto século a.C. os nabateus desalojaram os edomitas de seu território, fazendo-os retirar-se para a Iduméia, ao sul da Palestina. Herodes, o Grande, era um edomita."
+        ]
+      },
+      "p3": {
+        "thumb": "Data",
+        "text": [
+          "A questão da data depende da batalha contra Jerusalém com a qual os edomitas estiveram associados (vv. 11-14). Houve quatro invações significativas de Jerusalém no tempo do A.T.: (1) por Sisaque, rei do Egito, durante o reinado de Roboão, em 926 a.C. (1 Rs 14:25-26); (2) pelos filisteus e árabes, durante o reinado de Jeorão, entre 848-841 a.C. (2 Cr 21:16-17); (3) pelo rei Joás de Israel, durante o reinado de Amazias, em 790 a.C. (2 Rs 14:13-14); (4) por Babilônia , entre 606 e 586 a.C. (2 Rs 24 — 25). Obadias profetizou contra Edom por sua participação na segunda ou na quarta invasão. Se foi na segunda, este livro é a mais antiga profecia escrita no A.T. (veja 2 Rs 8:20 e 2 Cr 21:16-17; veja depois Jl 3:3-6 comparado com Ob 11-12 e o uso de Ob 1-9 na extensa passagem em Jr 49:7-22 como apoio para a data mais antiga)."
+        ]
+      }
+    }
+  },
+  "jn": {
+    "regard": "Introdução ao livro de",
+    "name": "Jonas",
+    "date": "760 a.C.",
+    "author": "Jonas",
+    "content": {
+      "p1": {
+        "thumb": "História ou Alegoria",
+        "text": [
+          "Alguns consideram este livro uma alegoria, escrito por volta de 430 a.C. para combater o exclusivismo de Esdras e Neemias. Sob esta ótica, Jonas representa a nação israelita desobediente; o mar representa os gentios; o grande peixe, Babilônia; os três dias no ventre do peixe, o cativeiro dos judeus em Babilônia.",
+          "De acordo com 2 Rs 14:25, entretanto, além de ser uma pessoa real, Jonas foi também um profeta nacionalmete reconehcido e oriundo de Gate-Hafer, próximo a Nazaré. Além disso, Jesus tratou Jonas e sua experiência no ventre do peixe como fato histórico (Mt 12:39-41). E, naturalmente, o livro apresenta um relato histórico direto e simples. Isso não exclui a presença de lições através de tipos, ilustradas pelos incidentes históricos."
+        ]
+      },
+      "p2": {
+        "thumb": "A Época",
+        "text": [
+          "2 Rs 14:25-27 relaciona Jonas ao reinado de Jeroboão II, rei de Israel (793-753 a.C.), que conseguira restabelecer o poder israelita sobre a maior parte do território ao norte de Judá outrora dominado por Davi e Salomão. Nenhuma inscrição assíria menciona um despertamento religioso semelhante ao descrito no livro. Durante o reinado de  Adade-Nirari III (810-783 a.C.), todavia, houve um movimento em direção ao monoteísmo que poderia  ter sido o resultado (ou uma futura ajuda) da pregação de Jonas. Outra data possível para o avivamento é o reinado de Assur-Dan III (771-754 a.C.). Uma epidemia em 765 a.C., o eclipse do Sol em 763 a.C. e uma segunda epidemia em 759 a.C. foram eventos do tipo considerado pelos antigos como indícios de juízo divino, e poderiam, por isso, ter preparado o povo para a mensagem de Jonas."
+        ]
+      },
+      "p3": {
+        "thumb": "Milagres",
+        "text": [
+          "Vários milagres estão registrados no livro: o acalmar da tempestade antes que a tribulação do navio fosse destruída (Jn 1:5); a provisão do grande peixe e a preservação de Jonas em seu interior (Jn 1:17); o fato de o peixe ter vomitado Jonas junto à praia (Jn 2:10); a preparação da planta (Jn 4:6), o aparecimento do verme (Jn 4:7) e do vento (Jn 4:8), e a salvação de muitos ninivitas."
+        ]
+      },
+      "p4": {
+        "thumb": "Tema",
+        "text": [
+          "O livro demonstra que o Deus dos hebreus Se preocupa com todo o mundo."
+        ]
+      }
+    }
+  },
+  "mq": {
+    "regard": "Introdução ao livro de",
+    "name": "Miquéias",
+    "date": "700 a.C.",
+    "author": "Miquéias",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta",
+        "text": [
+          "Enquanto Oséias profetizou às dez tribos de Israel, reino do Norte, e Isaías à corte em Jerusalém, Miquéias, um judeu de Moresete, uma vila sudoeste da Palestina, pregou ao povo simples de Judá. Seu nome significa \"Quem é como Javé?\""
+        ]
+      },
+      "p2": {
+        "thumb": "Sua Época",
+        "text": [
+          "Miquéias ministrou durante os reinados de Jotão (750-732 a.C.), Acaz (736-716 a.C.) e Ezequias (716-687 a.C.)(Mq 1:1). Embora de modo geral tenha sido um bom rei, Jotão não removeu de seu reino os altos onde os judeus praticavam a idolatria. Acaz foi um rei ímpio (veja 2 Rs 16:2-4) que adotou uma política pró-Assíria e durante cujo reinado aconteceu o exílio das tribos do Norte. Ezequeias, um dos melhores reis de Judá, era antiassírio em sua política e resistiu vitoriosamente ao cerco de Jerusalém por Senaqueribe em  701 a.C. (2 Rs 18:13 — 19:36). Para os camponeses e moradores das vilas foram tempos de tormento frequente por parte de exércitos inimigos, de miséria por causa da exploração pelos ricos (Mq 2:1-13) e de opressão pelos governantes (Mq 3:1-4) e falsos profetas (Mq 3:5-8). Miquéias, como Amós, clamou por justiça social."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Três citações importantes de Miquéias são encontradas em outras partes da Bíblia. Uma delas salvou a vida do profeta Jeremias (Jr 26:18, uma citação de Mq 3:12). Os sacerdotes e escribas citaram Mq 5:2 em resposta à pergunta de Herodes qaunto ao ocal de nascimento do Messias (Mt 2:5-6). Cristo citou Mq 7:6 ao comissionar os discípulos pela primeira vez (Mt 10:35-36). Miquéias 4 é uma das mais importantes descrições bíblicas da glória futura de Israel, e Miquéias 6:8 é um dos versículos favoritos. As divisões principais do livro são introduzidos pela palavra \"Ouvi\" (Mq 1:2; 3:1; 6:1)."
+        ]
+      }
+    }
+  },
+  "na": {
+    "regard": "Introdução ao livro de",
+    "name": "Naum",
+    "date": "663-612 a.C.",
+    "author": "Naum",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta",
+        "text": [
+          "Nada se sabe a respeito de Naum (cujo nome significa \"consolação\"), exceto que ele era originário de Elcos, provavelmente Cafarnaum. Sua mensagem contra Nínive foi dada a Judá, já que o reino do Norte, Israel, já fora levado cativo."
+        ]
+      },
+      "p2": {
+        "thumb": "Tema",
+        "text": [
+          "Nínive será destruída! Quase todos os versículos entre Na 1:15 e 3:19 descrevem esse evento, que ocorreu em 612 a.C. Os ninivitas (assírios), convertidos pela pregação de Jonas (mais de cem anos antes de Naum), não haviam transmitido a seus filhos o conhecimento do Deus verdadeiro, e o povo retornara rapidamente às suas práticas cruéis e pagãs. Haviam destruído Samaria (o reino do Norte, Israel) em 722 a.C. e quase capturaram Jerusalém em 701 a.C. Naum descreve brevemente a maldade de Nínive em 3:1, 4. Deus tinha de destruir um povo tão apóstata."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O capítulo 1 contém uma descrição magnífica do caráter de Deus (veja especialmente os vv. 2-8). Lendo o capítulo 2, quase pode ouvir o barulho da batalha de Nínive."
+        ]
+      }
+    }
+  },
+  "hc": {
+    "regard": "Introdução ao livro de",
+    "name": "Habacuque",
+    "date": "607 a.C.",
+    "author": "Habacuque",
+    "content": {
+      "p1": {
+        "thumb": "A Época",
+        "text": [
+          "Embora nada se saiba sobre o próprio profeta (cujo nome significa \"abraçador\", talvez expressando seu amor por Deus), sabemos algo sobre a época em que profetizou. Seu ministério ocorreu pouco antes da primeira invasão de Judá por Nabucodonosor em 606-605 a.C. (quando Daniel e outros foram levados para Babilônia). Habacuque foi comissionado a anunciar a intenção divina de punir Judá com a vindoura deportação para Babilônia. O rei de Judá da época, Jeoaquim, é descrito pelo profeta Jeremias com as seguintes palavras: \"os teus olhos e o teu coração não atentam senão para a tua ganância, e para derramar sangue inocente, e para levar a efeito a violência e a extorsão\" (Jr 22:17; cf. Hc 1:2-4 e 2 Rs 23:34 — 24:5)."
+        ]
+      },
+      "p2": {
+        "thumb": "As Perguntas de Habacuque",
+        "text": [
+          "O livro nos apresneta o quadro de um homem que confiava em Deus, mas que estava perplexo diante da vida. As perguntas de Habacuque foram duas: (1) Por quê Deus permitia que o mal crescente em Judá permanecesse impune (Hc 1:2-4)? (2) Como podia um Deus santo justificar o uso dos babilônios (caldeus), um povo ainda mais ímpio que os judeus, para punir Judá (Hc 1:12 — 2:1)? A resposta à primeira pergunta é registrada em Hc 1:5-11, e à segunda em Hc 2:2-2-. Assim, o livro consiste de uma teodicéia, uma defesa da bondade e do poder de Deus em vista da exitência do mal."
+        ]
+      },
+      "p3": {
+        "thumb": "O Conteúdo",
+        "text": [
+          "O versículo mais conhecido de Habacuque é 2:4 (citado em Rm 1:17; Gl 3:11; Hb 10:38), não apenas por ser o coração da resposta de Deus a Habacuque e suas perguntas, mas porque o Novo Testamento demonstra que sua verdade é central para a doutrina da justificação pela fé. Outro versículo favorito é 2:20. O capítulo 3 é uma grande salmo de louvor, dificilmente igualado em sua majestade por qualquer outra passagem no Antigo Testamento."
+        ]
+      }
+    }
+  },
+  "sf": {
+    "regard": "Introdução ao livro de",
+    "name": "Sofonias",
+    "date": "c. 625 a.C.",
+    "author": "Sofonias",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta e Sua Época",
+        "text": [
+          "Sofonias, nascido em berço nobre (Sf 1:1), aparentemte ajudou a preparar Judá para o reavivamento que ocorreu sob a liderança do bom rei Josias em 621 a.C. (2 Cr 34:3). Por mais de meio século, sob os reis Manassés e Amom, a situação de Judá tinha sido muito ruim, e Sofonias convocou seu povo ao arrepndimento. A reforma aconteceu mas, depois da morte de Josias, os líderes e grande parte do povo voltaram à antiga vida de pecado."
+        ]
+      },
+      "p2": {
+        "thumb": "Tema",
+        "text": [
+          "O julgamento é o tema central da mensagem de Sofonias. O cumprimento imediato aconteceu qando Nabucodonosor, rei de Babilônia, capturou Judá. O cumprimento definitivo ocorrerá no Dia do Senhor, durante os anos da Tribulação. Sofonias também predisse o juízo das nações pagãs, tanto imediatamente (como no caso de Nínive, que caiu em 612 a.C.; veja Sf 2:13) quanto no futuro (Sf 3:8). O livro termina com uma gloriosa descrição do Milênio futuro (outro aspecto do Dia do Senhor)."
+        ]
+      }
+    }
+  },
+  "ag": {
+    "regard": "Introdução ao livro de",
+    "name": "Ageu",
+    "date": "520 a.C.",
+    "author": "Ageu",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta",
+        "text": [
+          "Ageu, cujo nome significa \"festivo\" ou \"minha festa\", foi a primeira voz profética a se ouvir depois do exílio babilônico. Ele foi contemporâneo de Zacarias (e de Confúcio) e seu ministério foi o de conclamar o povo à recosntrução do templo, cujo término vinha sendo adiado por 15 anos. Estas profecias foram pronunciadas entre agosto e dezembro de 520 a.C., e o templo foi completado 4 anos depois. Ageu provavelmente retornara a Jerusalém vindo de Babilônia com Zorobabel."
+        ]
+      },
+      "p2": {
+        "thumb": "Destinatários",
+        "text": [
+          "O livro é dirigio a todo o povo (Ag 1:13; 2:2), visando encorajá-lo a reconstruir o templo. É também dirigida a Zorobabel, o governador, e a Josué, o sumo sacerdote (Ag 1:1; 2:2, 21)."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O livro contém quatro mensagens, cada uma delas introduzida pela expressão \"veio a palavra do SENHOR\"."
+        ]
+      }
+    }
+  },
+  "zc": {
+    "regard": "Introdução ao livro de",
+    "name": "Zacarias",
+    "date": "520-518 a.C.",
+    "author": "Zacarias",
+    "content": {
+      "p1": {
+        "thumb": "Autor",
+        "text": [
+          "O pai de Zacarias, Berequias, morreu provavelmente quando o profeta ainda era muito jovem, fazendo de Zacarias o sucessor imediato de seu avô, Ido (Ne 12:4). Este era um sacerdote que voltara de Babilônia com Zorobabel e Josué e fora, segundo a tradição judaica, um membro da Grande Sinagoga (o grupo governante dos judeus antes da criação do Sinédrio). O nome Zacarias (usado no A.T. para outras 27 pessoas) significa \"Javé se lembra\". Este Zacarias foi conteporâneo (mais jovem) do profeta Ageu (Ed 5:1; 6:14)."
+        ]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico e Próposito",
+        "text": [
+          "Durante o reinado de Ciro, mais de 50 mil judeus retornaram à Palestina, vindos de Babilônia em 538 a.C. Assentaram os alicerces do templo em 536 a.C., mas a oposição das nações vizinhas impediu a continuação do trabalho por 15 anos (Ed 1:1-4; 4:1-5). Dario Histaspes (Zc 1:1), que subiu ao trono em 522-521 a.C., confirmou o decreto de Ciro e Zacarias, tal como Ageu, estimulou o povo a completar o templo (o que fizeram em 516 a.C.)."
+        ]
+      },
+      "p3": {
+        "thumb": "Cristologia do Livro",
+        "text": [
+          "Zacarias fez mais predições sobre o Messias do que todos os outros profetas, exceto Isaías. Profecias referentes à Sua primeira vinda incluem Zc 3:8; 9:9, 16; 11:11-13; 12:10; 13:1, 6, e profecias a serem cumpridas em Sua segunda vinda incluem Zc 6:12; 14:1-21."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Este é um livro de consolação e esperança; começa com uma chamada ao arrependimento e termina com profecias referentes ao retorno e ao reinado de Cristo."
+        ]
+      }
+    }
+  },
+  "ml": {
+    "regard": "Introdução ao livro de",
+    "name": "Malaquias",
+    "date": "450-400 a.C.",
+    "author": "Malaquias",
+    "content": {
+      "p1": {
+        "thumb": "O Profeta",
+        "text": [
+          "Malaquias significa \"meu mensageiro\" e poderia ser simplesmente a designação de um escritor anônimo. É mais provável, todavia, que seja um nome próprio. O profeta não é mencionado em qualquer outro lugar do A.T."
+        ]
+      },
+      "p2": {
+        "thumb": "A Época",
+        "text": [
+          "Cerca de 100 anos haviam-se passado desde o retorno dos judeus à Palestina. A cidade de Jerusalém e o segundo templo haviam sido contruídos, mas o entusiasmo inicial desaparecera. Depois de um período de reavivamento, liderado por Neemias (Ne 10:28-29), o povo e os sacerdotes haviam-se desviado e transformado sua obediência à lei em algo mecânico e rotineiro. Embora relapsos em sua adoração (Ml 1:7) e negligentes quanto ao seu dízimo (Ml 3:8), não conseguiam entender por que Deus estava insatisfeito com eles."
+        ]
+      },
+      "p3": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Malaquias usou um método de perguntas e respostas; ocorrem no livro nada menos que 23 perguntas."
+        ]
+      }
+    }
+  },
+  "mt": {
+    "regard": "Introdução ao evangelho de",
+    "name": "Mateus",
+    "date": "60-70 A.D.",
+    "author": "Mateus",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "Mateus, que tinha por sobrenome Levi (Mc 2:14), era um coletor de impostos (publicano) judeu, trabalhando para o governo romano (Mt 9:9). Por colaborar com os romanos, que eram odiados pelos judeus como dominadores estrangeiros, Mateus (como todos os publicanos) era desprezado por seus compatriotas. Apesar disso, Mateus reagiu positivamente à chamada singela que Cristo lhe fizera para segui-lO. Depois do relato do banquete que ofereceu a seus colegas para que eles também pudessem conhecer a Jesus, ele não volta a ser mencionado, exceto na lista dos Doze Apóstolos (Mt 10:3; veja ainda At 1:13). A tradição afirma que ele pregou na Palestina por doze anos depois da ressureição, e que depois foi pregar em outras terras, mas quanto a isso não há certeza."
+        ]
+      },
+      "p2": {
+        "thumb": "A Abordagem Peculiar de Mateus",
+        "text": [
+          "Mateus foi escrito para judeus, visando a responder às suas indagações sobre Jesus de Nazaré, que alegava ser o Messias de Israel. Seria Ele de fato o Messias predito no Antigo Testamento? Se era, por que não estabeleceu o reino prometido? Esse reino será estabelecido algum dia? Qual o propósito de Deus para este ínterim? Assim, neste Evangelho, Jesus é frequentemente chamado de Filho de Davi e é apresentado como Aquele que cumpre as profecias messiânicas do Antigo Testamento; o reino dos céus é o assunto central de boa parte de Seu ensino aqui registrado.",
+          "Mateus também é caracterizado por sua inclusão de pessoas estranhas ao judaísmo. Os versículos finais registram a comissão de ir e pregar a todas as nações, e, nos quatro Evangelhos, somente em Mateus surge a palavra \"igreja\" (Mt 16:18, 18:17). Jesus também é chamado de Filho de Abraão (Mt 1:1), pois em Abraão \"serão benditas todas as famílias da terra\" (Gn 12:3)."
+        ]
+      },
+      "p3": {
+        "thumb": "Data",
+        "text": [
+          "Embora este Evangelho receba ocasionalmente data entre as décadas de 80 e 90 do primeiro século, o fato de a destruição de Jerusalém ser ainda considerada um acontecimento futuro (Mt 24:2) parece exigir uma data mais recuada. Alguns pensam que Mateus foi o primeiro Evangelho a ser escrito (por volta do ano 50), ao passo que outros discordam alegando que só foi escrito na década de 60."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Divisões importantes de Mateus são o Sermão do Monte (capítulos 5 — 7), que inclui as Bem-aventuranças (5:3-12) e a Oração do Senhor (6:9-13); as parábolas do reino (capítulo 13); e o Sermão Profético, que trata de eventos futuros (capítulos 24 — 25). O tema do livro é Cristo, o Rei, e o esboço reflete esse tema."
+        ]
+      }
+    }
+  },
+  "mc": {
+    "regard": "Introdução ao evangelho de",
+    "name": "Marcos",
+    "date": "50-60 A.D.",
+    "author": "Marcos",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "João Marcos era filho de Maria, uma mulher de riqueza e posição em Jerusalém (At 12:12). Barnabé era seu primo (Cl 4:10). Marcos foi amigo íntimo (e talvez um convertido) do apóstolo Pedro (1 Pe 5:13). Teve o raro privilégio de acompanhar Paulo e Barnabé em sua primeira viagem missionária, mas falhou em não permanecer com eles até o fim. Por isso, Paulo recusou-se a levá-lo na segunda viagem, de modo que Marcos acompanhou Barnabé a Chipre (At 15:38-40). Cerca de doze anos depois, está novamente com Paulo (Cl 4:10; Fm 24), que, pouco antes de ser executado, manda chamar João Marcos (2 Tm 4:11). Sua biografia prova que um fracasso na vida não representa o fim da utilidade."
+        ]
+      },
+      "p2": {
+        "thumb": "A Abordagem Peculiar de Marcos",
+        "text": [
+          "(1) Marcos escreveu para leitores em geral e leitores romanos em particular. Por esta razão a genealogia de Cristo não é incluída (quase não teria significado para os gentios), o Sermão do Monte não é mencionado e a condenação dos partidos judaicos recebe pouca atenção. Como indicação adicional de que visava leitores gentios, Marcos achou necessário interpretar palavras aramaicas (Mc 5:41; 7:34; 15:22) e usou palavras latinas não encontradas nos demais Evangelhos (\"executor\", Mc 6:27; \"quadrante\", Mc 12:42). (2) Há apenas 63 citações e/ou alusões ao Antigo Testamento, em Marcos, comparadas com cerca de 128 em Mateus e entre 90 e 100 em Lucas. (3) Este Evangelho enfatiza o que Jesus fez, em lugar do que Ele disse. É um livro de ação (a palavra \"imediatamente\" ocorre mais de 40 vezes."
+        ]
+      },
+      "p3": {
+        "thumb": "Marcos e Pedro",
+        "text": [
+          "É de aceitação geral que Marcos recebeu do apóstolo Pedro boa parte das informações contidas no Evangelho. Com a autoridade apostólica de Pedro subjazendo este evangelho, ele jamais sofreu qualquer contestação à sua inclusão no cânon das Escrituras."
+        ]
+      },
+      "p4": {
+        "thumb": "Data",
+        "text": [
+          "Se alguém nega o fenômeno da profecia preditiva, terá que datar o livro depois de 70 A.D., por causa de Mc 13:2. Contudo, uma vez que o Senhor podia prever o futuro, uma data assim tardia é inútil. De fato, se o livro de Atos precisa ser datado por volta de 61, e se Lucas, que é o primeiro volume de Atos, o precedeu, o Evangelho de Marcos deve ser ainda anterior, já que Lucas aparentemente utilizou o livro de Marcos para escrever o seu Evangelho. Isto aponta para uma data na década de 50. Muitos eruditos, entretanto, acreditam que Marcos foi só escrito depois da morte de Pedro, i.e., depois de 67 antes de 70."
+        ]
+      },
+      "p5": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O tema do livro é \"Cristo, o Servo\". O versículo-chave é Mc 10:45, que divide o Evangelho em duas partes principais: o serviço do Servo (Mc 1:1 — 10:52) e o sacrifício do Servo (Mc 11:1 — 16:20)."
+        ]
+      }
+    }
+  },
+  "lc": {
+    "regard": "Introdução ao evangelho de",
+    "name": "Lucas",
+    "date": "60 A.D.",
+    "author": "Lucas",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "Lucas, o \"médico amado\"(Cl 4:14), amigo íntimo e companheiro de Paulo, foi provavelmente o único autor gentio no Novo Testamento. Nada sabemos de sua vida, nem de sua conversão, a não ser que ele não fora testemunha ocular da vida de Jesus Cristo (Lc 1:2). Embora médico por profissão, foi primariamente um evangelista, escrevendo este Evangelho e o livro de Atos, e acompanhando Paulo na obra missionária (veja a Introdução ao Livro de Atos). Esteve ao lado do apóstolo na época do seu martírio (2 Tm 4:11), mas não temos fatos definiidos sobre a parte final da vida de Lucas."
+        ]
+      },
+      "p2": {
+        "thumb": "Metodologia",
+        "text": [
+          "No prólogo do Evangelho, Lucas afirma que seu próprio trabalho foi estimulado pelas obras de outros (Lc 1:1), que ele consultou testemunhas oculares (Lc 1:2), e que ele selecionou e dispôs as informações (Lc 1:3) sob a direção do Espírito Santo, para instruir Teófilo quanto à fidedignidade da fé (Lc 1:4). O Evangelho de Lucas é um documento histórico bem pesquisado e fundamentado."
+        ]
+      },
+      "p3": {
+        "thumb": "Abordagem Peculiar",
+        "text": [
+          "Embora especificadamente destinado a Teófilo, o Evangelho se inclina para todos os gentios. (1) O autor demosntra interesse incomum em assuntos médicos (Lc 4:38; 7:15; 8:55; 14:2; 18:35; 22:50). (2) Há muita atenção para os acontecimentos ligados ao nascimento de Cristo. Somente Lucas registra a anunciação a Zacarias e Maria, os cânticos de Isabel e Maria, o nascimento e a infância de João Batista, o nascimento de Jesus, a visita dos pastores, a circuncisão de Jesus e Sua apresentação no templo, detalhes da infância de Jesus e os pensamentos íntimos de Maria. (3) Lucas demonstra um interesse incomum em indivíduos, como se vê nos relatos de Zaqueu, (Lc 19:1-10); do ladrão arrependido (Lc 23:39-43), e nas parábolas do filho pródigo (Lc 15:11-32) e do publicano arrependido (Lc 18:9-14). É Lucas quem nos dá a história do bom samaritano (Lc 10:29-37) e do ex-leproso agradecido (Lc 17:11-19). (4) Há neste Evangelho uma ênfase especial na oração (Lc 3:21; 5:16; 6:12; 9:18, 28-29; 10:21; 11:1; 22:39-46; 23:34, 46). (5) Outra característica peculiar deste Evangelho é o lugar de destaque dado às mulheres (Lc 1, 2; 7:11-17, 36-50; 8:1-3; 10:38-42; 21:1-4; 23:27-31, 49).(6) O autor também demonstra interesse em pobreza e riqueza (Lc 1:52-53; 4:16-22; 6:20, 24-25; 12:13-21; 14:12-13; 16:19-31). (7) O livro reserva quatro belos cânticos: o Magnificat de Maria (Lc 1:46-55), o Benedictus de Zacarias (Lc 1:67-79), o Gloria in Excelsis dos anjos (Lc 2:14) e o Nunc Dimittis de Simeão (Lc 2:29-32). Este é o Evangelho do compassivo Filho do homem que oferece salvação a todo o mundo (Lc 19:10). "
+        ]
+      },
+      "p4": {
+        "thumb": "Data",
+        "text": [
+          "Uma vez que a conclusão de Atos mostra Paulo em Roma, e que o Evangelho de Lucas foi escrito antes de Atos (At 1:1), o Evangelho deve ter sido escrito por volta do ano 60, possivelmente em Cesaréia, durante os dois anos em que Paulo esteve preso ali (At 24:27)."
+        ]
+      },
+      "p5": {
+        "thumb": "Conteúdo",
+        "text": [
+          "O Evangelho de Lucas tem como o tema \"Cristo, o Filho do Homem\", e narra muitos dos acontecimentos que demonstram a humanidade de Cristo."
+        ]
+      }
+    }
+  },
+  "jo": {
+    "regard": "Introdução ao evangelho de",
+    "name": "João",
+    "date": "85-90 A.D.",
+    "author": "O Apóstolo João",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "O autor deste Evangelho é identificado no livro apenas como \"o discípulo a quem Jesus amava\" (Jo 21:20,24). Ele era, obviamente, um judeu palestino que testemunhou pessoalmente os acontecimentos da vida de Cristo, pois demonstra conhecimento de costumes judaicos (Jo 7:37-39; 18:28), e da terra da Palestina (Jo 1:44, 46; 5:2) e inclui detalhes típicos de uma testemunha ocular (Jo 2:6; 13:26; 21:8, 11). Eliminando os outros dois discípulos que perteciam ao chamado \"círculo íntimo\" (pois Tiago morreu martirizado antes da época da autoria, At 12:1-5, e Pedro é nominalmente citado em contato direto com o \"discípulo a quem Jesus amava\", Jo 13:23-24; 20:2-10), tem-se de concluir que João foi o autor. A questão de ser ele o apóstolo João ou um outro João (o Presbítero), é debatida na Introdução a 1 João.",
+          "João, o apóstolo, era filho de Zebedeu e Salomé, e irmão mais novo de Tiago. Era galileu e aparentemente vinha de uma família abastada (Mc 15:40-41). Embora frequentemente retratado em séculos posteriores como uma figura efeminada, seu verdadeiro caráter era tal que ficou conhecido como \"filho do trovão\" (Mc 3:17). Teve papel importante na obra da igreja primitiva em Jerusalém (At 3:1; 8:14; Gl 2:9). Mais tarde esteve em Éfeso e, por razões desconehcidas, foi exilidaod na ilha de Patmos (Ap 1:9)."
+        ]
+      },
+      "p2": {
+        "thumb": "Aboradagem Peculiar",
+        "text": [
+          "Este é o mais teológico dos quatro Evangelhos. Trata da natureza e da pesosa de Cristo, e do significado da fé nEle. A apresentação que João faz de Cristo como o divino Filho de Deus se vê nos títulos que Jesus recebe no livro: \"o Verbo era Deus\" (Jo 1:1), \"o Cordeiro de Deus \" (Jo 1:29), \"o Messias\" (Jo 1:41), \"o Filho de Deus\" e \"o Rei de Israel\" (Jo 1:49), \"o Salvador do mundo\" (Jo 4:42), \"o Senhor... e Deus\" (20:28). Sua divindade também é afirmada na série de pronunciamentos \"Eu sou...\" (Jo 6:35; 8:12; 10:7, 9, 11, 14; 11:25; 14:6; 15:1, 5). Em outros pronunciamentos \"Eu sou\", Cristo deixou implícita e explícita Sua reivindicação de ser o EU SOU — Javé do Antigo Testamento (Jo 4:24, 26; 8:24, 28, 58; 13:19) Estas eram as mais fortes reivindicações de divindade que Jesus poderia ter feito.",
+          "A estrutura e o estilo deste Evangelho são diferentes daqueles dos outros três (os sinópticos). Ele não contém parábolas, menciona apenas sete milagres (cinco dos quais não registrados em nenhum dos sinópticos) e registra várias entrevistas pessoais. O autor enfatiza a realidade física da fome, sede, cansaço, dor e morte de Cristo como uma defesa contra a alegação gnóstica de que Jesus não possuíra verdadeira natureza humana."
+        ]
+      },
+      "p3": {
+        "thumb": "Data",
+        "text": [
+          "Embora o Evangelho de João costumasse ser datado da metade do segundo século por críticos extremados, a descoberta do fragmento do papiro Rylands (contendo alguns versículos de João 18:, datado por volta de 135 A.D.) forçou uma data mais recuada. Várias décadas teriam sido necessárias entre a redação do original e sua cópia e circulação num ponto tão distante como o interior do Egito, onde o papiro foi encontrado. O Evangelho aparentemente já circulava entre 89 e 90, embora possa ter sido escrito antes disso, em Éfeso (uma data anterior ao ano 70 já foi sugerida, com base em Jo 5:2, que pode indicar que Jerusalém ainda não fora destruída). Descobertas em Qumran têm confirmado a genuidade do contexto e do padrão de pensamento judaicos vistos no livro."
+        ]
+      },
+      "p4": {
+        "thumb": "Conteúdo",
+        "text": [
+          "A declaração do propósito do livro fica evidente em Jo 20:30-31. O Evangelho de João é ocasionalmente chamado de O Livro dos Setes Sinais, já que o autor escolheu setes sinais milagrosos para com eles revelar a pessoa e missão de Jeuss. Estes são: (1) a transformação da água em vinho (Jo 2:1-11); (2) a cura do filho do oficial (Jo 4:46-54); (3) a cura do paralítico (Jo 5:1-18); (4) a primeira multiplicação dos pães (Jo 6:6-13); (5) a caminhada sobre as águas (Jo 6:16-21); (6) a restauração da vista do cego (Jo 9:1-7); e (7) a ressureição de Lázaro (Jo 11:1-45). Os outros temas importantes do livro incluem o Espírito Santo (Jo 14:26; 15:26; 16:7-14), Satanás e o mundo (Jo 8:44; 12:31; 17:15), o Verbo (Jo 1:1-14) e o novo nascimento (Jo 3:1-12)."
+        ]
+      }
+    }
+  },
+  "at": {
+    "regard": "Introdução ao livro de",
+		"name": "Atos dos Apóstolos",
+    "date": "61 A.D.",
+    "author": "Lucas",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": ["Fica claro, a partir de passagens no livro que empregam os pronomes \"nós\" e \"nos\" (At 16:10-17; 20:5 — 21:18; 27:1 — 28:16), que o autor de Atos foi um companheiro de Paulo. O próprio conteúdo dessas passagens elimina os companheiros conhecidos de Paulo, à exceção de Lucas. Além disso, Colossenses 4:14 e Filemom 1:24 apontam afirmativamente para Lucas, que era médico. O uso frequente de termos médicos também confirma esta conclusão (At 1:3; 3:7ss; 9:18, 33; 13:11; 28:1-10). Lucas atendeu juntamente com Paulo à visão macedônia, ficou responsável pelo trabalho em Filipos, por cerca de seis anos e, mais tarde, esteve com Paulo em Roma, durante a prisão domiciliar do apósotlo. Foi provavelmente durante este último período que Atos foi escrito. Se tivesse sido escrito mais tarde seria difícil explicar a ausência de menção a acontecimentos palpitantes como o incêndio de Roma, o martírio de Paulo e a destruíção de Jerusalém."
+      ]
+      },
+      "p2": {
+        "thumb": "Importância do Livro",
+        "text": ["(1) Atos nos oferece o registro da expansão do cristianismo, desde o dia da descida do Espírito Santo, no dia de Pentecostes, até a chegada de Paulo a Roma, para pregar o Evangelho na capital do mundo. Sob este aspecto, é o registro da continuação das coisas que Jesus começara a fazer na Terra, como Cabeça d Igreja e Doador do Espírito Santo (At 1:2; 2:33). O livro é chamado por alguns de Atos do Espírito Santo.", 
+        "(2) Os trinta anos de história cobertos pelo livro foram anos importantes de transição. O Evangelho foi pregado a princípio apenas aos judeus e a igreja primitiva era, majoritariamente, composta de cristãos judeus. À medida que mais e mais gentios eram incluídos, a Igreja foi-se distinguindo e separando do judaísmo.", 
+        "(3) Doutrinas que foram mais tarde desenvolvidas aparecem em forma seminal em Atos (o Espírito, At 1:8; o reino, At 3:21; 15:16; governo da Igreja, At 11:30; salvação dos gentios, At 15:14). O livro enfatiza, contudo a prática da doutrina, e não a sua formulação.",
+        "(4) Atos nos fornece princípios de trabalho missionário.",
+        "(5) Atos revela ainda padrões para a vida da igreja.",
+        "(6) Descobertas arqueológicas confirmam de modo notável a exatidão histórica da narrativa de Lucas."
+      ]
+      },
+      "p3":{
+        "thumb":"Conteúdo",
+        "text":["Nos primeiros doze capítulos do livro as figuras importantes são Pedro, Estêvão, Filipe, Barnabé e Tiago. Do capítulo 13 ao final do livro a figura dominante é Paulo. O livro também pode ser dividido segundo os limites geográficos mencionados na Grande Comissão (At 1:8)."]
+      }
+    }
+  },
+  "rm": {
+    "regard": "Introdução à carta aos",
+		"name": "Romanos",
+    "date": "58 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "A Igreja em Roma",
+        "text": ["Embora Paulo e Pedro tenham sido aparentemente martirizados em Roma, é improvável que qualquer dos dois tenham sido o fundador da igreja naquela cidade. Possivelmente alguns convertidos de Paulo ou de outros apóstolos tenham fundado a igreja ali. Os membros eram predominantemente gentios (Rm 1:13; 11:13; 15:15-16)."]
+      },
+      "p2": {
+        "thumb": "Ocasião da Carta",
+        "text": ["Paulo estava ansioso para ministrar nesta igreja, já que era amplamente conhecida (Rm 1:8), e por isso escreveu a carta para preparar o caminho para sua visita (Rm 15:14-17). A carta foi escrita em Corinto, onde Paulo estava levantando a coleta para os crentes pobres da Palestina. De lá, partiu para Jerusalém para entregar o dinheiro, pretendendo continuar viagem para Roma e, de lá, para a Espanha (Rm 15:24). Tais planos, todavia, foram mudados com a sua prisão em Jerusalém, embora Paulo tenha chegado finalmente a Roma, como prisioneiro. Febe, que pertencia à igreja em Cencréia, localidade próxima a Corinto (Rm 16:1), foi a provável portadora da carta a Roma."
+      ]
+      },
+      "p3":{
+        "thumb":"A Questão sobre o Capítulo 16",
+        "text":["A menção nominal de 26 pessoas de uma igreja que Paulo jamais visitara (e de modo especial Priscila e Áquila, que mais recentemente relacionavam-se com Éfeso — At 18:18-19) tem levado alguns estudiosos a considerar o capítulo 16 como parte de uma outra epístola, escrita para Éfeso. Seria natural, entretanto, que, numa carta a uma igreja que não conhecia pessoalmente, Paulo mencionasse nominalmente pessoas que eram amigos em comum. A única outra lista prolongada de saudações ocorre em Colossenses — carta escrita a outra igreja que o apóstolo nunca tinha visitado."
+      ]
+      },
+      "p4":{
+        "thumb":"Conteúdo",
+        "text":["Mais formal que as demais cartas de Paulo, Romanos apresenta de maneira sistemática a doutrina da justificação pela fé (e suas ramificações). O tema da epístola é a justiça de Deus (Rm 1:16-17). Um bom número de doutrinas fundamentais da fé cristã é discutido: a revelação natural (Rm 1:19-20), a universalidade do pecado (Rm 3:9-20), a justificação (Rm 3:24), a propiciação (Rm 3:25), a fé (Rm 4), o pecado original (Rm 5:12), a união com Cristo (Rm 6), a eleição e rejeição de Israel (Rm 9 — 11), os dons espirituais (Rm 12:3-8) e o respeito às autoridades (Rm 13:1-7)."]
+      }
+    }
+  },
+  "1co": {
+    "regard": "Introdução à primeira carta aos",
+		"name": "Coríntios",
+    "date": "56 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "A Cidade de Corinto",
+        "text": ["Localizada no estreito istmo entre os mares Egeu e Adriático, Corinto era uma cidade portuária e um rico centro comercial. Navios que quisessem evitar a perigosa viagem de contorno da parte meridional da penísula grega eram arrastados ao longo do istmo. A cidade ostentava um teatro ao ar livre com capacidade para 20.000 espectadores; os jogos atléticos (chamaods Jogos Istmicos) só perdiam em importância para os Jogos Olímpicos; Corinto possuía uma população que incluía gregos, romanos e orientais e exibia, com orgulho, o templo de Afrodite, com suas 1.0000 prostitutas. A condição imoral de Corinto é vividamente percebida no fato de que o termo grego \"korintianizomai\" (lit., agir como um coríntio) adquiriu o sentido de \"comer fornicação\". Havia tavernas na parte sul do mercado, e muitos utensílios usados para bebidas alcoólicas foram recuperados quando tais bases foram escavadas. Corinto era notória por tudo que era pecaminoso."]
+      },
+      "p2": {
+        "thumb": "A Igreja em Corinto",
+        "text": ["O Evangelho foi pregado em Corinto pela primeira vez por Paulo, em sua segunda viagem missionária (A.D. 50). Enquanto morava e trabalhava com Áquila e Priscila, ele pregou na sinagoga até que a oposição o forçou a mudar-se para a casa ao lado, a casa de Tício Justo. Os judeus o acusaram perante o governador romano, Gálio, mas as acusações foram rejeitadas, e Paulo permaneceu 18 meses na cidade (At 18:1-17; 1 Co 2:3). Depois de partir, Paulo escreveu à igreja uma carta que se perdeu (1 Co 5:9), mas perguntas inquietantes feitas pelos crentes numa carta enviada ao apóstolo e notícias perturbadoras a respeito da situação dos crentes (1 Co 7:1) provocaram a composição de 1 Coríntios. Os problemas incluíam divisões na igreja (1 Co 1:11), imoralidade (1 Co 5; 6:9-20), e as perguntas concernentes a casamento, alimentos, adoração e ressureição. Crenças e práticas aberrantes e de espantosa variedade caracterizavam a igreja em Corinto."
+      ]
+      },
+      "p3":{
+        "thumb":"Local de Escrita",
+        "text":["Esta carta foi escrita em Éfeso (1 Co 16:8)."
+      ]
+      },
+      "p4":{
+        "thumb":"Conteúdo",
+        "text":["A carta é predominantemente prática em sua ênfase, tratando de problemas espirituais e morais. É um manual prático de teologia pastoral. Ênfanses importantes incluem: o tribunal de Cristo (1 Co 3:11-15), a habitação do Espírito Santo (1 Co 6:19-20), a glória de Deus (1 Co 10:31), a ceia do Senhor (1 Co 11:23-34), o amor (1 Co 13), o exercício dos dons (1 Co 12 — 14) e a ressureição (1 Co 15)."]
+      }
+    }
+  },
+  "2co": {
+    "regard": "Introdução à segunda carta aos",
+		"name": "Coríntios",
+    "date": "57 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "Ocasião",
+        "text": ["Depois de escrever 1 Coríntios, Paulo julgou necessário fazer uma visita apressada, e dolorosa, a Corinto, já que os problemas que haviam ocasionado a primeira carta não haviam sido resolvidos (2 Co 2:1; 12:14; 13:1-2). Depois desta visita, ele escreveu à igreja mais uma carta, triste e severa, à qual ele se refere em 2 Co 2:4, e que se perdeu. Tito foi o portador dessa carta. Paulo, impedido de esperar para encontrar-se com Tito, voltando de Trôade, partiu apressadamente para a Macedônia, onde Tito lhe deu as boas novas de que a igreja finalmente se arrependera de sua rebeldia contra Paulo. Da Macedônia Paulo escreveu 2 Coríntios, fazendo logo em seguida a sua última visita à igreja (pelo menos, a última da qual se tem notícia ou registro, At 20:1-4).", 
+        "Uma teoria popular entre os estudiosos alega que os capítulos 10 — 13 são parte da carta \"severa\". Embora algumas características desses capítulos correspondam ao que deve ter sido o conteúdo da carta perdida, o assunto principal da tal carta (o crente em pecado de 2 Coríntios 2:5) não é sequer mencionado nos capítulos 10 — 13. Além disso, não há qualquer evidência em favor de tal divisão para 2 Coríntios. "]
+      },
+      "p2": {
+        "thumb": "Propósito",
+        "text": ["Esta carta tem um próposito tríplice: (1) expressar alegria pela reação favorável da igreja ao ministério de Paulo (2 Co 1 — 7); (2) relembrar os crentes de seu compromisso para com a oferta aos cristãos da Judéia (2 Co 8 — 9); (3) defender a autoridade apostólica de Paulo (2 Co 10 — 13)."
+      ]
+      },
+      "p3":{
+        "thumb":"Conteúdo",
+        "text":["A carta contém muitos detalhes pessoais e autobiográficos da vida de Paulo (2 Co 4:8-18; 11:22-33). O tratamento mais completo da contribuição cristã no Novo Testamento acontece nos capítulos 8 e 9. Versículos importantes incluem 2 Co 5:10, 20-21; 6:14; 8:9; 10:5; 11:14; 12:9 e 13:14."]
+      }
+    }
+  },
+  "gl": {
+    "regard": "Introdução à carta aos",
+		"name": "Gálatas",
+    "date": "49 ou 55 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "Galácia",
+        "text": ["Na época que a carta foi escrita, o termo Galácia era usado tanto com sentido geográfico quanto com sentido político. O sentido geográfico se referia à parte centro-norte da Ásia Menor, ao norte das cidades de Antioquia da Pisídia, Icônio, Listra e Derbe; o sentido polítio se referia à província romana (organizada em 25 a.C.) que incluía as cidades mencionadas e alguns distritos ao sul. Se a carta fora escrita a crentes da região norte, as igrejas teriam sido fundadas durante a segunda viagem missionária e a carta escritra durante a terceira viagem missionária, talvez de Éfeso (por volta de 53 A.D.) ou da Macedônia (por volta de 55 A.D.) A favor desta hipótese está o fato de Lucas sempre se referir à região norte quando usa o termo \"Galácia\" (At 16:6; 18:23).", 
+        "Se a carta fora escrita aos crentes da Galácia do Sul, as igrejas teriam sido fundadas na primeira viagem missionária, e a carta escrita ao final desta viagem (provavelmente de Antioquia, por volta de 49 A.D., sendo assim a mais antiga das cartas de Paulo), pouco antes da convocação do concílio em Jerusalém (At 15). A favor desta data o fato de Paulo não meniconar as decisões do concílio de Jerusalém, que se aplicavam diretamente à discussão que Paulo inclui em Gálatas, contra os judaizantes, o que indica que o concílio ainda não se realizara."]
+      },
+      "p2": {
+        "thumb": "O Probelma",
+        "text": ["Como pode o homem (pecaminoso por natureza) chegar a Deus (santo por natureza)? A resposta de Paulo é a seguinte: Há apenas um caminho — aceitar a salvação que a graça de Deus coloca à nossa disposição através da morte e ressureição de Cristo. Deixemos de lado qualquer conceito de salvação meritória pela obediência à Lei de Moisés. O homem é fraco demais, por natureza, para obter a auto-salvação ou auto-santificação. Certos judeus cristãos (os judaizantes) estavam ensinando que as obras eram necessárias, que o evangelho de Paulo não era correto, e que ele não era um verdadeiro apóstolo. A resposta de Paulo foi proclamar a doutrina da salvação pela fé apenas, e da santificação pelo Espírito Santo, não pela Lei Mosaica. Esta resposta foi dada na plena autorização apostólica recebida de Cristo. Todas as teologias que ensinam salvação pela fé mais alguma obra ou esforço humano são veementemente negadas por esta grandiosa epístola."
+      ]
+      },
+      "p3":{
+        "thumb":"Conteúdo",
+        "text":["O tema, justificação pela fé, é defendido, explicado e aplicado. Outros assuntos significativos são a estada de Paulo na Arábia por três anos (Gl 1:17), sua repreensão a Pedro (Gl 2:11), a lei como um aio (Gl 3:24) e o fruto do Espírito (Gl 5:22-23). "]
+      }
+    }
+  },
+  "ef": {
+    "regard": "Introdução à carta aos",
+		"name": "Efésios",
+    "date": "61 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "As Epístolas da Prisão",
+        "text": ["Efésios, Filipenses, Colossenses e Filemom são às vezes denominadas Epístolas da Prisão, já que foram todas escritas durante a prisão de Paulo em Roma (Ef 3:1; Fp 1:7; Cl 4:10; Fm 1:9). Debate-se a dúvidda quanto à possibilidade de Paulo ter sido prisioneiro uma ou duas vezes em Roma, embora pareça que os fatos se encaixem melhor na teoria das duas prisões. Durante a primeira prisão, Paulo foi mantido prisioneiro num acampamento da guarda pretoriana (ou próximo a ele), ou ainda numa casa que ele mesmo alugara (At 28:30) por dois anos, durante os quais estas cartas foram escritas. Ele previa sua libertação (Fm 1:22), após a qual realizou várias viagens, escreveu 1 Timóteo e Tito, foi novamente aprisionado, escreveu 2 Timóteo e foi martirizado (veja a Introdução a Tito). Estas, portanto, são as cartas da primeira prisão em Roma, ao passo que 2 Timotéo é a carta da segunda prisão."]
+      },
+      "p2": {
+        "thumb": "Uma Encíclica",
+        "text": ["Várias coisas indicam que Efésios foi uma carta circular, um tratado doutrinário em forma de carta, enviado às várias igrejas da Ásia Menor. Alguns bons manuscritos gregos omitem as palavras \"em Eféso\" em Ef 1:1. Há marcante ausência de controvérsia nesta carta, que não trata de problemas de uma igreja em especial. Já que Paulo trabalhara em Eféso por quase três anos, e que normalmente mencionava os nomes de muitos amigos nas igrejas às quais escrevia, a ausência de nomes pessoais nesta carta apoia fortmente a ideia de seu caráter encíclico. Provavelmente, foi enviada primeiro a Eféso, por meio de Tíquico (Ef 6:21-22; Cl 4:7-8), sendo talvez a mesma carta chamada \"a dos de Laodicéia\" em Colossenses 4:16."
+      ]
+      },
+      "p3":{
+        "thumb":"A Cidade de Eféso",
+        "text":["O cristianismo provavelmente chegou a Eféso com Áquila e Priscila, quando Paulo fez ali uma breve parada em sua segunda viagem missionária (At 18:18-19). Em sua terceira viagem ele permaneceu na cidade por quase três anos e o evangelho se disseminou por toda a província romana da Ásia (At 19:10). A cidade era um centro comercial, político e religioso, estando ali o templo de Ártemis (Diana). Como grande centro comercial, rivalizava com Alexandria e Antioquia. Depois de Paulo, Timóteo liderou a igreja por algum tempo (1 Tm 1:3) e, mais tarde, o apóstolo João fez da cidade a sua base de operações."
+      ]
+      },
+      "p4":{
+        "thumb":"Conteúdo",
+        "text":["O grande tema desta carta é o propósito eterno de Deus de estabelecer e completar o Seu corpo, a Igreja de Cristo. Ao desenvolver este tema, Paulo trata de predestinação (Ef 1:3-14), a liderança de Cristo sobre o corpo, como Cabeça (Ef 1:22-23; 4:15-16), a Igreja como edifício e templo de Deus (Ef 2:21-22), o mistério de Cristo (Ef 3:1-21), dons espirituais (Ef 4:7-16), e a Igreja como a noiva de Cristo."]
+      }
+    }
+  },
+  "fp": {
+    "regard": "Introdução à carta aos",
+		"name": "Filipenses",
+    "date": "61 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "A Igreja de Filipos",
+        "text": ["Fundada por Paulo em sua segunda viagem missionária, esta foi a primeira igreja a ser estabelecida por ele na Europa (At 16). Filipos era uma cidade pequena, fundada pelo rei Filipe da Macedônia, pai de Alexandre, o Grande. Sua maior fama vinha da batalha travada em suas proximidades, em 42 a.C., entre as forças de Bruto e Cássio contra as de Antônio e Otávio (mais tarde César Augusto). Tornou-se uma \"colônia\" romana, um posto militar com privilégios especiais.", 
+        "O relacionamento de Paulo com a igreja em Filipos sempre foi íntimo e cordial. Depois de já tê-lo ajudado financeiramente por duas vezes antes de a carta ser escrita (Fp 4:16), ao saber de seu aprisionamento em Roma, a igreja enviou Epafrodito com outra oferta. Filipenses é uma carta de agradecimento por essa oferta, e a mais pessoal das cartas que Paulo escrevera a uma igreja. Epafrodito adoecera quase que mortalmente, em sua permanência em Roma com Paulo (Fp 2:27) e, depois de sua recuperação, Paulo o enviou de volta com a carta. Embora algo velados pela gentileza de Paulo nessa carta, alguns dos problemas da igreja são visto nas entrelinhas. Incluíam rivalidades e ambições pessoais (Fp 2:3-4; 4:2), o ensino dos judaizantes (Fp 3:1-3), o perfeccioninsmo (Fp 3:12-14), e a influência de libertinos antinomianos (Fp 3:18-19)."]
+      },
+      "p2": {
+        "thumb": "Local de Escrita",
+        "text": ["Paulo estava preso quando a carta foi escrita, mas há discordância quanto a exatamente em qual cidade. Alguns pensam que foi em Cesaréia, outros em Eféso; no entanto, ele deve ter escrito a carta de Roma, indubitavelmente. Em Fp 1:13 ele menciona o pretório ou guarda pretoriana, uma tropa romana de elite, destacada para assistir o imperador em Roma (veja também Fp 4:22). Também é claro que, no julgamento que defrontava, Paulo estava com a vida em jogo, indicando que o julgamento seria conduzido perante César, em Roma (Fp 1:20). Embora Paulo tivesse estado preso em Cesaréia  por dois anos, nenhuma decisão final para o seu caso fora sequer aventada ali (At 24). Eféso tem sido sugerida como local de escrita, com base em 1 Co 15:32, mas esse versículo não traz qualquer indicação clara do aprisionamento."
+      ]
+      },
+      "p3":{
+        "thumb":"Conteúdo",
+        "text":["Uma das mais importantes passagens doutrinárias do Novo Testamento é Filipenses 2:5-8; nela Paulo apresenta a doutrina da Kenosis — a auto-humilhação ou auto esvaziamento de Cristo. Fp 4:6-7 são versos importantes sobre oração. Outros versículos favoritos da carta são Fp 1:21, 23b; 3:10, 20; 4:8, 13. Um retrato autobiográfico significativo aparece em Fp 3:4-14."]
+      }
+    }
+  },
+  "cl": {
+    "regard": "Introdução à carta aos",
+		"name": "Colossenses",
+    "date": "61 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "A Igreja em Colossos",
+        "text": ["Cerca de 160 quilômetros a leste de Éfeso, próximo a Laodicéia e Hierápolis (Cl 4:13), Colossos era um centro comercial antigo, mas decadente. O evangelho pode ter sido levado pra lá durante o ministério de Paulo em Éfeso (At 19:10), embora tenha cabido a Epafras o papel principal na evangelização e edificação dos colossenses. Paulo não conhecia pessoalmente os crentes de Colossos (Cl 2:1), mas Epafras foi visitá-lo na prisão (ou quem sabe, aprisionado com ele, Fm 1:23) e relatou-lhe as condições desta igreja."]
+      },
+      "p2": {
+        "thumb": "Local de Escrita",
+        "text": ["Tal como Efésios, Filipenses e Filemom, Colossenses foi escrita durante a primeira prisão de Paulo, em Roma (veja a Introdução a Tito e a Introdução a Filipenses, com respeito a outras sugestões de local de escrita). As muitas referências pessoais, comuns a Colossenses e Filemom, e as muitas semelhanças de idéias entre Colossenses e Efésios ligam estas cartas. Aparentemente, Tíquico foi o portador desta carta (Ef 6:21; Cl 4:7)."
+      ]
+      },
+      "p3":{
+        "thumb":"A Heresia de Colossos",
+        "text":["Partindo dos contra-argumentos de Paulo na epístola, podemos discernir algumas das características da heresia ensinada em Colossos. Era erro sincretista, msturando legalismo judeu com especulação filosófica grega e misticismo oriental. Pontos específicos incluíam a observância do sábado e de leis alimentares, bem como o ritual da circuncição (Cl 2:11, 16), a adoração a anjos (Cl 2:18), e a prática do ascetismo, derivada da crença de que o corpo era intrinsecamente mau (Cl 2:21-23). Ao combater esta heresia, Paulo enfatiza o significado cósmico de Cristo como Senhor da Criação e Cabeça da Igreja. Qualquer ensino, prática, ou intermediário que diminua a singularidade e centralidade de Cristo, é contrário à fé."
+      ]
+      },
+      "p4":{
+        "thumb":"Conteúdo",
+        "text":["O tema é a supremacia e plena suficiência de Cristo. Assuntos importantes incluem a pessoa e obra de Cristo (Cl 1:15-23), heresia (Cl 2:8-23) e a união do crente com Cristo (Cl 3:1-4)."]
+      }
+    }
+  },
+  "1ts": {
+    "regard": "Introdução à primeira carta aos",
+		"name": "Tessalonicenses",
+    "date": "51 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "O Tabalho em Tessalônica",
+        "text": ["Paulo, Silas e Timóteo chegaram pela primeira vez à cidade portuária de Tessalônica durante a segunda viagem missionária (At 17:1_14). Este foi o segundo lugar em que o Evangelho foi pregado na Europa (Filipos fora o primeiro). Pelo fato de a pregação do Evangelho ter esvaziado a sinagoga, os judeus acusaram o hospedeiro de Paulo, um certo Jasom, de abrigar traidores de César. OS governantes da cidade retiveram Jasom como uma espécie de refém e permitiram que os missionários deixassem a cidade. Quando chegaram a Atenas, Paulo enviou Timóteo de volta a Tessalônica (1 Ts 3:1-2, 5) para animar os crentes e depois trazer um relatório sobre as condições da igreja. Timóteo reuniu-se a Paulo em Corinto (1 Ts 3:6), onde foram escritas as duas cartas aos tessalonicenses.", 
+        "Alguns pensam que Paulo permaneceu menos de um mês em Tessalônica (somente três sábados são mencionados em At 17:2). Ele deve ter tido, todavia, um ministério mais extenso fora da sinagoga e da comunidade judaica, já que a igreja era composta predominantemente de gentios. Seja qual for o caso, ele se preocupou com a sua saída sob pressão e com o problema de deixar a igreja sem uma liderança experiente. O relatório de Timóteo deu a Paulo apenas razões de louvor a Deus pela condição saudável da igreja. Esta é uma carta escrita por um pastor aliviado e agradecido para o seu rebanho em crescimento."]
+      },
+      "p2": {
+        "thumb": "Propósito",
+        "text": ["Além de (1) expressar sua gratidão, Paulo (2) defendeu-se de uma campnha que visava difamar seu ministério, afirmando que era realizado apenas para fins lucrativos (1 Ts 2:9-10); (3) estimulou os novos convertidos a não apenas ficarem firmes diante da perseguição, mas também resistirem à pressão de voltar aos velhos hábitos pagãos de vida (1 Ts 3:2-3; 4:1-12); (4) respondeu à pergunta quanto ao que acontece aos crentes que morrem antes da volta do Senhor (1 Ts 4:13-18); e, finalmente, (5) discutiu alguns problemas de sua vida eclesiástica que careciam de tratamento (1 Ts 5:12-13, 19-20)."
+      ]
+      },
+      "p3":{
+        "thumb":"Conteúdo",
+        "text":["As passagens-chaves desta epístola são escatológicas, ou seja, relacionadas aos acontecimentos dos últimos dias, como o arrebatamento da Igreja (1 Ts 4:13-18) e o dia do Senhor (1 Ts 5:1-11)."]
+      }
+    }
+  },
+  "2ts": {
+    "regard": "Introdução à segunda carta aos",
+		"name": "Tessalonicenses",
+    "date": "51 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "Propósito",
+        "text": ["Esta carta foi enviada por Paulo à igreja em Tessalônica pouco depois de 1 Tessalonicenses, visando corrigir uma nova situação. Paulo recebera, de algum modo, notícias de que houvera mal-entendidos, se não distorções propositais (2 Ts 2:2), de seu ensino sobre o vindouro dia do Senhor (1 Ts 5:1-11). Alguns pensavam que os juízos do dia do Senhor já haviam começado; entretanto, haviam entendido que Paulo ensinara que estariam isentos de tais juízos. A ramificação prática desta confusão doutrinária era que alguns, pensando estar próximo o fim do mundo, haviam parado de trabalhar e, assim, criado uma situação embaraçosa (2 Ts 3:6, 11). Paulo corrige o ensino errado e repreende os ociosos."]
+      },
+      "p2": {
+        "thumb": "Conteúdo",
+        "text": ["A divisão principal sobre o homem do pecado (2 Ts 2:1-12) deve ser comparada com outras passagens que falam deste anticristo (Dn 9:27; Mt 24:15; Ap 11:7; 13:1-10)."]
+      }
+    }
+  },
+  "1tm": {
+    "regard": "Introdução à primeira carta a",
+		"name": "Timóteo",
+    "date": "63 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "As Epístolas Pastorais",
+        "text": ["As duas artas a Timóteo e a carta a Tito são chamadas \"Epístolas Pastorais\" porque contêm princípios para o cuidado pastoral das igrejas e as qualificações necessárias aos ministros."]
+      },
+      "p2": {
+        "thumb": "Autoria",
+        "text": ["Alguns comentáristas têm questionado a realidade da autoria paulina destas cartas, com base nos seguintes argumentos: (1) as viagens de Paulo, descritas nas Pastorais, não se encaixam com qualquer fase da narrativa do livro de Atos; (2) a organização eclesiástica nelas descritas pertence ao segundo século; (3) o vocabulário e o estilo são significativamente diferentes dos das demais cartas paulinas. Os que defendem a autoria paulina respondem assim: (1) não há razão que nos obrigue a crer que Atos conta a história completa da vida de Paulo. Uma vez que sua morte não foi registrada em Atos, ele aparentemente foi libertado de sua primeira prisão em Roma, viajou pelo império por vários anos (talvez até a Espanha), foi novamente preso, encarcerado outra vez em Roma, e martirizado no governo de Nero. (2) Nada na organização eclesiástica refletida nas Pastorais exige uma data posterior (veja At 14:23; Fp 1:1). (3) A questão da autoria não pode ser decidida somente com base no vocabulário, sem levar em conta  como o assunto tratado determina a escolha de palavras pelo autor. O vocabulário usado para descrever a organização da igreja, por exemplo, espera-se ser diferente daquele utilizado para ensinar a doutrina do Espírito Santo. Não há argumento contra a autoria paulina que fique sem uma resposta plausível. Além disso, as próprias cartas alegam ter sido escritas por Paulo."
+      ]
+      },
+      "p3":{
+        "thumb":"Contexto Histórico",
+        "text":["Timóteo, filho de pai grego e de uma piedosa mãe judia, chamada Eunice, esteve intimamente associado a Paulo a partir da segunda viagem missionária (2 Tm 1:5; At 16:1-3). Quando Paulo escreveu 1 Timóteo, provavelmente da Macedônia (1 Tm 1:3), estava a caminho de Nicópolis (Tt 3:12), mas Timóteo fora deixado em Éfeso, encarregado do trabalho na província da Ásia. Embora Paulo desejasse visitar Timóteo (1 Tm 3:14; 4:13), esta carta orientaria, temporariamente, Timóteo no exercício de suas responsabilidades pastorais."
+      ]
+      },
+      "p4":{
+        "thumb":"Conteúdo",
+        "text":["Em relação a Timóteo pessoalmente, o tema da carta é \"combater o bom combate\" (1Tm 1:18). Em relação à igreja como um corpo, o tema é \"a conduta na casa de Deus\" (1 Tm 3:15). Assuntos importantes discutidos na epístola incluem a lei (1 Tm 1:7-11), oração (1 Tm 2:1-8), traje e atividades das mulheres (1 Tm 2:9-15), qualificações para bispos ou prebíteros e diáconos (1 Tm 3:1-13), os últimos dias (1 Tm 4:1-3), o cuidado para com as viúvas (1 Tm 5:3-16), e o uso do dinheiro (1 Tm 6:6-19)."]
+      }
+    }
+  },
+  "2tm": {
+    "regard": "Introdução à segunda carta a",
+		"name": "Timóteo",
+    "date": "66 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": ["Veja a Introdução a 1 Timóteo."]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico",
+        "text": ["Veja Contexto Histórico na Introdução a Tito. Paulo, prisioneiro em Roma como resultado da perseguição movida por Nero, sabia, ao escrever esta carta, que sua morte estava próxima (2 Tm 1:8, 16; 4:6-8). Enfrentando o frio e a solidão em sua masmorra (2 Tm 4:10-13), o veterano missionário escreveu a seu jovemm filho na fé esta carta intensamente pessoal. Pouco depois, segundo a tradição, ele foi decapitado na Via Óstia, a oeste de Roma."
+      ]
+      },
+      "p3":{
+        "thumb":"Conteúdo",
+        "text":["O tema pode ser derivado de 2 Tm 2:3, \"um bom soldado de Cristo Jesus\". Assuntos importantes mencionados na carta incluem a apostasia dos últimos dias (2 Tm 3:1-9; cf 2 Tm 4:1-3), a inspiração da Escrituras (2 Tm 3:16), e a coroa da justiça (2 Tm 4:8)."]
+      }
+    }
+  },
+  "tt": {
+    "regard": "Introdução à carta a",
+		"name": "Tito",
+    "date": "65 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": ["Veja a Introdução a 1 Timóteo."]
+      },
+      "p2": {
+        "thumb": "Contexto Histórico",
+        "text": ["A provável ordem dos aconteciemntos mais significativos é a seguinte: (1) Paulo foi libertado de sua prisão domiciliar em Roma (onde o encontramos no final de Atos), provavelmente porque seus acusadores preferiram não levar adiante suas acusações contra ele perante César (At 24:1; 28:30). Por isso, perderam o caso por não comparecimento à corte, e Paulo foi libertado. (2) Paulo visitou Éfeso e ali deixou Timóteo para supervisionar as igrejas da Ásia, seguindo para a Macedônia (norte da Grécia). (3) De lá escreveu 1 Timóteo (1 Tm 1:3). (4) Visitou Creta, ali deixando Tito para supervisionar as igrejas cretenses, e partiu para Nicópolis, na Acaia (sul da Grécia, Tt 3:12). (5) De Nicópolis ou da Macedônia, escreveu esta carta para encorajar Tito. (6) Visitou Trôade (2 Tm 4:13), onde foi subitamente preso, levado a Roma, encarcerado e, finalmente, decapitado. (7) De Roma, durante sua segunda prisão escreveu 2 Timóteo."
+      ]
+      },
+      "p3":{
+        "thumb":"Tito",
+        "text":["Gentio de nascimento (Gl 2:3), Tito se converteu pelo ministério de Paulo (Tt 1:4). Acompanhou Paulo a Jerusalém por ocasião do concílio apostólico (At 15:2; Gl 2:1-3). Foi o emissário de Paulo à igreja em Corinto durante a terceira viagem missionária (2 Co 7:6-7; 8:6, 16). Tito e outros irmãos levaram a carta que denominamos 2 Coríntios para Corinto e instou com os coríntios a que cumprissem sua promessa de fazer uma contribuição para os cristãos pobres de Jerusalém.",
+        "Paulo deixou Tito em Creta para usar seus dons administrativos na consolidação do trabalho ali. Ártemas (ou Tíquico) substituiu Tito em Creta para que este pudesse juntar-se a Paulo em Nicópolis (Tt 3:12), de onde Paulo o enviou à Dalmácia (atual Iugoslávia) (2 Tm 4:10). Diz a tradição que Tito retornou a Creta e ali morreu."
+      ]
+      },
+      "p4":{
+        "thumb":"Conteúdo",
+        "text":["Tópicos importantes discutidos nesta carta incluem as qualificações para os prebísteros (Tt 1:5-9), instruções a várias faixas etárias na igreja (Tt 2:1-8), relação dos crentes com o governo (Tt 3:1-2), e a relação entre a regeneração, as obras humanas e o Espírito (Tt 3:5)."]
+      }
+    }
+  },
+  "fm": {
+    "regard": "Introdução à carta a",
+		"name": "Filemom",
+    "date": "61 A.D.",
+    "author": "Paulo",
+    "content": {
+      "p1": {
+        "thumb": "Contexto Histórico",
+        "text": ["Juntamente com Efésios, Filipenses e Colossenses, Filemom é uma das epístolas da prisão, escritas durante   primeiro encarceramento de Paulo em Roma. Onésimo, um dos milhões de escravos no Impeério Romano, fugira de seu senhor, Filemom, depois de roubar-lhe algum dinheiro. Finalmente, chegou a Roma, onde seu caminho cruzou com o do apóstolo Paulo, que o levou à fé em Cristo (Fm 1:10). Agora Onésimo se defrontava com o dever cristão para com seu senhor, o que significava voltar à casa de Filemom em Colossos. Uma vez que o castigo costumeiro em tais casos era a morte, Paulo escreveu esta maravilhosa carta intercessóra em favor de Onésimo.", 
+        "Filemom não era o único crente a possuir escravos na igreja em Colossos (veja Cl 4:1), de modo que esta carta oferecia diretrizes para que outros senhores cristãos tratassem seus irmãos escravos. Paulo não negou os direitos de Filemom sobre seu escravo, mas pediu que Filemom aplicasse o princípio da fraternidade cristã à situação de Onésimo (Fm 1:16). Ao mesmo tempo, Paulo ofereceu-se para pagar pessoalmente a dívida de Onésimo. Esta carta não é um ataque contra a escravatura como tal, e, sim, uma sugestão de como senhores e escravos cristãos podiam vivenciar sua fé dentro do regime iníquo da escravatura. É possível que Filmemom tenha concedido liberdade a Onésimo e o tenha enviado de volta a Paulo (Fm 1:14). Também já se sugeriu que Onésimo se tornou um ministro do Evangelho e, mais tarde, veio a ser bispo da igreja em Éfeso (Inácio de Antioquia, Epístola aos Efésios, 1).", 
+        "Esta é a mais pessoal das cartas de Paulo."
+      ]
+      }
+    }
+  },
+  "hb": {
+    "regard": "Introdução à carta aos",
+		"name": "Hebreus",
+    "date": "64-68 A.D.",
+    "author": "Desconhecido",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": ["Muitas sugestões têm sido feitas com respeito à autoria deste livro anônimo — Paulo, Barnabé, Apolo, Silas, Áquila, Priscila e Clemente de Roma. Com respeito à teologia e ao estilo de Paulo, há ao mesmo tempo semelhanças e diferenças. Paulo frequentemente apela à sua própria autoridade apostólica em suas cartas, ao passo que este autor apela a terceiros como testemunhas visuais do ministério de Jesus (Hb 2:3). É mais seguro dizer, como fez Orígenes, famoso teólogo do terceiro século, que somente Deus sabe quem escreveu Hebreus."]
+      },
+      "p2": {
+        "thumb": "Destinatários",
+        "text": ["Três perguntas estão envolvidas na determinação dos destinatários desta carta. (1) Qual era o contexto racial deste leitores? Embora alguns tenham defendido a tese de que eram gentios, todas as evidências apontam para um contexto judaico — o título do livro (\"Aos Hebreus\"), as referências aos profetas e ao ministério dos anjos a Israel, bem como as citações ao ritual levítico de adoração. (2) Onde viviam? Palestina ou Itália têm sido as respostas mais frequentes. A preferência parece recair sobre a Itália, pois estes leitores não eram pobres (e os crentes da Palestina eram Hb 6:10; 10:34; Rm 15:26); a Septuaginta é usada exclusivamente para citações do Antigo Testamento (o que não se esperaria se a carta fosse destinada a moradores da Palestina); a expressão \"os da Itália vos saudam\". (3) Qual era sua condição espiritual? A maioria dos destinatários era de crentes (Hb 3:1) embora, como em qualquer igreja, houvesse sem dúvida, alguns que meramente professavam fé cristã. O autor chama a carta de \"palavra de exortação\" (Hb 13:22), motivada pelo fato de que alguns corriam o risco de abandonar sua fé em Cristo e retornar ao judaísmo. Os leitores estavam sendo perseguidos, embora não ao ponto de serem martirizados (Hb 10:32-34; 12:4) e, diante disso, alguns corriam risco de se tornarem apóstatas. A carta é uma vibrante apologia da superioridade de Cristo e do cristianismo sobre o judaísmo em termos de sacerdócio e sacrifício."
+      ]
+      },
+      "p3":{
+        "thumb":"Data",
+        "text":["Várias datas foram sugeridas para a composição de Hebreus, desde a década de 60 à de 90, no primeior século. Seu uso, todavia, no livro de 1 Clemente, que foi escrito em 95, exige uma data razoavelmente mais antiga. A ausência no livro de qualquer referência à destruição do templo em Jerusalém como prova definitiva de que Deus abolira o sistema sacrificial do Antigo Testamento é um argumento forte para uma data anterior a 70. Além disso, a menção da recente libertação de Timóteo (Hb 13:23), caso esta tenha-se dada em ligação com seu ministério a Paulo em Roma, exige uma data nos anos finais da década de 60."
+      ]
+      },
+      "p4":{
+        "thumb":"Estilo",
+        "text":["O autor demonstra notável perícia literária e retórica. Seu estilo é um modelo de prosa helenista. Tanto ele quanto seus leitores são versados no Antigo Testamento em sua tradução grega (a Septuaginta). Há 29 citações diretas do Antigo Testamento, além de 53 alusões claras e várias outras passagens. Estas são utilizadas para demosntrar o caráter definitivo da revelação cristã e sua superioridade à velha aliança."
+      ]
+      },
+      "p5":{
+        "thumb":"Conteúdo",
+        "text":["O tema do livro é a superioridade de Cristo e, assim, do cristianismo. As palavras \"melhor\", \"superior\", \"perfeito\" e \"celestial\" aparecem frequentemente. O esboço mostra como o tema é desenvolvido demonstrando que Cristo é superior tanto em Sua pessoa quanto em Seu sacerdócio. Passagens favoritas incluem Hb 2:3 (tão grande salvação), Hb 4:12 (a palavra de Deus, viva e eficaz), Hb 4:16 (o trono da graça), Hb 7:25 (a intercessão de Cristo), Hb 11:1 (a descrição da fé), Hb 11:4-40 (os heróis da fé), Hb 12:1-2 (a carreira cristã), e Hb 13:20-21 (uma grande benção)."]
+      }
+    }
+  },
+  "tg": {
+    "regard": "Introdução à carta de",
+		"name": "Tiago",
+    "date": "45-50 A.D.",
+    "author": "Tiago",
+    "content": {
+      "p1": {
+        "thumb": "As Epístolas Gerais",
+        "text": ["Tiago, 1 e 2 Pedro, 1,2 e 3 João e Judas eram denominadas epístolas \"gerais\", \"universais\" ou \"católicas\" pela Igreja primitiva, porque suas saudações não são dirigidas a uma única localidade (à exceção de 2 e 3 João). Tiago, por exemplo, é dirigida \"às doze tribos que se econtram na Dispersão\" (Tg 1:1) — uma designação para os crentes em toda parte (provavelmente, todos os judeus cristãos \"naquela época remota\")."]
+      },
+      "p2": {
+        "thumb": "Autoria",
+        "text": ["Dos quatro indivíduos identificados como Tiago, no Novo Testamento, somente dois têm sido propostos como autor desta carta — Tiago, filho de Zebedeu (e irmão de João), e Tiago, o meio irmão de Jesus. É pouco provável que Tiago, o filho de Zebedeu, tenha sido o autor, visto ter sido martirizadao em 44 A.D. (At 12:2). O tom de autoridade evidente na carta não apenas elimina os outros dois Tiagos menos conhecidos, do Novo Testamento (Tiago, o menor, e o Tiago de Lucas 6:16), mas aponta para o meio irmão de Jesus, que veio a ser líder reconhecido da igreja em Jerusalém (At 12:17; 15:13; 21:18). Esta conclusão é apoiada pelas semelhanças existentes (no texto grego) entre esta carta e o discurso de Tiago, no Concílio de Jerusalém (Tg 1:1; e At 15:23; Tg 1:27 e At 15:14; Tg 2:5 e At 15:13)."
+      ]
+      },
+      "p3":{
+        "thumb":"Data",
+        "text":["Alguns, negando a autoria de Tiago, devido ao excelente grego do texto, colocam a composição desta carta no final do primeiro século. Os galileus, todavia, conheciam o grego e usavam-no corretamente, junto com o aramaico e o hebraico. Além disso,a ausência de menções ao Concílio de Jerusalém (A.D. 49), o uso da palavra \"sinagoga\" (assembléia) para descrever a igreja em Tg 2:2 e a forte expectativa da volta rápida do Senhor (Tg 5:7-9) indicam uma data mais recuada."
+      ]
+      },
+      "p4":{
+        "thumb":"Canonicidade",
+        "text":["Questionou-se a condição canônica desta carta até que a Igreja percebeu que seu autor fora, com toda probabilidade, o meio irmão de Jesus. Lutero não questionou a genuinidade de Tiago, e sim a sua utilidade, em comparação com as cartas de Paulo, pois ela diz muito pouco sobre a justificação pela fé, e dá destaque às obras."
+      ]
+      },
+      "p5":{
+        "thumb":"Conteúdo",
+        "text":["O livro se preocupa com os aspectos práticos da conduta cristã e apresenta o modo pela qual a fé opera na vida cotidiana. O propósito de Tiago foi oferecer instrução ética concreta. Comparado a Paulo, Tiago demonstra muito pouco interesse em teologia formal, embora a carta não esteja isenta de declarações teológicas (Tg 1:12; 2:1, 10-12, 19; 3:9; 5:7-9, 12, 14). Muitos assuntos são tratados no livro, dando-se-lhe a forma de uma série de máximas dispostas em formato de carta. Embora haja pouca estrutura formal no livro, suas muitas instruções explicam como ser praticante da Palavra (Tg 1:22). Nos 108 versículos da carta há referências, ou alusões, a 22 livros do Antigo Testamento e, pelo menos 15 alusões a ensinos diretos de Cristo, contidos no Sermão do Monte. Entre os assuntos principais nela tratados estão fé e obras (Tg 2:14-26), o uso da língua (Tg 3:1-12) e a oração pelos enfermos (Tg 5:13-16)."]
+      }
+    }
+  },
+  "1pe": {
+    "regard": "Introdução à primeira carta de",
+		"name": "Pedro",
+    "date": "63 A.D.",
+    "author": "Pedro",
+    "content": {
+      "p1": {
+        "thumb": "Destinatários",
+        "text": ["A carta é destinada a \"forasteiros da Dispersão\" (1 Pe 1:1). Tais pessoas eram crentes que, como o antigo Israel, haviam sido espalhados pelo mundo, embora os leitores originais da carta fossem predominantemente gentios, em origem, ao invés de judeus (1 Pe 1:14; 2:9-10; 4:3-4). Sua situação era de provação e sofrimento (1 Pe 4:12), mas não devidos a um interdito imperial contra o cristianismo, que só veio a acontecer mais tarde. Os sofrimentos aqui mencionados são aqueles comuns a crentes que vivem fielmente, numa sociedade pagã e hostil. A perseguição assumia formas de calúnia, distúrbios, interveção policial e ostracismo social. Os leitores são encorajados a se regozijarem em tais provações e a viverem acima delas."]
+      },
+      "p2": {
+        "thumb": "Circuntâncias de Composição",
+        "text": ["A menção de Pedro como autor da carta (1 Pe 1:1) é confirmada pelas muitas semelhanças entre esta carta e os sermões de Pedro, registrados em Atos (At 1:20; 2:23; 4:5; 10:42). O mesmo Silas (também chamado Silvano), que acompanhara Paulo em sua segunda viagem missionária serviu de amanuense, ou foi secretário, a Pedro (1 Pe 5:12; At 15:40).", 
+        "O local de composição foi \"Babilônia\" (1 Pe 5:13), um nome simbólico para Roma, muito usado por outros escritores que desejassem evitar problemas com as autoridades romanas. Pedro esteve em Roma durante a última década de sua vida e escreveu esta epístola por volta de 63 A.D., pouco antes que a perseguição promovida por Nero irrompesse (em 64 A.D.). Pedro foi martirizado por volta de 67 A.D."
+      ]
+      },
+      "p3":{
+        "thumb":"Conteúdo",
+        "text":["O próprio Pedro define o tema de sua carta, em 1 Pe 5:12: \"a genuína graça de Deus\" na vida do crente."]
+      }
+    }
+  },
+  "2pe": {
+    "regard": "Introdução à segunda carta de",
+		"name": "Pedro",
+    "date": "66 A.D.",
+    "author": "Pedro",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": ["Muitos têm sugerido que outra pessoa, não Pedro, escreveu esta carta, depois de 80 A.D., pelas seguintes razões: (1) há diferenças de estilo; (2) a carta, supostamente, depende de Judas; e (3) o autor menciona que as cartas de Paulo já haviam sido reunidas numa coleção (2 Pe 3:16). Todavia, o uso de outro escriba, ou mesmo a não utilização de um escrita, certamente teria resultados em diferenças de estilo; além disso, não há razão pela qual Pedro não pudesse ter feito citações da carta de Judas, embora seja mais provável que Judas tenha sido escrita depois de 2 Pedro; por fim, 2 Pe 3:16 não se refere  necessariamente  a todas as cartas de Paulo, mas apenas àquelas que já tinham sido escritas e circulado até aquela data. Além disso, as semelhanças entre 1 e 2 Pedro apontam para um mesmo autor, e sua aceitação no cânon exige autordade apostólica em sua composição. Presumindo a autoria petrina, a carta teria sido escrita pouco antes de seu martírio em 67, e mais provavelmente em Roma."]
+      },
+      "p2": {
+        "thumb": "Conteúdo",
+        "text": ["A carta é um lembrete ou uma recordação (2 Pe 1:12; 3:1) da verdade do cristianismo em contraste com as heresias dos falsos mestres. Passagens importantes incluem 2 Pe 1:16-18, sobre a transfiguração; 2 Pe 1:21, sobre a inspiração das Escrituras; e 2 Pe 3:4-10, sobre a certeza da segunda vinda de Cristo."]
+      }
+    }
+  },
+  "1jo": {
+    "regard": "Introdução à primeira carta de",
+		"name": "João",
+    "date": "90 A.D.",
+    "author": "João",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": ["Embora seja geralmente aceito que a mesma pessoa tenha redigido o Evangelho de João e estas três epístolas, alguns pensam que não foram escritos (como tradicionalmente se afirma) por João, o apóstolo, filho de Zebedeu, mas por outro João (o presbítero, 2 Jo 1; 3 Jo 1). Argumenta-se que (1) um homem iletrado (At 4:13) não poderia  escrever algo tão profundo como o Evangelho de João; (2) o filho de um pescador não poderia ter conhecido o sumo sacerdote como se afirma que João, o apóstolo, conhecia; (3) um apóstolo não se auto-intitularia de \"prebístero\". Todavia, \"iletrado\" não significa analfabeto, e sim, alguém que não fora formalmente instruído numa escola rabínica; alguns pescadores eram relativamente prósperos (cf. Mc 1:20); e Pedro, apesar de apóstolo, afirmou ser um presbítero (1 Pe 5:1). Além disso, se João, o presbítero, é \"o discípulo amado\" e autor do Evangelho, por que não teria ele mencionado João, o filho de Zebedeu, figura tão importante na vida de Cristo, em seu Evangelho? As evidências todas apontam para o fato de João, o presbítero, e João, o apóstolo, serem a mesma pessoa e o autor desta carta."]
+      },
+      "p2": {
+        "thumb": "Data e Local de Escrita",
+        "text": ["Tradição cristã bem forte afirma que João passou os últimos anos de sua vida em Éfeso. A falta de referências pessoais nesta carta indica que ela foi escrita em estilo homilético para os crentes de toda a Ásia Menor (tal como Efésios). Foi escrita, provavelmente, depois do Evangelho e antes da perseguição desfechada por Domiciano em 95, o que coloca sua composição por volta do final da década de 80 ou princípio da de 90."
+      ]
+      },
+      "p3":{
+        "thumb":"Gnosticismo",
+        "text":["A heresia do gnosticismo já começara a penetrar nas igrejas ao tempo de João. Entre seus ensinos estavam: (1) o conhecimento é superior à virtude; (2) o sentido não-literal das Escrituras é o certo, e só pode ser entendido por uma seleta minoria; (3) a presença do mal no mundo impede que Deus seja o seu único Criador; (4) a encarnação é um fenômeno inacreditável, pois a divindade não poderia jamais se unir a algo material como o corpo humano (Docetismo); e (5) não há ressureição da carne. Os padrões éticos de muitos gnósticos era bem baixos, e por isso João enfatizou a realidade da encarnação e alto padrão ético da vida terrena de Cristo."
+      ]
+      },
+      "p4":{
+        "thumb":"Conteúdo",
+        "text":["A carta mostra a óbvia afeição de João por seus \"filhinhos\" e sua preocupação com o bem-estar espiritual dos crentes. Ela contém vários contrastes — luz e trevas (1 Jo 1:6-7; 2:8-11); amor ao mundo e amor a Deus (1 Jo 2:15-17); filhos de Deus e filhos do diabo (1 Jo 3:4-10); o Espírito de Deus e o espírito do anticristo (1 Jo 4:1-3) amor e ódio (1 Jo 4:7-12, 16-21)."]
+      }
+    }
+  },
+  "2jo": {
+    "regard": "Introdução à segunda carta de",
+		"name": "João",
+    "date": "90 A.D.",
+    "author": "João",
+    "content": {
+      "p1": {
+        "thumb": "Destinatário",
+        "text": ["Há um mistério quanto a quem esta segunda carta foi enviada. Alguns pensam que a \"senhora  eleita\" é maneira figurativa de designar certa igreja (\"tua irmã eleita\", 2 Jo 1:13, significaria, assim, outra igreja). Outros pensam que a carta foi endereçada a uma senhora e sua família (e neste caso a \"irmã\" seria de fato sua irmã natural)."]
+      },
+      "p2": {
+        "thumb": "Data",
+        "text": ["As circunstâncias e os assuntos tratados nesta carta indicam que foi escrita na mesma época que as demais cartas de João, e no mesmo lugar, Éfeso. Veja a Introdução a 1 João."
+      ]
+      },
+      "p3":{
+        "thumb":"Conteúdo",
+        "text":["O principal ensino de 2 João é andar nos mandamentos de Cristo."]
+      }
+    }
+  },
+  "3jo": {
+    "regard": "Introdução à terceira carta de",
+		"name": "João",
+    "date": "90 A.D.",
+    "author": "João",
+    "content": {
+      "p1": {
+        "thumb": "Características da Carta",
+        "text": ["Esta é uma carta muito pessoal, dirigida a Gaio. Seu foco é um problema eclesiástico quanto a mestres itinerantes. Gaio lhes oferecera hospitalidade, ao passo que Diótrefes, líder autoritário de uma das igrejas, recusara-se a recebê-los. João excerce autoridade apostólica em sua repreensão a Diótrefes (3 Jo 1:10). Demétrio, que pode ele mesmo ter sido um mestre itinerante, provavelmente foi o portador da carta a Gaio."]
+      }
+    }
+  },
+  "jd": {
+    "regard": "Introdução à carta de",
+		"name": "Judas",
+    "date": "70-80 A.D.",
+    "author": "Judas",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": [
+          "Judas se identificou como irmão de Tiago (v. 1), o líder da igreja em Jerusalém (At 15) e meio irmão do Senhor Jesus. Judas é alistado entre os meios irmãos de Jesus em Mt 13:55 e Mc 6:3. Embora, por sua própria declaração, ele pretendesse escrever um tratado sobre a salvação, circunstâncias prementes exigiram que ele tratasse do problema dos falsos mestres (v. 3)."
+        ]
+      },
+      "p2": {
+        "thumb": "Propósito",
+        "text": [
+          "Esta carta foi escrita para defender a fé apostólica contra falsos ensinos que surgiram nas igrejas. Avanços alarmantes estavam sendo feitos por uma forma incipiente de gnosticismo — não do tipo ascético, atacado por Paulo na epístola aos Colossenses, mas do tipo antinomiano. Os gnósticos consideravam tudo que fosse material como intrinsecamente mau e tudo que fosse espiritual como bom. Por isso, cultivavam suas vidas \"espirituais\" e permitiam que sua carne fizesse qualquer coisa que quisesse; como resultado, eram culpados de todo tipo de iniqüidade. (Veja \"Gnosticismo\" na introdução a 1 João.)"
+        ]
+      },
+      "p3": {
+        "thumb": "Citações Extrabíblicas",
+        "text": [
+          "Nos versículos 14 e 15, Judas cita o apocalipse pseudepigráfico de 1 Enoque e no versículo 9 faz uma alusão a outro livro pseudepigráfico, A Ascensão de Moisés. Isto não significa que Judas considerasse tais obras inspiradas como as Escrituras canônicas. Paulo citou poetas pagãos, sem que isso implicasse inspiração divina para tais profetas (At 17:28; 1Co 15:33; Tt 1:12)."
+        ]
+      },
+      "p4": {
+        "thumb": "Destinatários",
+        "text": [
+          "Os leitores não são identificados, mas sabemos que estavam sendo acossados por falsos mestres que eram imorais, cobiçosos, orgulhosos e facciosos."
+        ]
+      },
+      "p5": {
+        "thumb": "Conteúdo",
+        "text": [
+          "Condenando os hereges de maneira bem enfática, Judas exorta seus leitores a batalharem \"diligentemente pela fé\" (v. 3)."
+        ]
+      }
+    }
+  },
+  "ap": {
+    "regard": "Introdução ao livro de",
+		"name": "Apocalipse de João",
+    "date": "90 A.D.",
+    "author": "João",
+    "content": {
+      "p1": {
+        "thumb": "Autoria",
+        "text": ["De acordo com o próprio livro, o nome de seu autor era João (Ap 1:4, 9; 22:8), um profeta (Ap 22:9). Tradicionalmente este João tem sido identificado com João, o apóstolo, filho de Zebedeu (veja a Introdução de 1 João). O fato de o estilo do Apocalipse ser diferente do estilo do Evangelho e das epístolas de João não prova que seu autor tenha sido outra pessoa. A natureza da literatura apocalíptica, o fato de esta revelação ter sido dada numa visão, e as circunstâncias de João como prisioneiro são suficientes para explicar as diferenças de estilo."]
+      },
+      "p2": {
+        "thumb": "Data",
+        "text": ["Claramente o livro do Apocalipse foi escrito num período em que os cristãos estavam sendo ameaçados por Roma, sem dúvida sob a pressão para renunciarem à sua fé e aceitarem o culto ao imperador. Alguns afirmam que o livro foi escrito durante a perseguição promovida por Nero depois do incêndio de Roma em 64 A.D. É mais provável, contudo, uma data durante o reinado cruel de Domiciano, uma personalidade corrupta e malévola (81-96 A.D.). Esta data mais recente para o livro era sustentada por antigos escritores cristãos como Irineu (c. 130-200 A.D.), e concorda melhor com o quadro de complacência e de deserção das igrejas nos capítulos 2 e 3. Esta datação é amplamente aceita por modernos estudiosos do livro."
+      ]
+      },
+      "p3":{
+        "thumb":"Interpretação",
+        "text":["Há quatro posições principais quanto à interpretação deste livro: (1) a preterista, que afirma que as profecias do livro foram cumpridas nos primeiros séculos da história da Igreja; (2) a histórica, que vê o livro como um panorama do desenrolar da história da Igreja, dos dias de João até o final dos tempos; (3) a idealista, que considera o livro uma representação figurativa dos grandes princípios do Bem e do Mal em constante conflito, sem referência a qualquer evento histórico; e (4) a futurista, que entende a maior parte do livro (Ap 4 — 22) como profecia ainda a ser cumprida. A posição futurista é adotada nestas notas, com base no princípio de interpretação normal do texto, isto é, ao pé da letra.",
+        "O livro é uma revelação, ou apocalipse (Ap 1:1) e, como tal, espera-se que seja entendido. Grande parte do seu conteúdo é assustadoramente claro. Alguns símbolos são explicados (Ap 1:20; 17:1, 15-18), outros não. É sempre importante notar cuidadosamente as palavras \"como\" e \"semelhante\" (Ap 6:1; 9:7), pois estas palavras indicam uma comparação, não uma idetificação."
+      ]
+      },
+      "p4":{
+        "thumb":"Conteúdo",
+        "text":["Esta é a revelação de Jesus Cristo, e Ele é o centro de todo o livro (Ap 1:1). Em Sua glória como o ressuscitado (Ap 1) Ele dirige Suas Igrejas na Terra (Ap 2 — 3). Ele é o Cordeiro morto e ressurreto a quem todo o louvor é dirigido (Ap 4 — 5). OS julgamentos do período vindouro da Tribulação(7 anos) sobre a Terra são a demonstração da ira do Cordeiro (Ap 6 — 19; veja especialmente 6:16-17). O retorno de Cristo à Terra é descrito em 19:11-21. O reino milenar de Cristo é apresentado no capítulo 20, e os novos céus e a nova Terra são descritos nos capítulos 21 e 22.",
+        "O esboço do livro é apresentado em Ap 1:19. \"As coisas que viste\" se referem à visão que João tivera do Cristo ressurreto no capítulo 1. \"As coisas que são\" compreendem as cartas às sete igrejas da Ásia nos capítulos 2 e 3. \"As coisas que hão de acontecer depois destas\" são as profecias dos capítulos 4 a 22."]
+      }
+    }
+  }
+}

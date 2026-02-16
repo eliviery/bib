@@ -1,5 +1,14 @@
 'use strict';
 
+/* NÃO ESQUECER
+- Migration
+  - Para criar Tabelas
+    `yarn sequelize migration:create --name=aqui-o-nome-da-migration`
+    > Essa migration já está criada.
+  - Executar migration anterior
+    > `yarn sequelize db:migrate`
+*/
+
 /**
  * @description Added to be handled through sequelize-cli as a Global Dependency (npm add sequelize -D at command line)
  * @constant version gets {static:function, dinamic:[aa.js, acf.js, ... geter.js]}
@@ -29,7 +38,7 @@ module.exports = {
 		for (let i in data) {
 			for (let j = 1; j <= data[i][1]; j++) { // data[i][1] = [abrev_Book_name, Its_size]
 
-				await queryInterface.createTable(`${data[i][0]}`, { // createTable('abrev_Book_name')
+				await queryInterface.createTable(`${data[i][0]}`, { // createTable('abbrev_Book_name')
 			  		id: {
 						type: Sequelize.INTEGER,
 						primaryKey: true,
@@ -64,8 +73,9 @@ module.exports = {
 				});
 			} // End j loop
 		} // End i loop
-		console.log(`Migration to ${version.dinamic} done.`);
+		
 		console.log(data);
+		console.log(`Migration to ${version.dinamic} done.`);
 	},
 
 	down: async (queryInterface, Sequelize) => {
